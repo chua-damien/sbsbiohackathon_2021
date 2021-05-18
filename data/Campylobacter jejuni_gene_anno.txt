@@ -1,0 +1,2002 @@
+AHY39701	Methyl-accepting chemotaxis protein (MCP) signalling domain
+AHY39701	Chemoreceptor zinc-binding domain
+AHY39463	GTP cyclohydrolase I
+AHY39548	Survival protein SurE
+AHY39349	Cysteine-rich domain
+AHY39349	Cysteine-rich domain
+AHY39970	TonB dependent receptor
+AHY39970	TonB-dependent Receptor Plug Domain
+AHY40033	Elongation factor Tu GTP binding domain
+AHY40033	Elongation factor G, domain IV
+AHY40033	Elongation factor G C-terminus
+AHY40033	Elongation Factor G, domain II
+AHY40890	Ribosomal protein L23
+AHY39661	Shikimate 5'-dehydrogenase C-terminal domain
+AHY39661	Shikimate / quinate 5-dehydrogenase
+AHY39661	Shikimate dehydrogenase substrate binding domain
+AHY39440	Iron/manganese superoxide dismutases, alpha-hairpin domain
+AHY39440	Iron/manganese superoxide dismutases, C-terminal domain
+AHY40125	Pyridoxal-phosphate dependent enzyme
+AHY40463	DnaJ C terminal domain
+AHY40463	DnaJ domain
+AHY40463	DnaJ central domain
+AHY40020	Peptidase M16 inactive domain
+AHY40020	Insulinase (Peptidase family M16)
+AHY40907	QueF-like protein
+AHY40621	Glycosyl transferase family 2
+AHY39711	Radical SAM superfamily
+AHY39711	Uncharacterized protein family UPF0004
+AHY39711	TRAM domain
+AHY39712	HP0268
+AHY39942	tRNA (Guanine-1)-methyltransferase
+AHY40349	DegT/DnrJ/EryC1/StrS aminotransferase family
+AHY40025	NAD synthase
+AHY39625	IG-like fold at C-terminal of FixG, putative oxidoreductase
+AHY39625	4Fe-4S binding domain
+AHY39625	4Fe-4S dicluster domain
+AHY39414	ABC transporter
+AHY39442	ABC transporter
+AHY40440	Putative S-adenosyl-L-methionine-dependent methyltransferase
+AHY40889	Ribosomal Proteins L2, RNA binding domain
+AHY40889	Ribosomal Proteins L2, C-terminal domain
+AHY40206	Bacterial regulatory helix-turn-helix protein, lysR family
+AHY40206	LysR substrate binding domain
+AHY40875	Ribosomal protein S5, C-terminal domain
+AHY40875	Ribosomal protein S5, N-terminal domain
+AHY40883	Ribosomal protein S17
+AHY40680	Sodium:solute symporter family
+AHY39784	Porphobilinogen deaminase, dipyromethane cofactor binding domain
+AHY39784	Porphobilinogen deaminase, C-terminal domain
+AHY40310	GHMP kinases N terminal domain
+AHY40332	Glycosyltransferase Family 4
+AHY40332	Glycosyl transferases group 1
+AHY40710	Nucleotidyl transferase
+AHY40425	TCP-1/cpn60 chaperonin family
+AHY39884	haloacid dehalogenase-like hydrolase
+AHY39839	MOSC domain
+AHY39838	Sodium:neurotransmitter symporter family
+AHY39838	Sodium:neurotransmitter symporter family
+AHY39759	CrcB-like protein, Camphor Resistance (CrcB)
+AHY40350	Protein of unknown function (DUF2972)
+AHY39443	Binding-protein-dependent transport system inner membrane component
+AHY39290	Dehydratase family
+AHY39957	Esterase-like activity of phytase
+AHY39643	Shikimate kinase
+AHY40257	Sir2 family
+AHY39380	ATP synthase alpha/beta family, beta-barrel domain
+AHY39380	ATP synthase alpha/beta family, nucleotide-binding domain
+AHY40003	Probable RNA and SrmB- binding site of polymerase A
+AHY40003	Poly A polymerase head domain
+AHY39559	Protein of unknown function (DUF452)
+AHY40834	YHS domain
+AHY40834	Predicted membrane protein (DUF2318)
+AHY40105	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+AHY40105	ACT domain
+AHY40105	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+AHY39364	Peptidoglycan-synthase activator LpoB
+AHY40439	Peptidase family M23
+AHY40823	ABC-type transport auxiliary lipoprotein component
+AHY40168	Tellurite resistance protein TerB
+AHY40168	DnaJ domain
+AHY40064	Molybdopterin guanine dinucleotide synthesis protein B
+AHY40144	Argininosuccinate lyase C-terminal
+AHY40144	Lyase
+AHY40300	Preprotein translocase subunit
+AHY39978	Arginine decarboxylase helical bundle domain
+AHY39978	Arginine decarboxylase C-terminal helical extension
+AHY39978	Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+AHY40678	Sulphur transport
+AHY40678	Sulphur transport
+AHY40842	ParE toxin of type II toxin-antitoxin system, parDE
+AHY39774	4Fe-4S dicluster domain
+AHY40225	Periplasmic binding protein
+AHY39670	Gluconate 2-dehydrogenase subunit 3
+AHY39527	SPFH domain / Band 7 family
+AHY39312	Uncharacterized protein conserved in bacteria (DUF2130)
+AHY40695	ThiS family
+AHY39664	Succinate dehydrogenase/Fumarate reductase transmembrane subunit
+AHY40162	Porphyromonas-type peptidyl-arginine deiminase
+AHY40567	MlaA lipoprotein
+AHY39856	MatE
+AHY39856	MatE
+AHY40054	tRNA (Uracil-5-)-methyltransferase
+AHY40744	NADH dehydrogenase
+AHY39327	tRNA methyl transferase
+AHY40269	tRNA synthetases class I (I, L, M and V)
+AHY40269	Anticodon-binding domain of tRNA
+AHY40550	Periplasmic binding protein
+AHY39374	HTH domain found in ParB protein
+AHY39374	ParB-like nuclease domain
+AHY39861	HupF/HypC family
+AHY40553	NapC/NirT cytochrome c family, N-terminal region
+AHY39984	NLPA lipoprotein
+AHY40360	Cytochrome c
+AHY40010	Mur ligase middle domain
+AHY40801	Domain of unknown function (DUF4261)
+AHY40356	SIS domain
+AHY39517	Prokaryotic diacylglycerol kinase
+AHY40303	Sodium:dicarboxylate symporter family
+AHY39508	HDOD domain
+AHY40233	LPP20 lipoprotein
+AHY40635	Uncharacterized protein family UPF0004
+AHY40635	Radical SAM superfamily
+AHY39593	Inosine-uridine preferring nucleoside hydrolase
+AHY40188	Peptidase family M20/M25/M40
+AHY40686	FdhD/NarQ family
+AHY39997	Nitrate reductase cytochrome c-type subunit (NapB)
+AHY40719	Flavodoxin-like fold
+AHY40586	Adenylosuccinate lyase C-terminus
+AHY40298	Protein export membrane protein
+AHY40298	SecD/SecF GG Motif
+AHY39816	mttA/Hcf106 family
+AHY39883	Sporulation related domain
+AHY39883	Lytic transglycolase
+AHY40739	Proton-conducting membrane transporter
+AHY40606	Nucleotidyl transferase
+AHY39381	ATP synthase, Delta/Epsilon chain, beta-sandwich domain
+AHY39760	Hsp90 protein
+AHY39760	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AHY40265	Exonuclease VII small subunit
+AHY39792	Protein of unknown function (DUF979)
+AHY40480	ABC transporter
+AHY40380	Arginyl tRNA synthetase N terminal domain
+AHY40380	DALR anticodon binding domain
+AHY40380	tRNA synthetases class I (R)
+AHY40807	Thiamine biosynthesis protein (ThiI)
+AHY40807	NFACT protein RNA binding domain
+AHY40574	Elongation factor SelB, winged helix
+AHY40574	Elongation factor Tu GTP binding domain
+AHY39961	ABC transporter
+AHY39961	TOBE domain
+AHY39465	Glutamine amidotransferase domain
+AHY39465	Phosphoribosyl transferase domain
+AHY40623	Protein of unknown function (DUF2972)
+AHY39724	Ribosomal protein L33
+AHY39753	Peptidase family S41
+AHY39753	PDZ domain
+AHY40078	Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain
+AHY40078	Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain
+AHY40426	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AHY39704	Ribulose-phosphate 3 epimerase family
+AHY40063	Fructose-1-6-bisphosphatase, N-terminal domain
+AHY39827	Methyltransferase domain
+AHY39778	Domain of unknown function (DUF2018)
+AHY40383	Bacterial export proteins, family 1
+AHY39656	Ferric uptake regulator family
+AHY40358	NAD dependent epimerase/dehydratase family
+AHY39319	Flagella basal body rod protein
+AHY39319	Flagellar basal body rod FlgEFG protein C-terminal
+AHY39691	Enoyl-(Acyl carrier protein) reductase
+AHY39689	Phospho-N-acetylmuramoyl-pentapeptide-transferase signature 1
+AHY39689	Glycosyl transferase family 4
+AHY40877	Ribosomal protein L6
+AHY40877	Ribosomal protein L6
+AHY39916	GcpE protein
+AHY39798	Pyridine nucleotide-disulphide oxidoreductase
+AHY40633	Etoposide-induced protein 2.4 (EI24)
+AHY39621	Outer membrane efflux protein
+AHY39621	Outer membrane efflux protein
+AHY40906	Outer membrane protein beta-barrel domain
+AHY40341	Nucleotidyl transferase
+AHY39958	Type I phosphodiesterase / nucleotide pyrophosphatase
+AHY39658	Serine hydroxymethyltransferase
+AHY40820	STAS domain
+AHY40820	Permease MlaE
+AHY40292	Polymer-forming cytoskeletal
+AHY40885	Ribosomal protein L16p/L10e
+AHY39284	Conserved region in glutamate synthase
+AHY39284	Glutamate synthase central domain
+AHY39284	GXGXG motif
+AHY39284	Glutamine amidotransferases class-II
+AHY40017	tRNA synthetases class I (C) catalytic domain
+AHY40017	DALR domain
+AHY40163	META domain
+AHY39310	Protein of unknown function (DUF541)
+AHY39923	MraW methylase family
+AHY40111	Aminoacyl tRNA synthetase class II, N-terminal domain
+AHY40111	tRNA synthetases class II core domain (F)
+AHY39280	DNA gyrase B
+AHY39280	Toprim domain
+AHY39280	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AHY39280	DNA gyrase B subunit, carboxyl terminus
+AHY40135	ABC transporter
+AHY39777	Pyruvate ferredoxin/flavodoxin oxidoreductase
+AHY39637	Orotidine 5'-phosphate decarboxylase / HUMPS family
+AHY40910	Cys/Met metabolism PLP-dependent enzyme
+AHY40653	Bacterial type II and III secretion system protein
+AHY40562	Glutamine amidotransferase domain
+AHY40562	SIS domain
+AHY40562	SIS domain
+AHY39832	HhH-GPD superfamily base excision DNA repair protein
+AHY39832	Iron-sulfur binding domain of endonuclease III
+AHY39659	Domain of unknown function (DUF1882)
+AHY39893	POT family
+AHY39956	Bacterial extracellular solute-binding protein
+AHY39924	SurA N-terminal domain
+AHY39924	PPIC-type PPIASE domain
+AHY39494	Phosphoribosyl transferase domain
+AHY40515	Glutamine amidotransferase class-I
+AHY40473	Nitronate monooxygenase
+AHY40208	Histidine phosphatase superfamily (branch 1)
+AHY39776	Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+AHY40212	Radical SAM superfamily
+AHY40212	Uncharacterized protein family UPF0004
+AHY39674	HIT domain
+AHY40708	Ferritin-like domain
+AHY40228	Campylobacter major outer membrane protein
+AHY39820	DNA replication regulator
+AHY40778	Tetrahydrodipicolinate N-succinyltransferase N-terminal
+AHY40778	Hexapeptide repeat of succinyl-transferase
+AHY40778	Tetrahydrodipicolinate N-succinyltransferase middle
+AHY40430	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AHY40704	Dephospho-CoA kinase
+AHY39750	Penicillin binding protein transpeptidase domain
+AHY39750	Transglycosylase
+AHY40775	HB1, ASXL, restriction endonuclease HTH domain
+AHY39568	Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+AHY39568	Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+AHY40172	60Kd inner membrane protein
+AHY40172	YidC periplasmic domain
+AHY39917	Flagellar L-ring protein
+AHY40307	UvrD-like helicase C-terminal domain
+AHY40307	UvrD/REP helicase N-terminal domain
+AHY39729	Ribosomal protein L10
+AHY40334	Glycosyl transferases group 1
+AHY40334	Glycosyltransferase Family 4
+AHY39752	Metal-sensitive transcriptional repressor
+AHY39899	Ribosomal protein L9, N-terminal domain
+AHY39899	Ribosomal protein L9, C-terminal domain
+AHY39697	Phosphopantetheine attachment site
+AHY39913	Prokaryotic N-terminal methylation motif
+AHY39395	Dihydrouridine synthase (Dus)
+AHY39699	Acetyl co-enzyme A carboxylase carboxyltransferase alpha subunit
+AHY39733	Ribosomal protein S12/S23
+AHY40590	Enoyl-(Acyl carrier protein) reductase
+AHY39565	Ribosomal L25p family
+AHY39565	Ribosomal protein TL5, C-terminal domain
+AHY40454	Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain
+AHY40454	Phosphoribosylglycinamide synthetase, N domain
+AHY40454	Phosphoribosylglycinamide synthetase, C domain
+AHY39505	Ribosomal protein L20
+AHY40891	Ribosomal protein L4/L1 family
+AHY39587	4Fe-4S dicluster domain
+AHY40432	PDZ domain
+AHY40432	PDZ domain
+AHY40432	Trypsin-like peptidase domain
+AHY39793	Protein of unknown function (DUF2891)
+AHY40592	Phosphoglycerate kinase
+AHY39372	Biotin/lipoate A/B protein ligase family
+AHY40264	Carbon-nitrogen hydrolase
+AHY40234	DNA gyrase C-terminal domain, beta-propeller
+AHY40234	DNA gyrase C-terminal domain, beta-propeller
+AHY40234	DNA gyrase C-terminal domain, beta-propeller
+AHY40234	DNA gyrase C-terminal domain, beta-propeller
+AHY40234	DNA gyrase C-terminal domain, beta-propeller
+AHY40234	DNA gyrase C-terminal domain, beta-propeller
+AHY40234	DNA gyrase/topoisomerase IV, subunit A
+AHY40084	Glutamine amidotransferase class-I
+AHY40646	Flagellar basal body rod FlgEFG protein C-terminal
+AHY40646	Flagella basal body rod protein
+AHY40196	Family of unknown function (DUF5416)
+AHY39869	Acetohydroxy acid isomeroreductase, catalytic domain
+AHY39869	Acetohydroxy acid isomeroreductase, NADPH-binding domain
+AHY39985	NLPA lipoprotein
+AHY40223	Branched-chain amino acid transport system / permease component
+AHY40314	ATPase family associated with various cellular activities (AAA)
+AHY40314	AAA domain (Cdc48 subfamily)
+AHY40314	Clp amino terminal domain, pathogenicity island component
+AHY40314	AAA lid domain
+AHY40314	C-terminal, D2-small domain, of ClpB protein
+AHY40375	Protein of unknown function (DUF3373)
+AHY40534	Flagellin hook IN motif
+AHY40534	Flagellin hook IN motif
+AHY40534	Bacterial flagellin N-terminal helical region
+AHY40534	Bacterial flagellin C-terminal helical region
+AHY39394	Uncharacterized protein family UPF0054
+AHY40169	AIR synthase related protein, N-terminal domain
+AHY40169	AIR synthase related protein, N-terminal domain
+AHY40169	Formylglycinamide ribonucleotide amidotransferase linker domain
+AHY40169	AIR synthase related protein, C-terminal domain
+AHY40169	AIR synthase related protein, C-terminal domain
+AHY39695	Cysteine-rich domain
+AHY39695	Cysteine-rich domain
+AHY40241	DnaJ domain
+AHY39431	6-pyruvoyl tetrahydropterin synthase
+AHY40638	AIR synthase related protein, N-terminal domain
+AHY39742	Rhodanese-like domain
+AHY40829	Na+/H+ antiporter 1
+AHY39461	Clp protease
+AHY40435	TrkA-N domain
+AHY40435	Sodium/hydrogen exchanger family
+AHY40128	Thioesterase superfamily
+AHY40318	SelR domain
+AHY39915	Protein of unknown function (DUF2972)
+AHY40884	Ribosomal L29 protein
+AHY39932	Protein of unknown function (DUF3972)
+AHY40281	FliW protein
+AHY39430	Cytochrome C oxidase, cbb3-type, subunit III
+AHY39441	Saccharopine dehydrogenase C-terminal domain
+AHY39441	Saccharopine dehydrogenase NADP binding domain
+AHY39633	ATPase family associated with various cellular activities (AAA)
+AHY40598	Flagellar basal body-associated protein FliL
+AHY40471	FAD dependent oxidoreductase
+AHY40471	S-adenosyl-L-methionine-dependent methyltransferase
+AHY40252	Thiazole biosynthesis protein ThiG
+AHY39375	ATP synthase B/B' CF(0)
+AHY39448	MotA/TolQ/ExbB proton channel family
+AHY40044	FliP family
+AHY40882	Ribosomal protein L14p/L23e
+AHY40911	Flagellar basal body protein FlaE
+AHY40911	Flagellar basal body rod FlgEFG protein C-terminal
+AHY40911	Flagellin hook IN motif
+AHY40911	Flagella basal body rod protein
+AHY39521	Methyltransferase domain
+AHY40599	4'-phosphopantetheinyl transferase superfamily
+AHY40748	Respiratory-chain NADH dehydrogenase, 49 Kd subunit
+AHY40277	Single-strand binding protein family
+AHY40559	AI-2E family transporter
+AHY40319	Protein of unknown function (DUF455)
+AHY39347	LUD domain
+AHY39732	RNA polymerase Rpb1, domain 5
+AHY39732	RNA polymerase Rpb1, domain 2
+AHY39732	RNA polymerase Rpb1, domain 4
+AHY39732	RNA polymerase Rpb1, domain 3
+AHY39732	RNA polymerase Rpb1, domain 1
+AHY39510	Major Facilitator Superfamily
+AHY40024	Metallo-beta-lactamase superfamily
+AHY40159	NLPC_P60 stabilising domain, N term
+AHY40159	NlpC/P60 family
+AHY40159	SH3 domain of SH3b2 type
+AHY40159	SH3 domain (SH3b1 type)
+AHY40614	GHMP kinases C terminal
+AHY40614	GHMP kinases N terminal domain
+AHY40521	DegT/DnrJ/EryC1/StrS aminotransferase family
+AHY40636	RF-1 domain
+AHY40636	PCRF domain
+AHY40484	Cell cycle protein
+AHY39787	Flagellar hook-associated protein 2 N-terminus
+AHY39787	Flagellar hook-associated protein 2 C-terminus
+AHY39787	Flagellin hook IN motif
+AHY40887	Ribosomal protein L22p/L17e
+AHY39823	Helix-hairpin-helix motif
+AHY39823	NAD-dependent DNA ligase OB-fold domain
+AHY39823	BRCA1 C Terminus (BRCT) domain
+AHY39823	NAD-dependent DNA ligase adenylation domain
+AHY40207	Sigma-70 region 3
+AHY40207	Sigma-70 region 2
+AHY40207	Sigma-70, region 4
+AHY40207	Sigma-70 factor, region 1.2
+AHY40828	Na+/H+ antiporter 1
+AHY40492	Biotin carboxylase C-terminal domain
+AHY40492	Biotin carboxylase, N-terminal domain
+AHY40492	Carbamoyl-phosphate synthase L chain, ATP binding domain
+AHY39660	Sporulation related domain
+AHY40397	Inverse autotransporter, beta-domain
+AHY39288	Helix-hairpin-helix motif
+AHY39842	Peptidase family M20/M25/M40
+AHY39842	Peptidase dimerisation domain
+AHY39886	OstA-like protein
+AHY39313	Cytochrome c
+AHY40669	Cytochrome C and Quinol oxidase polypeptide I
+AHY39415	Zinc-uptake complex component A periplasmic
+AHY39386	OmpA family
+AHY40822	MlaD protein
+AHY39841	Polyphosphate kinase 2 (PPK2)
+AHY40798	Serine dehydratase beta chain
+AHY40798	Serine dehydratase alpha chain
+AHY40115	Binding-protein-dependent transport system inner membrane component
+AHY39432	4Fe-4S single cluster domain
+AHY40176	Acetyltransferase (GNAT) family
+AHY39640	DAHP synthetase I family
+AHY40650	Type II/IV secretion system protein
+AHY40359	Polynucleotide kinase 3 phosphatase
+AHY40461	Low molecular weight phosphotyrosine protein phosphatase
+AHY39341	Amidohydrolase family
+AHY40043	Bacterial extracellular solute-binding proteins, family 3
+AHY40005	Aminotransferase class-V
+AHY39367	Ribosomal prokaryotic L21 protein
+AHY40684	Methyl-accepting chemotaxis protein (MCP) signalling domain
+AHY40684	Cache domain
+AHY39433	4Fe-4S single cluster domain
+AHY39433	Molybdenum Cofactor Synthesis C
+AHY39433	Radical SAM superfamily
+AHY39491	Nicotinate phosphoribosyltransferase (NAPRTase) N-terminal domain
+AHY39491	Nicotinate phosphoribosyltransferase (NAPRTase) family
+AHY39619	Radical SAM superfamily
+AHY39877	OB-fold nucleic acid binding domain
+AHY39877	GAD domain
+AHY39877	tRNA synthetases class II (D, K and N)
+AHY40616	GDP-mannose 4,6 dehydratase
+AHY40768	Bacterial RNA polymerase, alpha chain C terminal domain
+AHY40768	RNA polymerase Rpb3/RpoA insert domain
+AHY40768	RNA polymerase Rpb3/Rpb11 dimerisation domain
+AHY40330	Glycosyl transferase 4-like
+AHY40330	Glycosyl transferases group 1
+AHY39948	Alanine racemase, N-terminal domain
+AHY39540	haloacid dehalogenase-like hydrolase
+AHY39977	Bacterial transferase hexapeptide (six repeats)
+AHY39817	Radical SAM superfamily
+AHY40513	Acetyltransferase (GNAT) domain
+AHY40050	tRNA pseudouridine synthase
+AHY39325	Sodium:sulfate symporter transmembrane region
+AHY39624	Bacterial regulatory proteins, tetR family
+AHY40501	Methyltransferase domain
+AHY40597	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III
+AHY40597	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I
+AHY40597	Phosphoglucomutase/phosphomannomutase, C-terminal domain
+AHY40597	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II
+AHY40587	FeoA domain
+AHY39317	Flagellar hook-length control protein FliK
+AHY40012	Antitoxin Phd_YefM, type II toxin-antitoxin system
+AHY40160	Carbon-nitrogen hydrolase
+AHY39352	Endonuclease/Exonuclease/phosphatase family
+AHY39323	Sodium:sulfate symporter transmembrane region
+AHY39897	AAA domain (Cdc48 subfamily)
+AHY39897	AAA domain (Cdc48 subfamily)
+AHY39897	C-terminal, D2-small domain, of ClpB protein
+AHY39318	FlgD Ig-like domain
+AHY39318	Flagellar hook capping protein - N-terminal region
+AHY39547	Bacterial extracellular solute-binding protein
+AHY40764	Ribosomal protein L36
+AHY39788	Flagellar protein FliS
+AHY39315	Elongation factor Tu domain 2
+AHY39315	Elongation factor Tu GTP binding domain
+AHY39315	Elongation factor G C-terminus
+AHY39727	Ribosomal protein L11, N-terminal domain
+AHY39727	Ribosomal protein L11, RNA binding domain
+AHY39734	Ribosomal protein S7p/S5e
+AHY40363	Rho termination factor, N-terminal domain
+AHY40363	Rho termination factor, RNA-binding domain
+AHY40363	ATP synthase alpha/beta family, nucleotide-binding domain
+AHY40904	HMGL-like
+AHY40904	LeuA allosteric (dimerisation) domain
+AHY40901	Aconitase C-terminal domain
+AHY39422	Aminotransferase class I and II
+AHY40414	SNARE associated Golgi protein
+AHY39457	YjeF-related protein N-terminus
+AHY39457	Carbohydrate kinase
+AHY39387	Tetratricopeptide repeat
+AHY40048	Bacterial Peptidase A24 N-terminal domain
+AHY40251	Radical SAM superfamily
+AHY40251	Biotin and Thiamin Synthesis associated domain
+AHY39282	Mo-co oxidoreductase dimerisation domain
+AHY39282	Oxidoreductase molybdopterin binding domain
+AHY40545	Phospholipase A1
+AHY39853	ABC transporter
+AHY39512	MoaC family
+AHY40546	FecCD transport family
+AHY40863	Menaquinone biosynthesis
+AHY40013	D-ala D-ala ligase N-terminus
+AHY40013	D-ala D-ala ligase C-terminus
+AHY40398	Phosphate transporter family
+AHY40388	Cytochrome c
+AHY40216	Queuine tRNA-ribosyltransferase
+AHY40511	Cytidylyltransferase
+AHY39601	chorismate binding enzyme
+AHY40816	YbaB/EbfC DNA-binding family
+AHY39291	HD domain
+AHY40581	Ankyrin repeats (many copies)
+AHY40581	Ankyrin repeats (many copies)
+AHY39747	DegT/DnrJ/EryC1/StrS aminotransferase family
+AHY40385	Elongation factor TS
+AHY40385	Elongation factor TS
+AHY39918	Phosphate acetyl/butaryl transferase
+AHY39769	Protein of unknown function
+AHY39769	AsmA-like C-terminal region
+AHY40579	Uncharacterized protein conserved in bacteria (DUF2325)
+AHY40286	Uroporphyrinogen-III synthase HemD
+AHY40874	Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A
+AHY40622	Glycosyl transferase family 8
+AHY40134	Bacterial extracellular solute-binding proteins, family 3
+AHY40692	Nitrate reductase delta subunit
+AHY39401	Surface antigen variable number repeat
+AHY39401	Surface antigen variable number repeat
+AHY39401	Surface antigen variable number repeat
+AHY39401	Surface antigen variable number repeat
+AHY39401	Surface antigen variable number repeat
+AHY39401	Surface antigen
+AHY40571	Major Facilitator Superfamily
+AHY40571	Major Facilitator Superfamily
+AHY39791	Protein of unknown function (DUF969)
+AHY39668	Dynamin family
+AHY39570	Prephenate dehydratase
+AHY39570	Chorismate mutase type II
+AHY40908	Pyridine nucleotide-disulphide oxidoreductase
+AHY39908	haloacid dehalogenase-like hydrolase
+AHY40514	Histidine biosynthesis protein
+AHY40290	Protein of unknown function (DUF815)
+AHY39449	Biopolymer transport protein ExbD/TolR
+AHY40312	AhpC/TSA family
+AHY39554	ABC transporter
+AHY39926	Tubulin/FtsZ family, GTPase domain
+AHY39926	FtsZ family, C-terminal domain
+AHY40672	Cytochrome C biogenesis protein transmembrane region
+AHY39572	Flagellar M-ring protein C-terminal
+AHY39572	Secretory protein of YscJ/FliF family
+AHY40031	Relaxase/Mobilisation nuclease domain
+AHY40214	3-dehydroquinate synthase
+AHY39436	UbiA prenyltransferase family
+AHY39476	Translation initiation factor IF-3, N-terminal domain
+AHY39476	Translation initiation factor IF-3, C-terminal domain
+AHY40244	Biotin carboxylase C-terminal domain
+AHY40244	Carbamoyl-phosphate synthase L chain, ATP binding domain
+AHY40244	Biotin carboxylase, N-terminal domain
+AHY40732	Bacterial regulatory protein, arsR family
+AHY39889	Penicillin binding protein transpeptidase domain
+AHY39889	Penicillin-binding Protein dimerisation domain
+AHY39534	C-terminal, D2-small domain, of ClpB protein
+AHY39534	ClpX C4-type zinc finger
+AHY39534	AAA domain (Cdc48 subfamily)
+AHY39360	Fumarase C C-terminus
+AHY39360	Lyase
+AHY40328	PglD N-terminal domain
+AHY40328	Bacterial transferase hexapeptide (six repeats)
+AHY40143	50S ribosome-binding GTPase
+AHY40143	Protein of unknown function (DUF933)
+AHY40347	Glycosyl transferase family 2
+AHY40061	tRNA synthetases class I (M)
+AHY40061	tRNA synthetases class I (I, L, M and V)
+AHY40061	Putative tRNA binding domain
+AHY39563	Small Multidrug Resistance protein
+AHY39535	MreB/Mbl protein
+AHY39642	KH-domain-like of EngA bacterial GTPase enzymes, C-terminal
+AHY39642	50S ribosome-binding GTPase
+AHY39642	50S ribosome-binding GTPase
+AHY40769	Ribosomal protein L17
+AHY39812	ACT domain
+AHY39812	Small subunit of acetolactate synthase
+AHY39693	Fumarate reductase flavoprotein C-term
+AHY39693	FAD binding domain
+AHY40348	Glycosyl transferase family 2
+AHY39844	MacB-like periplasmic core domain
+AHY39844	FtsX-like permease family
+AHY39844	ABC transporter
+AHY39407	Protein of unknown function (DUF448)
+AHY40700	HNH endonuclease
+AHY40700	RuvC endonuclease subdomain 3
+AHY39529	Tautomerase enzyme
+AHY40535	Protein of unknown function DUF115
+AHY40034	Cysteine-rich KTR
+AHY40177	Uracil DNA glycosylase superfamily
+AHY40726	Fic/DOC family N-terminal
+AHY40726	Fic/DOC family
+AHY40217	CorA-like Mg2+ transporter protein
+AHY39768	YceG-like family
+AHY39873	16S rRNA methyltransferase RsmB/F
+AHY39564	Small Multidrug Resistance protein
+AHY40759	ABC transporter
+AHY40759	ABC transporter transmembrane region
+AHY39409	Ribosome-binding factor A
+AHY40667	Cbb3-type cytochrome oxidase component FixQ
+AHY40438	Glycyl-tRNA synthetase beta subunit
+AHY40530	Enoyl-(Acyl carrier protein) reductase
+AHY39399	Acetyl-coA carboxylase zinc finger domain
+AHY39399	Carboxyl transferase domain
+AHY39638	NusB family
+AHY39919	Acetokinase family
+AHY39426	Tetrapyrrole (Corrin/Porphyrin) Methylases
+AHY40665	Family of unknown function (DUF4006)
+AHY40634	PP-loop family
+AHY40342	GDP-mannose 4,6 dehydratase
+AHY39999	NapD protein
+AHY40271	Acetyltransferase (GNAT) family
+AHY39898	Proteasome subunit
+AHY40393	PAS fold
+AHY40872	Major Facilitator Superfamily
+AHY40872	Major Facilitator Superfamily
+AHY40344	WxcM-like, C-terminal
+AHY40006	Archaea bacterial proteins of unknown function
+AHY40386	Ribosomal protein S2
+AHY40448	Radical SAM superfamily
+AHY40448	4Fe-4S single cluster domain
+AHY40609	Methyltransferase domain
+AHY39781	Glutamyl-tRNAGlu reductase, N-terminal domain
+AHY39781	Glutamyl-tRNAGlu reductase, dimerisation domain
+AHY39781	Shikimate / quinate 5-dehydrogenase
+AHY40455	RDD family
+AHY39419	Thioredoxin
+AHY39669	Sel1 repeat
+AHY39669	Sel1 repeat
+AHY39669	Sel1 repeat
+AHY39994	Molydopterin dinucleotide binding domain
+AHY39994	Molybdopterin oxidoreductase Fe4S4 domain
+AHY39994	Molybdopterin oxidoreductase
+AHY40112	HIT domain
+AHY39351	Cytolethal distending toxin A/C domain
+AHY40327	DegT/DnrJ/EryC1/StrS aminotransferase family
+AHY40685	Bacterial regulatory helix-turn-helix protein, lysR family
+AHY40173	Putative membrane protein insertion efficiency factor
+AHY40892	Ribosomal protein L3
+AHY39783	FxsA cytoplasmic membrane protein
+AHY39973	Hsp70 protein
+AHY39613	Glycerol-3-phosphate acyltransferase
+AHY40147	Sodium:neurotransmitter symporter family
+AHY40147	Sodium:neurotransmitter symporter family
+AHY40199	Protein of unknown function (DUF2603)
+AHY40124	SCO1/SenC
+AHY39770	Monomeric isocitrate dehydrogenase
+AHY39808	WYL domain
+AHY39808	HTH domain
+AHY40136	CheR methyltransferase, all-alpha domain
+AHY40136	CheR methyltransferase, SAM binding domain
+AHY40666	N-terminal domain of cytochrome oxidase-cbb3, FixP
+AHY40666	Cytochrome C oxidase, cbb3-type, subunit III
+AHY40666	Cytochrome C oxidase, cbb3-type, subunit III
+AHY40067	YGGT family
+AHY40291	CarD-like/TRCF domain
+AHY40291	Helicase conserved C-terminal domain
+AHY40291	UvrB interaction domain
+AHY40291	DEAD/DEAH box helicase
+AHY40291	TRCF domain
+AHY40119	Alanine racemase, N-terminal domain
+AHY40119	Alanine racemase, C-terminal domain
+AHY40333	Glycosyl transferase family 2
+AHY39991	UvrD/REP helicase N-terminal domain
+AHY39991	UvrD-like helicase C-terminal domain
+AHY40245	Cell cycle protein
+AHY40770	ATP phosphoribosyltransferase
+AHY40770	HisG, C-terminal domain
+AHY39487	Amino acid kinase family
+AHY39531	Epoxyqueuosine reductase QueH
+AHY40304	Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain
+AHY40304	Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain
+AHY40192	Peroxide stress protein YaaA
+AHY39722	ABC transporter
+AHY39582	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+AHY39582	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+AHY40443	Pyridoxal phosphate biosynthetic protein PdxA
+AHY40531	Protein of unknown function DUF115
+AHY39775	Pyruvate:ferredoxin oxidoreductase core domain II
+AHY39775	Pyruvate flavodoxin/ferredoxin oxidoreductase, thiamine diP-bdg
+AHY40080	MoeA N-terminal region (domain I and II)
+AHY40080	Probable molybdopterin binding domain
+AHY40337	Predicted 3'-5' exonuclease related to the exonuclease domain of PolB
+AHY39617	Signal peptidase (SPase) II
+AHY40019	Dihydroorotate dehydrogenase
+AHY40299	Protein export membrane protein
+AHY40862	recA bacterial DNA recombination protein
+AHY40431	Response regulator receiver domain
+AHY40431	Transcriptional regulatory protein, C terminal
+AHY40459	Protein of unknown function (DUF4230)
+AHY40230	Semialdehyde dehydrogenase, dimerisation domain
+AHY40230	Semialdehyde dehydrogenase, NAD binding domain
+AHY40724	AAA domain
+AHY39955	CorA-like Mg2+ transporter protein
+AHY40321	Phosphatidylserine decarboxylase
+AHY40086	Phage integrase family
+AHY40086	Phage integrase SAM-like domain
+AHY39373	AAA domain
+AHY39870	Divergent polysaccharide deacetylase
+AHY40047	Putative undecaprenyl diphosphate synthase
+AHY40497	Domain of unknown function (DUF4910)
+AHY39745	Ferrochelatase
+AHY40713	Binding-protein-dependent transport system inner membrane component
+AHY40649	Type II secretion system (T2SS), protein F
+AHY40649	Type II secretion system (T2SS), protein F
+AHY40583	Endoribonuclease L-PSP
+AHY39755	Phosphoribosylformylglycinamidine (FGAM) synthase
+AHY40755	Binding-protein-dependent transport system inner membrane component
+AHY40582	HTH domain
+AHY40582	YheO-like PAS domain
+AHY40382	Guanylate kinase
+AHY39748	DHHA1 domain
+AHY39748	tRNA synthetases class II (A)
+AHY39748	Threonyl and Alanyl tRNA synthetase second additional domain
+AHY39646	Tetratricopeptide repeat
+AHY40311	SmpB protein
+AHY40262	Mur ligase family, glutamate ligase domain
+AHY40262	Mur ligase middle domain
+AHY40262	Mur ligase family, catalytic domain
+AHY39902	S4 domain
+AHY39941	PRC-barrel domain
+AHY39941	RimM N-terminal domain
+AHY39369	GTP1/OBG
+AHY39369	50S ribosome-binding GTPase
+AHY40142	Cytosol aminopeptidase family, catalytic domain
+AHY40543	Fibronectin-binding protein A N-terminus (FbpA)
+AHY40543	NFACT protein RNA binding domain
+AHY40543	NFACT protein RNA binding domain
+AHY40788	FecCD transport family
+AHY39818	NUDIX domain
+AHY40722	Alcohol dehydrogenase GroES-like domain
+AHY40722	Zinc-binding dehydrogenase
+AHY40743	4Fe-4S dicluster domain
+AHY40059	6-O-methylguanine DNA methyltransferase, DNA binding domain
+AHY40487	Menaquinone biosynthesis
+AHY40533	Bacterial flagellin C-terminal helical region
+AHY40533	Flagellin hook IN motif
+AHY40533	Flagellin hook IN motif
+AHY40533	Bacterial flagellin N-terminal helical region
+AHY39348	Domain of unknown function (DUF3390)
+AHY39348	LUD domain
+AHY39348	4Fe-4S dicluster domain
+AHY40611	Protein of unknown function (DUF2972)
+AHY40847	AAA domain
+AHY40610	Methyltransferase domain
+AHY40263	Sulfatase
+AHY39460	Polypeptide deformylase
+AHY40895	Ribonuclease J C-terminal domain
+AHY40895	Zn-dependent metallo-hydrolase RNA specificity domain
+AHY40895	Metallo-beta-lactamase superfamily
+AHY39896	50S ribosome-binding GTPase
+AHY39896	KH domain
+AHY39876	Adenylate kinase
+AHY39850	PBP superfamily domain
+AHY40632	dUTPase
+AHY40608	Pyruvate phosphate dikinase, PEP/pyruvate binding domain
+AHY40608	PEP-utilising enzyme, mobile domain
+AHY39954	Probable molybdopterin binding domain
+AHY39980	Thymidylate kinase
+AHY40021	Dihydrodipicolinate synthetase family
+AHY40478	Peptidase family M23
+AHY40457	KH domain
+AHY40457	Polyribonucleotide nucleotidyltransferase, RNA binding domain
+AHY40457	3' exoribonuclease family, domain 2
+AHY40457	3' exoribonuclease family, domain 2
+AHY40457	S1 RNA binding domain
+AHY40457	3' exoribonuclease family, domain 1
+AHY40457	3' exoribonuclease family, domain 1
+AHY40714	PBP superfamily domain
+AHY39603	N-(5'phosphoribosyl)anthranilate (PRA) isomerase
+AHY40756	Bacterial extracellular solute-binding proteins, family 5 Middle
+AHY40371	Putative threonine/serine exporter
+AHY40504	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+AHY40504	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+AHY40427	Transcriptional regulatory protein, C terminal
+AHY40427	Response regulator receiver domain
+AHY39340	Dehydroquinase class II
+AHY39492	Ribonucleotide reductase, small chain
+AHY39536	rod shape-determining protein MreC
+AHY40771	Histidinol dehydrogenase
+AHY40787	TonB-dependent Receptor Plug Domain
+AHY40787	TonB dependent receptor
+AHY40554	Polyphosphate kinase C-terminal domain 1
+AHY40554	Polyphosphate kinase C-terminal domain 2
+AHY40554	Polyphosphate kinase N-terminal domain
+AHY40554	Polyphosphate kinase middle domain
+AHY39477	D12 class N6 adenine-specific DNA methyltransferase
+AHY39716	Peptidase M16 inactive domain
+AHY40320	CDP-alcohol phosphatidyltransferase
+AHY40760	Major Facilitator Superfamily
+AHY40880	Ribosomal protein L5
+AHY40880	ribosomal L5P family C-terminus
+AHY39499	Mechanosensitive ion channel
+AHY39821	DNA polymerase III, delta subunit
+AHY39578	ubiE/COQ5 methyltransferase family
+AHY40137	CheB methylesterase
+AHY39392	Isochorismatase family
+AHY40296	Lipopolysaccharide-assembly
+AHY39887	50S ribosome-binding GTPase
+AHY39451	SbmA/BacA-like family
+AHY39451	SbmA/BacA-like family
+AHY40156	Outer membrane lipoprotein carrier protein LolA
+AHY40491	SurA N-terminal domain
+AHY40498	winged helix-turn-helix
+AHY40498	Domain of unknown function (DUF2172)
+AHY40498	Domain of unknown function (DUF4910)
+AHY39532	FabA-like domain
+AHY39738	Putative zinc- or iron-chelating domain
+AHY39795	Amidohydrolase
+AHY39935	C4-type zinc ribbon domain
+AHY40131	N-terminal domain of ribose phosphate pyrophosphokinase
+AHY40131	Phosphoribosyl synthetase-associated domain
+AHY39569	HAD-hyrolase-like
+AHY39569	Haloacid dehalogenase-like hydrolase
+AHY39892	POT family
+AHY39523	ZIP Zinc transporter
+AHY40785	PCRF domain
+AHY40785	RF-1 domain
+AHY39416	Cache domain
+AHY39416	Methyl-accepting chemotaxis protein (MCP) signalling domain
+AHY39558	Methyltransferase domain
+AHY39835	MotA/TolQ/ExbB proton channel family
+AHY40406	Methylenetetrahydrofolate reductase
+AHY40249	Helix-turn-helix domain
+AHY39354	Domain of unknown function (DUF4492)
+AHY39815	Sec-independent protein translocase protein (TatC)
+AHY39989	tRNA synthetases class I (I, L, M and V)
+AHY39989	Valyl tRNA synthetase tRNA binding arm
+AHY39989	Anticodon-binding domain of tRNA
+AHY40639	Family of unknown function (DUF5644)
+AHY39279	DNA polymerase III beta subunit, N-terminal domain
+AHY39279	DNA polymerase III beta subunit, central domain
+AHY39279	DNA polymerase III beta subunit, C-terminal domain
+AHY40339	Bacterial lipid A biosynthesis acyltransferase
+AHY39594	SNARE associated Golgi protein
+AHY40203	rRNA small subunit methyltransferase G
+AHY39397	Prokaryotic dksA/traR C4-type zinc finger
+AHY39427	Ribosomal protein L31
+AHY40387	Mycolic acid cyclopropane synthetase
+AHY39334	Type III flagellar switch regulator (C-ring) FliN C-term
+AHY39334	Flagellar motor switch protein FliM
+AHY40018	ABC transporter
+AHY40018	ABC transporter transmembrane region
+AHY40273	CDP-alcohol phosphatidyltransferase
+AHY40486	TrkA-N domain
+AHY39710	Domain of unknown function (DUF374)
+AHY39754	SAICAR synthetase
+AHY39502	Hemerythrin HHE cation binding domain
+AHY39501	Aminotransferase class-V
+AHY39960	Binding-protein-dependent transport system inner membrane component
+AHY39763	Na+/Pi-cotransporter
+AHY40727	N-6 DNA Methylase
+AHY40727	HsdM N-terminal domain
+AHY39524	Cache domain
+AHY40104	Transcriptional regulatory protein, C terminal
+AHY40104	Response regulator receiver domain
+AHY39799	MatE
+AHY39799	MatE
+AHY39782	Aminoacyl-tRNA editing domain
+AHY39782	Anticodon binding domain
+AHY39782	tRNA synthetase class II core domain (G, H, P, S and T)
+AHY39771	lactate/malate dehydrogenase, NAD binding domain
+AHY39771	lactate/malate dehydrogenase, alpha/beta C-terminal domain
+AHY40549	ABC transporter
+AHY39496	Preprotein translocase SecG subunit
+AHY40226	Periplasmic binding protein
+AHY40154	FtsX-like permease family
+AHY39851	Binding-protein-dependent transport system inner membrane component
+AHY39728	Ribosomal protein L1p/L10e family
+AHY40158	PIF1-like helicase
+AHY40158	Helicase
+AHY40355	Glycosyltransferase family 9 (heptosyltransferase)
+AHY40070	Phosphatidylserine decarboxylase
+AHY40903	Isocitrate/isopropylmalate dehydrogenase
+AHY39363	Protein of unknown function (DUF1425)
+AHY39575	Transketolase, C-terminal domain
+AHY39575	1-deoxy-D-xylulose-5-phosphate synthase
+AHY39575	Transketolase, pyrimidine binding domain
+AHY39706	Radical SAM ThiC family
+AHY39648	Pyruvate kinase, alpha/beta domain
+AHY39648	Pyruvate kinase, barrel domain
+AHY40210	Putative beta-lactamase-inhibitor-like, PepSY-like
+AHY40231	Response regulator receiver domain
+AHY40231	Bacterial regulatory protein, Fis family
+AHY40231	Sigma-54 interaction domain
+AHY40313	ATP-dependent Clp protease adaptor protein ClpS
+AHY40624	Glycosyltransferase like family 2
+AHY40624	Capsule polysaccharide biosynthesis protein
+AHY40272	Nitroreductase family
+AHY39295	Methyl-accepting chemotaxis protein (MCP) signalling domain
+AHY39311	Major Facilitator Superfamily
+AHY39939	Ribosomal protein S16
+AHY39591	MotA/TolQ/ExbB proton channel family
+AHY40604	Capsule polysaccharide biosynthesis protein
+AHY40604	Capsule polysaccharide biosynthesis protein
+AHY40004	Formyl transferase
+AHY40361	Cytochrome oxidase maturation protein cbb3-type
+AHY40326	Polysaccharide biosynthesis protein
+AHY40412	5-formyltetrahydrofolate cyclo-ligase family
+AHY40683	Sulfurtransferase TusA
+AHY40698	CRISPR associated protein Cas2
+AHY40774	Histidine biosynthesis protein
+AHY40605	Adenylylsulphate kinase
+AHY39525	Protein of unknown function (DUF2393)
+AHY40858	ATP dependent DNA ligase domain
+AHY40858	DNA ligase OB-like domain
+AHY39654	Glu-tRNAGln amidotransferase C subunit
+AHY40351	Glycosyltransferase family 25 (LPS biosynthesis protein)
+AHY39300	Ribonucleotide reductase, barrel domain
+AHY39300	Ribonucleotide reductase, all-alpha domain
+AHY39300	ATP cone domain
+AHY39726	Transcription termination factor nusG
+AHY40352	Capsular polysaccharide synthesis protein
+AHY39904	ABC transporter
+AHY40069	Calcineurin-like phosphoesterase
+AHY40693	Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+AHY39872	Holliday junction resolvase
+AHY39982	Flavoprotein
+AHY39303	Glutamine amidotransferase class-I
+AHY39303	CTP synthase N-terminus
+AHY39785	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+AHY39454	PhnA domain
+AHY39320	Flagellar Assembly Protein A
+AHY40324	Response regulator receiver domain
+AHY40289	HhH-GPD superfamily base excision DNA repair protein
+AHY39545	Transcription elongation factor, GreA/GreB, C-term
+AHY39545	Transcription elongation factor, N-terminal
+AHY39910	Helicase conserved C-terminal domain
+AHY39910	Ultra-violet resistance protein B
+AHY39910	UvrB/uvrC motif
+AHY39910	Type III restriction enzyme, res subunit
+AHY39910	UvrB interaction domain
+AHY39671	GMC oxidoreductase
+AHY39671	GMC oxidoreductase
+AHY40402	S-Ribosylhomocysteinase (LuxS)
+AHY40588	Ferrous iron transport protein B C terminus
+AHY40588	Ferrous iron transport protein B
+AHY40588	Nucleoside recognition
+AHY40588	Nucleoside recognition
+AHY39860	CobW/HypB/UreG, nucleotide-binding domain
+AHY39945	Class-II DAHP synthetase family
+AHY40090	Cytochrome C oxidase, cbb3-type, subunit III
+AHY40648	Sulfite exporter TauE/SafE
+AHY40221	ABC transporter
+AHY40450	GIY-YIG catalytic domain
+AHY40450	UvrB/uvrC motif
+AHY40450	UvrC Helix-hairpin-helix N-terminal
+AHY39830	UPF0126 domain
+AHY39830	UPF0126 domain
+AHY40690	Molybdopterin oxidoreductase Fe4S4 domain
+AHY40690	Molybdopterin oxidoreductase
+AHY39455	Integral membrane protein TerC family
+AHY40642	Flagellar P-ring protein
+AHY40786	Protein of unknown function (DUF2470)
+AHY40786	Pyridoxamine 5'-phosphate oxidase
+AHY39470	Permuted papain-like amidase enzyme, YaeF/YiiX, C92 family
+AHY39450	Gram-negative bacterial TonB protein C-terminal
+AHY40329	Bacterial sugar transferase
+AHY40316	PAS fold
+AHY40316	Methyl-accepting chemotaxis protein (MCP) signalling domain
+AHY40316	PAS domain
+AHY39825	FtsJ-like methyltransferase
+AHY40489	Malic enzyme, NAD binding domain
+AHY40489	Malic enzyme, N-terminal domain
+AHY40898	Radical SAM superfamily
+AHY40697	Probable molybdopterin binding domain
+AHY40697	MoeA N-terminal region (domain I and II)
+AHY39933	Glycyl-tRNA synthetase alpha subunit
+AHY39393	RecO N terminal
+AHY39413	ABC 3 transport family
+AHY40416	Virulence factor BrkB
+AHY40838	Redoxin
+AHY40378	Small Multidrug Resistance protein
+AHY40777	Phosphoribosyl-ATP pyrophosphohydrolase
+AHY40777	Phosphoribosyl-AMP cyclohydrolase
+AHY39471	Domain of unknown function (DUF4878)
+AHY40246	Glycosyltransferase family 28 N-terminal domain
+AHY40246	Glycosyltransferase family 28 C-terminal domain
+AHY39516	Sulfatase
+AHY39516	Phosphoethanolamine transferase EptA/EptB
+AHY39580	Aminotransferase class-V
+AHY40057	Ankyrin repeats (many copies)
+AHY40057	Ankyrin repeats (3 copies)
+AHY40200	Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain
+AHY40200	Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain
+AHY39296	Di-haem cytochrome c peroxidase
+AHY39296	Cytochrome c
+AHY39497	Inhibitor of apoptosis-promoting Bax1
+AHY40893	Ribosomal protein S10p/S20e
+AHY39437	IPP transferase
+AHY40896	Ribosomal RNA adenine dimethylase
+AHY39626	Ribosomal protein S21
+AHY40502	Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+AHY40818	Polyprenyl synthetase
+AHY40197	4Fe-4S dicluster domain
+AHY40197	Cysteine-rich domain
+AHY40197	Cysteine-rich domain
+AHY40529	Cytidylyltransferase
+AHY40522	Bacterial transferase hexapeptide (six repeats)
+AHY40522	PglD N-terminal domain
+AHY39588	AhpC/TSA family
+AHY39588	C-terminal domain of 1-Cys peroxiredoxin
+AHY40568	MlaC protein
+AHY40580	Catalase
+AHY40580	Catalase-related immune-responsive
+AHY39809	GTP cyclohydrolase II
+AHY39809	3,4-dihydroxy-2-butanone 4-phosphate synthase
+AHY40670	Response regulator receiver domain
+AHY40670	Transcriptional regulatory protein, C terminal
+AHY39486	Acetyltransferase (GNAT) family
+AHY40575	Thioredoxin-like domain
+AHY40637	tRNA pseudouridine synthase D (TruD)
+AHY40637	tRNA pseudouridine synthase D (TruD)
+AHY39634	Ferric reductase like transmembrane component
+AHY40706	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+AHY39846	GDSL-like Lipase/Acylhydrolase
+AHY40190	Bacterial extracellular solute-binding proteins, family 3
+AHY39682	ABC transporter
+AHY39682	ABC transporter
+AHY39682	ABC transporter
+AHY40179	Thioesterase superfamily
+AHY39848	MBOAT, membrane-bound O-acyltransferase family
+AHY40309	Global regulator protein family
+AHY39995	4Fe-4S dicluster domain
+AHY39995	4Fe-4S dicluster domain
+AHY40466	Toprim domain
+AHY40466	RecR protein
+AHY39609	Ppx/GppA phosphatase family
+AHY40331	STT3/PglB C-terminal beta-barrel domain
+AHY40331	Oligosaccharyl transferase STT3 subunit
+AHY39611	Transcriptional regulatory protein, C terminal
+AHY39611	Response regulator receiver domain
+AHY40103	His Kinase A (phospho-acceptor) domain
+AHY40103	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AHY39541	CheW-like domain
+AHY39299	Adenylosuccinate lyase C-terminus
+AHY39299	Lyase
+AHY40641	Conserved hypothetical protein 95
+AHY39438	Putative manganese efflux pump
+AHY39702	Protein of unknown function (DUF465)
+AHY39379	ATP synthase
+AHY39694	2Fe-2S iron-sulfur cluster binding domain
+AHY39694	4Fe-4S dicluster domain
+AHY40779	NUBPL iron-transfer P-loop NTPase
+AHY40779	Iron-sulfur cluster assembly protein
+AHY39650	Type III pantothenate kinase
+AHY40832	Iron permease FTR1 family
+AHY40276	Ribosomal protein S6
+AHY40297	Leucyl-tRNA synthetase, Domain 2
+AHY40297	tRNA synthetases class I (M)
+AHY40297	tRNA synthetases class I (I, L, M and V)
+AHY40161	Dimerisation domain of Zinc Transporter
+AHY40161	Cation efflux family
+AHY39552	Pantoate-beta-alanine ligase
+AHY40032	Transposon-encoded protein TnpV
+AHY40118	SpoU rRNA Methylase family
+AHY39976	Aminotransferase class I and II
+AHY40408	ATP synthase A chain
+AHY39857	Protein of unknown function DUF45
+AHY39368	Ribosomal L27 protein
+AHY39592	3'-5' exonuclease
+AHY39592	5'-3' exonuclease, N-terminal resolvase-like domain
+AHY39592	5'-3' exonuclease, C-terminal SAM fold
+AHY39592	DNA polymerase family A
+AHY40394	Methyl-accepting chemotaxis protein (MCP) signalling domain
+AHY40696	MoaE protein
+AHY40174	Ribonuclease P
+AHY40201	Delta-aminolevulinic acid dehydratase
+AHY39891	POT family
+AHY39639	6,7-dimethyl-8-ribityllumazine synthase
+AHY40171	HP1451 C-terminal domain
+AHY40171	Jag N-terminus
+AHY39622	AcrB/AcrD/AcrF family
+AHY39304	RecJ OB domain
+AHY39304	DHH family
+AHY39304	DHHA1 domain
+AHY39612	Dihydroneopterin aldolase
+AHY40133	Binding-protein-dependent transport system inner membrane component
+AHY40673	Glutamine amidotransferase class-I
+AHY40673	Carbamoyl-phosphate synthase small chain, CPSase domain
+AHY39355	Cytochrome bd terminal oxidase subunit I
+AHY40399	Amidohydrolase family
+AHY40066	Transglycosylase SLT domain
+AHY40088	Disulfide bond formation protein DsbB
+AHY40483	RNA pseudouridylate synthase
+AHY40483	S4 domain
+AHY40465	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AHY39864	Hydrogenase/urease nickel incorporation, metallochaperone, hypA
+AHY40475	ACT domain
+AHY40475	TGS domain
+AHY40475	HD domain
+AHY40475	Region found in RelA / SpoT proteins
+AHY39489	Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+AHY39811	Thiamine pyrophosphate enzyme, central domain
+AHY39811	Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+AHY39811	Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+AHY40765	Ribosomal protein S13/S18
+AHY40253	ThiF family
+AHY40253	ThiS-like ubiquitin
+AHY40496	DegT/DnrJ/EryC1/StrS aminotransferase family
+AHY39949	Bacterial flagellin N-terminal helical region
+AHY40644	Anti-sigma-28 factor, FlgM
+AHY40850	Helix-turn-helix domain
+AHY40716	Carboxyltransferase domain, subdomain C and D
+AHY40151	Acyltransferase
+AHY40151	Major Facilitator Superfamily
+AHY40151	AMP-binding enzyme
+AHY40343	WxcM-like, C-terminal
+AHY39579	Exonuclease VII, large subunit
+AHY39579	OB-fold nucleic acid binding domain
+AHY39852	Domain of unknown function (DUF3333)
+AHY39852	Binding-protein-dependent transport system inner membrane component
+AHY40170	MnmE helical domain
+AHY40170	GTP-binding protein TrmE N-terminus
+AHY40170	50S ribosome-binding GTPase
+AHY40506	Protein of unknown function (DUF2920)
+AHY39840	Thioredoxin
+AHY39840	Disulphide bond corrector protein DsbC
+AHY39840	Cytochrome C biogenesis protein transmembrane region
+AHY40490	tRNA synthetases class I (E and Q), catalytic domain
+AHY39557	Bacterial extracellular solute-binding protein
+AHY40390	Rieske [2Fe-2S] domain
+AHY39301	Sodium:dicarboxylate symporter family
+AHY39302	Thymidylate synthase complementing protein
+AHY40537	Prokaryotic N-terminal methylation motif
+AHY39698	Beta-ketoacyl synthase, C-terminal domain
+AHY39698	Beta-ketoacyl synthase, N-terminal domain
+AHY39473	OPT oligopeptide transporter protein
+AHY40282	Pyrroline-5-carboxylate reductase dimerisation
+AHY40282	NADP oxidoreductase coenzyme F420-dependent
+AHY40873	SecY translocase
+AHY39283	Na+/H+ antiporter family
+AHY39283	Na+-H+ antiporter family
+AHY40825	Metallopeptidase family M24
+AHY39819	ACT domain
+AHY39819	Amino acid kinase family
+AHY39819	ACT domain
+AHY39598	UvrA DNA-binding domain
+AHY39598	UvrA interaction domain
+AHY39598	ABC transporter
+AHY39718	Bacterial-like globin
+AHY40747	putative NADH-ubiquinone oxidoreductase chain E
+AHY40596	Protein of unknown function (DUF1090)
+AHY39425	RNA 2'-O ribose methyltransferase substrate binding
+AHY39425	SpoU rRNA Methylase family
+AHY40215	TrkA-C domain
+AHY39412	McrBC 5-methylcytosine restriction system component
+AHY40671	PAS domain
+AHY40827	NlpC/P60 family
+AHY39549	ThiF family
+AHY39794	Dicarboxylate carrier protein MatC N-terminus
+AHY40266	IMP dehydrogenase / GMP reductase domain
+AHY40266	CBS domain
+AHY40266	CBS domain
+AHY40278	Ribosomal protein S18
+AHY40792	Major Facilitator Superfamily
+AHY40886	KH domain
+AHY40886	Ribosomal protein S3, C-terminal domain
+AHY40258	Type I restriction modification DNA specificity domain
+AHY39366	Curli production assembly/transport component CsgG
+AHY40660	UvrD/REP helicase N-terminal domain
+AHY40660	UvrD-like helicase C-terminal domain
+AHY40660	UvrD-like helicase C-terminal domain
+AHY40417	FAD linked oxidases, C-terminal domain
+AHY40417	FAD binding domain
+AHY40395	PAS fold
+AHY39804	Domain of unknown function (DUF697)
+AHY39804	50S ribosome-binding GTPase
+AHY39546	Lipid-A-disaccharide synthetase
+AHY40396	Sodium:dicarboxylate symporter family
+AHY39408	Translation-initiation factor 2
+AHY39408	Elongation factor Tu GTP binding domain
+AHY39408	Translation initiation factor IF-2, N-terminal region
+AHY39408	Translation initiation factor IF-2, N-terminal region
+AHY39390	Phosphorylase superfamily
+AHY40676	Flagellar FliJ protein
+AHY40379	Small Multidrug Resistance protein
+AHY39715	Radical SAM superfamily
+AHY40861	Enolase, C-terminal TIM barrel domain
+AHY40861	Enolase, N-terminal domain
+AHY40572	4Fe-4S dicluster domain
+AHY40572	4Fe-4S dicluster domain
+AHY39350	L-lactate permease
+AHY39880	Diguanylate cyclase, GGDEF domain
+AHY39880	Response regulator receiver domain
+AHY39880	Response regulator receiver domain
+AHY39836	OmpA family
+AHY40539	Carboxypeptidase controlling helical cell shape catalytic
+AHY40539	C-terminal domain of metallo-carboxypeptidase
+AHY39766	Flagella basal body rod protein
+AHY39766	Flagellar basal body rod FlgEFG protein C-terminal
+AHY39974	Beta-lactamase superfamily domain
+AHY40864	Bacterial export proteins, family 3
+AHY40422	Lumazine binding domain
+AHY40422	Lumazine binding domain
+AHY39326	Sodium:sulfate symporter transmembrane region
+AHY39905	Sigma-54 factor, core binding domain
+AHY39905	Sigma-54, DNA binding domain
+AHY39905	Sigma-54 factor, Activator interacting domain (AID)
+AHY39685	Uncharacterized protein family UPF0029
+AHY40532	Protein of unknown function DUF115
+AHY39906	Anaerobic c4-dicarboxylate membrane transporter
+AHY39328	Possible lysine decarboxylase
+AHY39723	Elongation factor Tu C-terminal domain
+AHY39723	Elongation factor Tu GTP binding domain
+AHY39723	Elongation factor Tu domain 2
+AHY40591	Triosephosphate isomerase
+AHY40242	Arginine-tRNA-protein transferase, N terminus
+AHY40242	Arginine-tRNA-protein transferase, C terminus
+AHY40275	Protein of unknown function (DUF535)
+AHY39737	Methyltransferase small domain
+AHY40254	ThiS family
+AHY40734	Sodium Bile acid symporter family
+AHY40659	Ribosomal protein L13
+AHY40625	SIS domain
+AHY40625	CBS domain
+AHY40625	CBS domain
+AHY39878	ATP-NAD kinase
+AHY40536	Protein of unknown function (DUF2920)
+AHY39936	3-Deoxy-D-manno-octulosonic-acid transferase (kdotransferase)
+AHY40452	NAD synthase
+AHY40452	Glutamine amidotransferase class-I
+AHY40452	GMP synthase C terminal domain
+AHY40593	Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain
+AHY40593	Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain
+AHY39388	FKBP-type peptidyl-prolyl cis-trans isomerase
+AHY40336	NAD dependent epimerase/dehydratase family
+AHY39983	Chaperone for flagella basal body P-ring formation
+AHY39703	Ribosomal L28 family
+AHY40129	Selenoprotein, putative
+AHY39834	Fructose-bisphosphate aldolase class-II
+AHY39618	Uncharacterised protein family (UPF0093)
+AHY39903	Threonylcarbamoyl adenosine biosynthesis protein TsaE
+AHY39665	FAD binding domain
+AHY39665	Fumarate reductase flavoprotein C-term
+AHY40541	Cytidylyltransferase family
+AHY39391	PP-loop family
+AHY40026	Tetraacyldisaccharide-1-P 4'-kinase
+AHY40026	Tetraacyldisaccharide-1-P 4'-kinase
+AHY39786	FlaG protein
+AHY40812	DNA primase catalytic core, N-terminal domain
+AHY40812	CHC2 zinc finger
+AHY40812	Toprim-like
+AHY40338	Glycosyltransferase family 9 (heptosyltransferase)
+AHY40058	Aconitase family (aconitate hydratase)
+AHY40058	Aconitate B N-terminal domain
+AHY40058	Aconitate hydratase 2 N-terminus
+AHY39604	Pyridoxal-phosphate dependent enzyme
+AHY40782	ATP-sulfurylase
+AHY40346	Acetyltransferase (GNAT) domain
+AHY39761	Rhodanese-like domain
+AHY40011	Alpha/beta hydrolase family
+AHY40776	Histidine biosynthesis protein
+AHY39962	haloacid dehalogenase-like hydrolase
+AHY39644	tRNA synthetases class I (W and Y)
+AHY39530	AhpC/TSA family
+AHY39602	Glutamine amidotransferase class-I
+AHY39602	Glycosyl transferase family, a/b domain
+AHY39797	Aldehyde dehydrogenase family
+AHY40661	PD-(D/E)XK nuclease superfamily
+AHY40345	Bacterial transferase hexapeptide (six repeats)
+AHY40345	Bacterial transferase hexapeptide (six repeats)
+AHY40345	Bacterial transferase hexapeptide (six repeats)
+AHY40835	MacB-like periplasmic core domain
+AHY40835	FtsX-like permease family
+AHY39447	TonB dependent receptor
+AHY39447	TonB-dependent Receptor Plug Domain
+AHY40815	Mur ligase family, glutamate ligase domain
+AHY40815	Mur ligase middle domain
+AHY39780	Polyprenyl synthetase
+AHY39740	Indole-3-glycerol phosphate synthase
+AHY39928	Flagella basal body rod protein
+AHY39928	Flagellar basal body rod FlgEFG protein C-terminal
+AHY39567	Lipopolysaccharide export system permease LptF/LptG
+AHY39359	Uracil DNA glycosylase superfamily
+AHY40462	Campylobacter major outer membrane protein
+AHY40120	L,D-transpeptidase catalytic domain
+AHY40468	Prokaryotic cytochrome b561
+AHY40389	Cytochrome b(C-terminal)/b6/petD
+AHY40389	Cytochrome b/b6/petB
+AHY39714	Major Facilitator Superfamily
+AHY39297	Fumarylacetoacetate (FAA) hydrolase family
+AHY40470	NADH ubiquinone oxidoreductase, 20 Kd subunit
+AHY40470	NiFe/NiFeSe hydrogenase small subunit C-terminal
+AHY40470	TAT (twin-arginine translocation) pathway signal sequence
+AHY40784	Ribosomal protein S20
+AHY39562	AAA domain
+AHY40288	Phosphomethylpyrimidine kinase
+AHY40373	SNARE associated Golgi protein
+AHY40198	Radical SAM superfamily
+AHY40198	HemN C-terminal domain
+AHY40566	Phosphoribosyl transferase domain
+AHY39584	Ribosomal L32p protein family
+AHY40052	CoA binding domain
+AHY40364	DNA polymerase III, delta subunit
+AHY39586	Nucleoside diphosphate kinase
+AHY40400	NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus
+AHY40400	NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus
+AHY40083	EamA-like transporter family
+AHY40083	EamA-like transporter family
+AHY40429	Ribbon-helix-helix domain
+AHY40167	MGS-like domain
+AHY40167	AICARFT/IMPCHase bienzyme
+AHY40564	Radical SAM superfamily
+AHY40613	SIS domain
+AHY39657	OB-fold nucleic acid binding domain
+AHY39657	tRNA synthetases class II (D, K and N)
+AHY40335	ABC transporter transmembrane region
+AHY40335	ABC transporter
+AHY40472	N-acetylmuramoyl-L-alanine amidase
+AHY40472	AMIN domain
+AHY40049	Lipopolysaccharide export system permease LptF/LptG
+AHY39796	Fusaric acid resistance protein-like
+AHY40819	Transketolase, pyrimidine binding domain
+AHY40819	Transketolase, thiamine diphosphate binding domain
+AHY40819	Transketolase, C-terminal domain
+AHY40445	Major Facilitator Superfamily
+AHY39278	Bacterial dnaA protein helix-turn-helix
+AHY39278	Bacterial dnaA  protein
+AHY39278	DnaA N-terminal domain
+AHY40405	Cobalamin-independent synthase, N-terminal domain
+AHY40405	Cobalamin-independent synthase, Catalytic domain
+AHY40377	Transcriptional regulator
+AHY40421	Multi-copper polyphenol oxidoreductase laccase
+AHY40015	Flagellar Assembly Protein A
+AHY40865	UDP-N-acetylenolpyruvoylglucosamine reductase, C-terminal domain
+AHY39863	AIR synthase related protein, C-terminal domain
+AHY39863	AIR synthase related protein, N-terminal domain
+AHY39571	Aminotransferase class I and II
+AHY40839	F plasmid transfer operon protein
+AHY39573	FliG N-terminal domain
+AHY39573	FliG C-terminal domain
+AHY39573	FliG middle domain
+AHY40372	lactate/malate dehydrogenase, NAD binding domain
+AHY40372	lactate/malate dehydrogenase, alpha/beta C-terminal domain
+AHY40749	Respiratory-chain NADH dehydrogenase, 30 Kd subunit
+AHY39758	Acyltransferase
+AHY40662	FixH
+AHY40833	Fe2+ transport protein
+AHY39420	Uncharacterised protein family UPF0102
+AHY40240	AcrB/AcrD/AcrF family
+AHY40552	Cytochrome c552
+AHY39635	Oxidoreductase molybdopterin binding domain
+AHY40766	Ribosomal protein S11
+AHY39964	haemagglutination activity domain
+AHY39555	Binding-protein-dependent transport system inner membrane component
+AHY40079	Peptidase S24-like
+AHY40709	Phosphoglucose isomerase
+AHY39731	RNA polymerase Rpb2, domain 6
+AHY39731	RNA polymerase beta subunit
+AHY39731	RNA polymerase Rpb2, domain 3
+AHY39731	RNA polymerase beta subunit external 1 domain
+AHY39731	RNA polymerase Rpb2, domain 7
+AHY39731	RNA polymerase Rpb2, domain 2
+AHY39731	RNA polymerase Rpb2, domain 2
+AHY39981	Cytidylyltransferase-like
+AHY40647	Protein of unknown function (DUF2400)
+AHY40629	ABC-2 type transporter
+AHY39663	Prolipoprotein diacylglyceryl transferase
+AHY40802	MotA/TolQ/ExbB proton channel family
+AHY40694	Multicopper oxidase
+AHY40694	Multicopper oxidase
+AHY40694	Multicopper oxidase
+AHY40191	Adhesin from Campylobacter
+AHY39843	Barrel-sandwich domain of CusB or HlyD membrane-fusion
+AHY40287	Thiamine monophosphate synthase
+AHY40474	tRNA synthetases class I (W and Y)
+AHY40745	4Fe-4S binding domain
+AHY40745	2Fe-2S iron-sulfur cluster binding domain
+AHY40745	NADH-ubiquinone oxidoreductase-G iron-sulfur binding region
+AHY40703	AIR synthase related protein, N-terminal domain
+AHY40703	AIR synthase related protein, C-terminal domain
+AHY40202	GTP cyclohydrolase II
+AHY40308	TruB family pseudouridylate synthase (N terminal domain)
+AHY40481	Putative methyltransferase
+AHY40368	Cation efflux family
+AHY39764	Penicillin-binding Protein dimerisation domain
+AHY39764	Penicillin binding protein transpeptidase domain
+AHY40209	Rhomboid family
+AHY39629	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+AHY39629	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+AHY39705	Exonuclease
+AHY39865	Type III restriction/modification enzyme methylation subunit
+AHY39865	DNA methylase
+AHY39717	Helicase conserved C-terminal domain
+AHY39717	Type III restriction enzyme, res subunit
+AHY39553	Ketopantoate hydroxymethyltransferase
+AHY40718	EamA-like transporter family
+AHY40718	EamA-like transporter family
+AHY39515	Endonuclease/Exonuclease/phosphatase family
+AHY39859	HypF Kae1-like domain
+AHY39859	Acylphosphatase
+AHY39859	Telomere recombination
+AHY39859	HypF finger
+AHY39859	HypF finger
+AHY40205	Conserved hypothetical protein 698
+AHY39361	Anaerobic c4-dicarboxylate membrane transporter
+AHY40645	FlgN protein
+AHY39826	Riboflavin kinase
+AHY39826	FAD synthetase
+AHY39826	FAD synthetase
+AHY39335	Sigma-70, region 4
+AHY39335	Sigma-70 region 2
+AHY40279	ATP-dependent protease La (LON) substrate-binding domain
+AHY40279	Lon protease (S16) C-terminal proteolytic domain
+AHY40279	ATPase family associated with various cellular activities (AAA)
+AHY40603	Capsule polysaccharide biosynthesis protein
+AHY40548	FecCD transport family
+AHY39947	PHP domain
+AHY39947	Helix-hairpin-helix motif
+AHY39947	Bacterial DNA polymerase III alpha NTPase domain
+AHY39947	Bacterial DNA polymerase III alpha subunit finger domain
+AHY40523	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain
+AHY40688	4Fe-4S dicluster domain
+AHY39725	SecE/Sec61-gamma subunits of protein translocation complex
+AHY40836	FtsX-like permease family
+AHY40836	MacB-like periplasmic core domain
+AHY40138	Ribose/Galactose Isomerase
+AHY40560	Fumarase C C-terminus
+AHY40560	Lyase
+AHY40808	Chorismate synthase
+AHY40045	Flavoprotein
+AHY40045	DNA / pantothenate metabolism flavoprotein
+AHY40447	Uroporphyrinogen decarboxylase (URO-D)
+AHY40783	Phosphatidylglycerophosphatase A
+AHY39353	Cytolethal distending toxin A/C domain
+AHY40584	Lyase
+AHY40039	Putative transposase DNA-binding domain
+AHY40039	Helix-turn-helix domain
+AHY40039	Probable transposase
+AHY39801	DnaB-like helicase C terminal domain
+AHY39801	DnaB-like helicase N terminal domain
+AHY39721	Binding-protein-dependent transport system inner membrane component
+AHY39855	Protein of unknown function (DUF2920)
+AHY40658	Ribosomal protein S9/S16
+AHY40876	Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast
+AHY40656	Haloacid dehalogenase-like hydrolase
+AHY40857	Phage integrase SAM-like domain
+AHY40867	Inositol monophosphatase family
+AHY40073	Major Facilitator Superfamily
+AHY39444	Bacterial extracellular solute-binding protein
+AHY39446	Haem-binding uptake, Tiki superfamily, ChaN
+AHY40894	S4 domain
+AHY40894	RNA pseudouridylate synthase
+AHY39692	Pyridoxamine 5'-phosphate oxidase
+AHY39979	Histidyl-tRNA synthetase
+AHY39979	Anticodon binding domain
+AHY40679	Sulfurtransferase TusA
+AHY39741	HIT domain
+AHY40189	Major Facilitator Superfamily
+AHY39882	LysM domain
+AHY39882	Transglycosylase SLT domain
+AHY40507	AMP-binding enzyme
+AHY39358	Asp/Glu/Hydantoin racemase
+AHY40757	FAD binding domain
+AHY40757	4Fe-4S dicluster domain
+AHY40757	FAD linked oxidases, C-terminal domain
+AHY40720	HxlR-like helix-turn-helix
+AHY39925	SHS2 domain inserted in FTSA
+AHY39925	Cell division protein FtsA
+AHY39925	Cell division protein FtsA
+AHY40410	SRP54-type protein, GTPase domain
+AHY39641	EamA-like transporter family
+AHY39700	NUDIX domain
+AHY39746	Oxidoreductase family, NAD-binding Rossmann fold
+AHY40260	MutS domain V
+AHY40260	Smr domain
+AHY39417	Bacterial protein of unknown function (DUF839)
+AHY40565	Permease family
+AHY40460	Major Facilitator Superfamily
+AHY40460	Major Facilitator Superfamily
+AHY39927	Flagella basal body rod protein
+AHY39927	Flagellar basal body rod FlgEFG protein C-terminal
+AHY40294	Mur ligase middle domain
+AHY40723	EcoEI R protein C-terminal
+AHY40723	Helicase conserved C-terminal domain
+AHY40723	Type III restriction enzyme, res subunit
+AHY39987	Binding-protein-dependent transport system inner membrane component
+AHY40353	Bacterial protein of unknown function (HtrL_YibB)
+AHY39943	Ribosomal protein L19
+AHY40821	ABC transporter
+AHY39874	Peptide methionine sulfoxide reductase
+AHY39993	Redoxin
+AHY40803	Biopolymer transport protein ExbD/TolR
+AHY39377	ATP synthase delta (OSCP) subunit
+AHY40879	Ribosomal protein S14p/S29e
+AHY39720	Binding-protein-dependent transport system inner membrane component
+AHY40116	ABC transporter
+AHY39972	GrpE
+AHY39378	ATP synthase alpha/beta family, nucleotide-binding domain
+AHY39378	ATP synthase alpha/beta chain, C terminal domain
+AHY39378	ATP synthase alpha/beta family, beta-barrel domain
+AHY39383	Biopolymer transport protein ExbD/TolR
+AHY39410	RimP N-terminal domain
+AHY39410	RimP C-terminal SH3 domain
+AHY40464	Transcriptional regulatory protein, C terminal
+AHY40464	Response regulator receiver domain
+AHY40027	Pyridoxal-phosphate dependent enzyme
+AHY40027	Threonine synthase N terminus
+AHY40826	Asp/Glu/Hydantoin racemase
+AHY39506	FIST C domain
+AHY39666	4Fe-4S dicluster domain
+AHY39666	2Fe-2S iron-sulfur cluster binding domain
+AHY40859	AMIN domain
+AHY40418	Plasminogen-binding protein pgbA N-terminal
+AHY39418	Pyridine nucleotide-disulphide oxidoreductase
+AHY40222	ABC transporter
+AHY39868	RNB domain
+AHY40751	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3
+AHY40773	Glutamine amidotransferase class-I
+AHY40434	MerR HTH family regulatory protein
+AHY40677	Adenylosuccinate synthetase
+AHY39800	Protein of unknown function (DUF2860)
+AHY40085	Amino-transferase class IV
+AHY40085	chorismate binding enzyme
+AHY39581	Endoribonuclease L-PSP
+AHY39474	Bacitracin resistance protein BacA
+AHY40022	Enoyl-(Acyl carrier protein) reductase
+AHY39756	CobB/CobQ-like glutamine amidotransferase domain
+AHY40824	Flagellar FLiS export co-chaperone, HP1076
+AHY40573	L-seryl-tRNA selenium transferase
+AHY40767	Ribosomal protein S4/S9 N-terminal domain
+AHY40767	S4 domain
+AHY40868	Citrate synthase, C-terminal domain
+AHY39382	MotA/TolQ/ExbB proton channel family
+AHY40763	Translation initiation factor 1A / IF-1
+AHY40912	Crossover junction endodeoxyribonuclease RuvC
+AHY39969	Gram-negative bacterial TonB protein C-terminal
+AHY39628	Glutathionylspermidine synthase preATP-grasp
+AHY40391	Arsenical pump membrane protein
+AHY40789	ABC transporter
+AHY40741	NADH-ubiquinone/plastoquinone oxidoreductase chain 4L
+AHY39929	Glutamine synthetase, beta-Grasp domain
+AHY39929	Glutamine synthetase, catalytic domain
+AHY40409	AAA domain
+AHY40409	Subunit ChlI of Mg-chelatase
+AHY40409	Rubredoxin metal binding domain
+AHY40075	Putative F0F1-ATPase subunit Ca2+/Mg2+ transporter
+AHY39539	Transaldolase/Fructose-6-phosphate aldolase
+AHY40594	Cytidylyltransferase-like
+AHY39321	Hemerythrin HHE cation binding domain
+AHY40869	Sodium/hydrogen exchanger family
+AHY40493	Biotin-requiring enzyme
+AHY40467	Hydrogenase maturation protease
+AHY39749	Maf-like protein
+AHY39590	Membrane MotB of proton-channel complex MotA/MotB
+AHY39590	OmpA family
+AHY39713	NusA N-terminal domain
+AHY39713	NusA-like KH domain
+AHY40267	Amidase
+AHY40561	Subtilase family
+AHY40561	Autotransporter beta-domain
+AHY39472	Citrate transporter
+AHY40411	Thioredoxin-like
+AHY40687	Prokaryotic cytochrome b561
+AHY40717	Carboxyltransferase domain, subdomain A and B
+AHY39533	Bacterial transferase hexapeptide (six repeats)
+AHY39533	Bacterial transferase hexapeptide (six repeats)
+AHY39533	Bacterial transferase hexapeptide (six repeats)
+AHY39533	Udp N-acetylglucosamine O-acyltransferase; Domain 2
+AHY40404	NLPA lipoprotein
+AHY40403	non-haem dioxygenase in morphine synthesis N-terminal
+AHY40403	2OG-Fe(II) oxygenase superfamily
+AHY40149	ATP synthase subunit C
+AHY40415	Competence protein
+AHY39495	Ribosome recycling factor
+AHY40317	MarC family integral membrane protein
+AHY40628	ABC transporter
+AHY40909	Homoserine O-succinyltransferase
+AHY39551	Aspartate decarboxylase
+AHY40772	Imidazoleglycerol-phosphate dehydratase
+AHY40772	Polynucleotide kinase 3 phosphatase
+AHY40657	Outer membrane protein beta-barrel domain
+AHY40657	OmpA family
+AHY39605	Tryptophan synthase alpha chain
+AHY40126	Bacterial DNA-binding protein
+AHY40499	Aminoglycoside 3-N-acetyltransferase
+AHY39951	PrmC N-terminal domain
+AHY39951	Methyltransferase small domain
+AHY39500	NifU-like N terminal domain
+AHY39500	NifU-like domain
+AHY39500	BFD-like [2Fe-2S] binding domain
+AHY39831	DNA/RNA non-specific endonuclease
+AHY40618	dTDP-4-dehydrorhamnose 3,5-epimerase
+AHY39719	Crp-like helix-turn-helix domain
+AHY39719	Cyclic nucleotide-binding domain
+AHY40520	GDP-mannose 4,6 dehydratase
+AHY39305	Asparaginase, N-terminal
+AHY39305	Glutaminase/Asparaginase C-terminal domain
+AHY39930	Peptidase family U32
+AHY40527	Nucleotidyl transferase
+AHY40527	CBS domain
+AHY40527	CBS domain
+AHY40809	Ribonuclease-III-like
+AHY40809	Double-stranded RNA binding motif
+AHY39931	AIR carboxylase
+AHY40853	HicA toxin of bacterial toxin-antitoxin,
+AHY40538	Glycoprotease family
+AHY40076	Aminotransferase class-III
+AHY40030	Bacterial mobilisation protein (MobC)
+AHY39630	Protein of unknown function (DUF520)
+AHY40469	Nickel-dependent hydrogenase
+AHY40302	S-adenosylmethionine synthetase, central domain
+AHY40302	S-adenosylmethionine synthetase, N-terminal domain
+AHY40302	S-adenosylmethionine synthetase, C-terminal domain
+AHY40655	4Fe-4S dicluster domain
+AHY40655	Pyruvate ferredoxin/flavodoxin oxidoreductase
+AHY40655	Domain of unknown function
+AHY40655	Pyruvate flavodoxin/ferredoxin oxidoreductase, thiamine diP-bdg
+AHY40655	Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+AHY40655	Pyruvate:ferredoxin oxidoreductase core domain II
+AHY40255	Peptidase dimerisation domain
+AHY40255	Peptidase family M20/M25/M40
+AHY40130	5TM C-terminal transporter carbon starvation CstA
+AHY40130	Carbon starvation protein CstA
+AHY39890	Metallopeptidase family M24
+AHY39890	Creatinase/Prolidase N-terminal domain
+AHY39890	C-terminal region of peptidase_M24
+AHY39890	Creatinase/Prolidase N-terminal domain
+AHY40526	UDP-N-acetylglucosamine 2-epimerase
+AHY40089	DSBA-like thioredoxin domain
+AHY40150	Membrane transport protein
+AHY40150	Membrane transport protein
+AHY39813	Bacterial transferase hexapeptide (six repeats)
+AHY39813	Bacterial transferase hexapeptide (six repeats)
+AHY39813	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase, LpxD
+AHY40752	ABC transporter
+AHY40715	LamB/YcsF family
+AHY40740	NADH-Ubiquinone oxidoreductase (complex I), chain 5 N-terminus
+AHY40740	Proton-conducting membrane transporter
+AHY40146	Conserved carboxylase domain
+AHY40146	Biotin-requiring enzyme
+AHY40146	HMGL-like
+AHY40140	Phosphoribosyl transferase domain
+AHY39389	Acyl transferase domain
+AHY40250	Thiamine monophosphate synthase
+AHY40793	HhH-GPD superfamily base excision DNA repair protein
+AHY40793	Helix-hairpin-helix motif
+AHY40837	ABC transporter
+AHY39810	Yqey-like protein
+AHY39475	Threonyl and Alanyl tRNA synthetase second additional domain
+AHY39475	Anticodon binding domain
+AHY39475	tRNA synthetase class II core domain (G, H, P, S and T)
+AHY40227	Cytochrome C oxidase, cbb3-type, subunit III
+AHY40856	Phage integrase family
+AHY40780	YgbB family
+AHY40780	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+AHY39298	RNA pseudouridylate synthase
+AHY39735	Elongation Factor G, domain II
+AHY39735	Elongation factor Tu domain 2
+AHY39735	Elongation factor G, domain IV
+AHY39735	Elongation factor Tu GTP binding domain
+AHY39735	Elongation factor G C-terminus
+AHY39938	SRP54-type protein, helical bundle domain
+AHY39938	Signal peptide binding domain
+AHY39938	SRP54-type protein, GTPase domain
+AHY39324	Sodium:sulfate symporter transmembrane region
+AHY40419	Csd3 N-terminal
+AHY40419	Peptidase family M23
+AHY39607	Type III flagellar switch regulator (C-ring) FliN C-term
+AHY39879	AAA domain
+AHY39914	Helicase conserved C-terminal domain
+AHY39914	DEAD/DEAH box helicase
+AHY39914	Primosomal protein N C-terminal domain
+AHY39914	PriA DNA helicase Cys-rich region (CRR) domain
+AHY40068	tRNA synthetases class I (E and Q), catalytic domain
+AHY40280	Outer membrane lipoprotein
+AHY40211	AAA+ lid domain
+AHY40211	ATPase family associated with various cellular activities (AAA)
+AHY40433	DnaJ C terminal domain
+AHY40433	DnaJ domain
+AHY40110	B3/4 domain
+AHY40110	Phenylalanyl tRNA synthetase beta chain CLM domain
+AHY40110	tRNA synthetase B5 domain
+AHY40110	Ferredoxin-fold anticodon binding domain
+AHY40110	Putative tRNA binding domain
+AHY40738	Proton-conducting membrane transporter
+AHY40689	Molydopterin dinucleotide binding domain
+AHY40689	Molybdopterin oxidoreductase
+AHY39342	Peptidase family S49
+AHY40229	Uncharacterized protein family, UPF0114
+AHY40132	Binding-protein-dependent transport system inner membrane component
+AHY40369	Transcription factor zinc-finger
+AHY40617	NAD dependent epimerase/dehydratase family
+AHY40028	Cytidylyltransferase
+AHY40055	Na+/H+ antiporter family
+AHY40362	Putative metal-binding domain of cation transport ATPase
+AHY40362	haloacid dehalogenase-like hydrolase
+AHY40362	Heavy-metal-associated domain
+AHY40362	E1-E2 ATPase
+AHY39560	Aminotransferase class I and II
+AHY39583	Fatty acid synthesis protein
+AHY40107	S1 RNA binding domain
+AHY40107	S1 RNA binding domain
+AHY40107	S1 RNA binding domain
+AHY40107	S1 RNA binding domain
+AHY40107	S1 RNA binding domain
+AHY40107	S1 RNA binding domain
+AHY40790	Periplasmic binding protein
+AHY39485	Semialdehyde dehydrogenase, NAD binding domain
+AHY39485	Semialdehyde dehydrogenase, dimerisation domain
+AHY39996	4Fe-4S dicluster domain
+AHY39996	4Fe-4S binding domain
+AHY39996	4Fe-4S binding domain
+AHY40544	MobA-like NTP transferase domain
+AHY39673	SprA-related family
+AHY40733	Low molecular weight phosphotyrosine protein phosphatase
+AHY39574	Flagellar assembly protein FliH
+AHY40237	Elongation factor G C-terminus
+AHY40237	GTP-binding protein LepA C-terminus
+AHY40237	Elongation factor Tu domain 2
+AHY40237	Elongation factor Tu GTP binding domain
+AHY39467	AAA C-terminal domain
+AHY39467	Holliday junction DNA helicase RuvB P-loop domain
+AHY39467	MgsA AAA+ ATPase C terminal
+AHY40007	His Kinase A (phospho-acceptor) domain
+AHY40007	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AHY39458	OST-HTH/LOTUS domain
+AHY39458	NYN domain
+AHY39751	C-terminal, D2-small domain, of ClpB protein
+AHY39751	AAA lid domain
+AHY39751	AAA domain (Cdc48 subfamily)
+AHY39751	Clp amino terminal domain, pathogenicity island component
+AHY39751	Clp amino terminal domain, pathogenicity island component
+AHY39751	ATPase family associated with various cellular activities (AAA)
+AHY39518	Firmicute plasmid replication protein (RepL)
+AHY40705	Diaminopimelate epimerase
+AHY40705	Diaminopimelate epimerase
+AHY39773	CoA-ligase
+AHY39773	CoA binding domain
+AHY39854	Protein of unknown function (DUF2920)
+AHY39376	ATP synthase B/B' CF(0)
+AHY40155	SecA DEAD-like domain
+AHY40155	SEC-C motif
+AHY40155	SecA preprotein cross-linking domain
+AHY40155	SecA Wing and Scaffold domain
+AHY40711	AMP-binding enzyme C-terminal domain
+AHY40711	AMP-binding enzyme
+AHY40711	Acetyl-coenzyme A synthetase N-terminus
+AHY40256	LysE type translocator
+AHY39537	Carbamoyl-phosphate synthase L chain, ATP binding domain
+AHY39537	Carbamoyl-phosphate synthase L chain, ATP binding domain
+AHY39537	MGS-like domain
+AHY39537	Carbamoyl-phosphate synthetase large chain, oligomerisation domain
+AHY40108	LytB protein
+AHY40528	Oxidoreductase family, NAD-binding Rossmann fold
+AHY40040	MerR family regulatory protein
+AHY40040	Resolvase, N terminal domain
+AHY39292	Queuosine biosynthesis protein QueC
+AHY40712	ABC transporter
+AHY40270	Competence-damaged protein
+AHY39934	NIF3 (NGG1p interacting factor 3)
+AHY39730	Ribosomal protein L7/L12 dimerisation domain
+AHY39730	Ribosomal protein L7/L12 C-terminal domain
+AHY40315	Leucyl/phenylalanyl-tRNA protein transferase
+AHY39421	Homoserine dehydrogenase, NAD binding domain
+AHY39421	ACT domain
+AHY39421	Homoserine dehydrogenase
+AHY40365	Predicted small integral membrane protein (DUF2165)
+AHY40153	Binding-protein-dependent transport system inner membrane component
+AHY40224	Branched-chain amino acid transport system / permease component
+AHY39332	Peptidase C39 family
+AHY40413	HD domain
+AHY40413	Domain of unknown function (DUF3552)
+AHY40750	NADH ubiquinone oxidoreductase, 20 Kd subunit
+AHY40113	DJ-1/PfpI family
+AHY40164	Methyl-accepting chemotaxis protein (MCP) signalling domain
+AHY40366	Heavy-metal-associated domain
+AHY40366	haloacid dehalogenase-like hydrolase
+AHY40366	E1-E2 ATPase
+AHY39968	Putative transposase DNA-binding domain
+AHY39371	Formyl transferase
+AHY39371	Formyl transferase, C-terminal domain
+AHY39338	SRP54-type protein, GTPase domain
+AHY39675	YceI-like domain
+AHY40601	Cytochrome P450
+AHY40758	Globin
+AHY39845	Outer membrane efflux protein
+AHY39845	Outer membrane efflux protein
+AHY39881	TatD related DNase
+AHY39862	Hydrogenase formation hypA family
+AHY40117	Sodium:alanine symporter family
+AHY40213	Mechanosensitive ion channel
+AHY40681	Aldehyde dehydrogenase family
+AHY40681	Proline dehydrogenase
+AHY39504	Ribosomal protein L35
+AHY39814	Queuosine biosynthesis protein
+AHY40888	Ribosomal protein S19
+AHY40016	Lipid II flippase MurJ
+AHY40101	Bacterial flagellin N-terminal helical region
+AHY40101	Bacterial flagellin C-terminal helical region
+AHY39528	Amino-transferase class IV
+AHY39900	Arginosuccinate synthase
+AHY39428	RNA methyltransferase
+AHY40428	Hemerythrin HHE cation binding domain
+AHY40607	Glutamine amidotransferase class-I
+AHY40615	NAD dependent epimerase/dehydratase family
+AHY40441	Ppx/GppA phosphatase family
+AHY39765	Flagellar hook-basal body complex protein FliE
+AHY40540	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+AHY40540	DXP reductoisomerase C-terminal domain
+AHY40540	1-deoxy-D-xylulose 5-phosphate reductoisomerase C-terminal domain
+AHY39356	Cytochrome bd terminal oxidase subunit II
+AHY40729	Cupin domain
+AHY39790	Elongation factor P (EF-P) KOW-like domain
+AHY39790	Elongation factor P, C-terminal
+AHY39790	Elongation factor P (EF-P) OB domain
+AHY39946	ArsC family
+AHY39411	AAA domain (dynein-related subfamily)
+AHY40357	Cytidylyltransferase-like
+AHY40357	pfkB family carbohydrate kinase
+AHY39400	Inositol monophosphatase family
+AHY40595	Ribosomal silencing factor during starvation
+AHY40081	EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase)
+AHY40626	SLBB domain
+AHY40626	SLBB domain
+AHY40626	Polysaccharide biosynthesis/export protein
+AHY40742	NADH-ubiquinone/plastoquinone oxidoreductase chain 6
+AHY40384	ABC transporter
+AHY39561	Aminotransferase class-III
+AHY40376	Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD
+AHY40458	Uracil DNA glycosylase superfamily
+AHY39402	Prephenate dehydrogenase
+AHY39459	Subunit ChlI of Mg-chelatase
+AHY39459	Magnesium chelatase, subunit ChlI
+AHY39459	Magnesium chelatase, subunit ChlI C-terminal
+AHY39466	Dihydrodipicolinate reductase, C-terminus
+AHY39466	Dihydrodipicolinate reductase, N-terminus
+AHY40488	Uracil phosphoribosyltransferase
+AHY39920	Eco57I restriction-modification methylase
+AHY40437	Haloacid dehalogenase-like hydrolase
+AHY39875	Inorganic pyrophosphatase
+AHY40878	Ribosomal protein S8
+AHY39453	Calcineurin-like phosphoesterase
+AHY40259	N-6 DNA Methylase
+AHY40259	Type I restriction enzyme R protein N terminus (HSDR_N)
+AHY40800	Putative beta-lactamase-inhibitor-like, PepSY-like
+AHY40056	short chain dehydrogenase
+AHY39614	Di-haem cytochrome c peroxidase
+AHY39614	Cytochrome c
+AHY39306	Eco57I restriction-modification methylase
+AHY39306	TaqI-like C-terminal specificity domain
+AHY40322	FtsH Extracellular
+AHY40322	AAA+ lid domain
+AHY40322	Peptidase family M41
+AHY40322	ATPase family associated with various cellular activities (AAA)
+AHY40122	Copper chaperone PCu(A)C
+AHY40141	SNARE associated Golgi protein
+AHY39849	Ferritin-like domain
+AHY39490	Bacterial transferase hexapeptide (six repeats)
+AHY39490	Bacterial transferase hexapeptide (six repeats)
+AHY40791	Iron-sulfur cluster-binding domain
+AHY40577	Flavodoxin
+AHY40238	Outer membrane efflux protein
+AHY40238	Outer membrane efflux protein
+AHY39688	Mur ligase middle domain
+AHY40102	ABC transporter C-terminal domain
+AHY40102	ABC transporter
+AHY40102	ABC transporter
+AHY40102	ABC transporter
+AHY39287	Ribonuclease HII
+AHY39526	Protein of unknown function (DUF2393)
+AHY40193	Peptidase family M20/M25/M40
+AHY40193	Peptidase dimerisation domain
+AHY40184	Protein of unknown function (DUF1698)
+AHY40547	FecCD transport family
+AHY40051	Pyridoxal-phosphate dependent enzyme
+AHY40620	Glycosyl transferase family 2
+AHY40340	Glycosyl transferase family 2
+AHY39871	DNA recombination-mediator protein A
+AHY39370	Amino acid kinase family
+AHY39944	HIUase/Transthyretin family
+AHY39696	TENA/THI-4/PQQC family
+AHY39866	Type III restriction enzyme, res subunit
+AHY39649	Malate:quinone oxidoreductase (Mqo)
+AHY40099	Ribosomal protein S15
+AHY40305	Oligopeptidase F
+AHY40305	Peptidase family M3
+AHY39285	Protein of unknown function DUF262
+AHY39576	Ferric uptake regulator family
+AHY39667	Dynamin family
+AHY40612	Nucleotidyl transferase
+AHY39822	Pterin binding enzyme
+AHY40477	Amino acid kinase family
+AHY40881	Ribosomal proteins 50S L24/mitochondrial 39S L24
+AHY40881	KOW motif
+AHY39940	KH domain
+AHY40148	Sodium:neurotransmitter symporter family
+AHY40148	Sodium:neurotransmitter symporter family
+AHY40754	Binding-protein-dependent transport system inner membrane component
+AHY40220	ResB-like family
+AHY40220	Cytochrome C assembly protein
+AHY40569	MMPL family
+AHY40569	MMPL family
+AHY40589	NiFe/NiFeSe hydrogenase small subunit C-terminal
+AHY40589	NADH ubiquinone oxidoreductase, 20 Kd subunit
+AHY39550	Acetyltransferase (GNAT) domain
+AHY40902	Aconitase family (aconitate hydratase)
+AHY39456	Formyl transferase
+AHY40813	NifU-like domain
+AHY39623	Barrel-sandwich domain of CusB or HlyD membrane-fusion
+AHY39772	ATP-grasp domain
+AHY39772	CoA-ligase
+AHY39847	Protein of unknown function (DUF459)
+AHY40247	Major Facilitator Superfamily
+AHY40830	Putative motility protein
+AHY40674	Protein of unknown function (DUF507)
+AHY39566	Peptidyl-tRNA hydrolase
+AHY40145	Phosphoenolpyruvate carboxykinase
+AHY40570	Ham1 family
+AHY40668	Cytochrome C oxidase, mono-heme subunit/FixO
+AHY39645	Seryl-tRNA synthetase N-terminal domain
+AHY39645	tRNA synthetase class II core domain (G, H, P, S and T)
+AHY39337	NUBPL iron-transfer P-loop NTPase
+AHY40682	AIR synthase related protein, N-terminal domain
+AHY40682	AIR synthase related protein, C-terminal domain
+AHY40731	Predicted permease
+AHY39937	RNA pseudouridylate synthase
+AHY40725	Type I restriction modification DNA specificity domain
+AHY40725	Type I restriction modification DNA specificity domain
+AHY40187	Staphylococcal nuclease homologue
+AHY40392	GidA associated domain
+AHY40392	Glucose inhibited division protein A
+AHY39286	Pyridine nucleotide-disulphide oxidoreductase
+AHY39286	Dihydroprymidine dehydrogenase domain II, 4Fe-4S cluster
+AHY40293	Peptidase family M23
+AHY39333	Type III flagellar switch regulator (C-ring) FliN C-term
+AHY40381	mttA/Hcf106 family
+AHY39599	Sulfite exporter TauE/SafE
+AHY39464	ATP synthase alpha/beta family, nucleotide-binding domain
+AHY39464	T3SS EscN ATPase C-terminal domain
+AHY39406	GHMP kinases N terminal domain
+AHY39992	Bacterial extracellular solute-binding protein
+AHY39384	TonB C terminal
+AHY40495	Polysaccharide biosynthesis protein
+AHY39513	Protein of unknown function (DUF493)
+AHY40100	FtsK alpha domain
+AHY40100	Ftsk gamma domain
+AHY40100	FtsK/SpoIIIE family
+AHY40100	FtsK/SpoIIIE family
+AHY39950	Domain of unknown function (DUF4149)
+AHY39404	UDP-3-O-acyl N-acetylglycosamine deacetylase
+AHY40728	Carboxymuconolactone decarboxylase family
+AHY40817	PDZ domain
+AHY40817	PDZ domain
+AHY39488	Aminotransferase class-III
+AHY39963	Bacterial extracellular solute-binding proteins, family 3
+AHY39655	Colicin V production protein
+AHY40097	FHIPEP family
+AHY39452	CBS domain
+AHY39452	CBS domain
+AHY39452	Cyclin M transmembrane N-terminal domain
+AHY39452	Transporter associated domain
+AHY40699	CRISPR associated protein Cas1
+AHY40510	Protein of unknown function (DUF2920)
+AHY40736	Cache domain
+AHY39346	Hemerythrin HHE cation binding domain
+AHY40525	SAF domain
+AHY40525	NeuB family
+AHY40840	Protein of unknown function, DUF
+AHY40442	Pyridoxal phosphate biosynthesis protein PdxJ
+AHY39606	Chemotaxis phosphatase CheX
+AHY40753	ABC transporter
+AHY40810	RNase H
+AHY39339	7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase (HPPK)
+AHY40900	Acetyltransferase (GNAT) family
+AHY39589	FlhB HrpN YscU SpaS Family
+AHY40071	FlhB HrpN YscU SpaS Family
+AHY40558	RuvB AAA lid domain
+AHY40558	RuvB C-terminal winged helix domain
+AHY40558	Holliday junction DNA helicase RuvB P-loop domain
+AHY40109	EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase)
+AHY40494	dUTPase
+AHY39986	NLPA lipoprotein
+AHY40485	Cation transport protein
+AHY40239	Barrel-sandwich domain of CusB or HlyD membrane-fusion
+AHY40476	RNA polymerase Rpb6
+AHY39833	PPIC-type PPIASE domain
+AHY39498	Carbonic anhydrase
+AHY40796	Cytidine and deoxycytidylate deaminase zinc-binding region
+AHY40871	Toprim domain
+AHY40871	DNA topoisomerase
+AHY40871	Topoisomerase DNA binding C4 zinc finger
+AHY40871	Topoisomerase DNA binding C4 zinc finger
+AHY40871	Topoisomerase DNA binding C4 zinc finger
+AHY39398	Predicted SPOUT methyltransferase
+AHY39542	CheW-like domain
+AHY39542	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+AHY39542	Signal transducing histidine kinase, homodimeric domain
+AHY39542	Hpt domain
+AHY39542	Response regulator receiver domain
+AHY39952	CAAX prenyl protease N-terminal, five membrane helices
+AHY39952	Peptidase family M48
+AHY40098	Transcriptional regulator
+AHY39519	Amidohydrolase
+AHY39507	FIST N domain
+AHY40274	PDZ domain
+AHY40274	Peptidase family M50
+AHY40323	Ribosomal protein L11 methyltransferase (PrmA)
+AHY39909	Osmosensitive K+ channel His kinase sensor domain
+AHY39909	Domain of unknown function (DUF4118)
+AHY39616	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I
+AHY39616	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II
+AHY39616	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III
+AHY40014	RuvA N terminal domain
+AHY40014	Helix-hairpin-helix domain
+AHY40014	RuvA, C-terminal domain
+AHY40424	Chaperonin 10 Kd subunit
+AHY39988	NIL domain
+AHY39988	ABC transporter
+AHY40370	Threonine/Serine exporter, ThrE
+AHY40517	NeuB family
+AHY40517	SAF domain
+AHY40870	Biotin and Thiamin Synthesis associated domain
+AHY40870	Radical SAM superfamily
+AHY40354	Glycosyl transferase family 2
+AHY39403	Peptidase family M23
+AHY39493	RDD family
+AHY39543	Response regulator receiver domain
+AHY39543	CheW-like domain
+AHY39289	Rubrerythrin
+AHY39289	Desulfoferrodoxin, N-terminal domain
+AHY40675	MgtE intracellular N domain
+AHY39462	FKBP-type peptidyl-prolyl cis-trans isomerase
+AHY39462	Bacterial trigger factor protein (TF) C-terminus
+AHY39462	Bacterial trigger factor protein (TF)
+AHY39690	BPG-independent PGAM N-terminus (iPGM_N)
+AHY39690	Metalloenzyme superfamily
+AHY40401	GatB domain
+AHY40401	GatB/GatE catalytic domain
+AHY40175	Ribosomal protein L34
+AHY39293	Disulfide bond formation protein DsbB

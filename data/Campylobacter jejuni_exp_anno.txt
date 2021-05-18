@@ -1,0 +1,220 @@
+Run	Strain	Genotype	Isolation Source	Temp	Time	Treatment	DOI
+SRR6819282	CG8433		In vitro Laboratory Growth			Blood Agar Plate Biological Replicate 3	10.1038/s41564-018-0133-7
+SRR6819295	CG8433		In vitro Laboratory Growth			Mueller Hinton Broth Biological Replicate 1	10.1038/s41564-018-0133-7
+SRR6819296	CG8433		In vitro Laboratory Growth			Mueller Hinton Broth Biological Replicate 2	10.1038/s41564-018-0133-7
+SRR6819299	CG8433		In vitro Laboratory Growth			Mueller Hinton Agar Plate Biological Replicate 2	10.1038/s41564-018-0133-7
+SRR6819300	CG8433		In vitro Laboratory Growth			Mueller Hinton Agar Plate Biological Replicate 3	10.1038/s41564-018-0133-7
+SRR6819301	CG8433		In vitro Laboratory Growth			Mueller Hinton Broth Biological Replicate 3	10.1038/s41564-018-0133-7
+SRR6819302	CG8433		In vitro Laboratory Growth			Mueller Hinton Agar Plate Biological Replicate 1	10.1038/s41564-018-0133-7
+SRR6819303	CG8433		In vitro Laboratory Growth			Blood Agar Plate Biological Replicate 1	10.1038/s41564-018-0133-7
+SRR6819304	CG8433		In vitro Laboratory Growth			Blood Agar Plate Biological Replicate 2	10.1038/s41564-018-0133-7
+SRR7478650	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478651	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478652	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478653	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478654	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478655	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478656	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478657	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478658	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478659	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478660	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478661	PT14		Culture			Spiral morphotype exponential phase	
+SRR7478662	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478663	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478664	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478665	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478666	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478667	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478668	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478669	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478670	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478671	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478672	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478673	PT14		Culture			Spiral morphotype stationary phase	
+SRR7478674	PT14		Culture			Filamentous morphotype stationary phase	
+SRR7478675	PT14		Culture			Filamentous morphotype stationary phase	
+SRR7478676	PT14		Culture			Filamentous morphotype stationary phase	
+SRR7478677	PT14		Culture			Filamentous morphotype stationary phase	
+SRR7478678	PT14		Culture			Filamentous morphotype stationary phase	
+SRR7478679	PT14		Culture			Filamentous morphotype stationary phase	
+SRR7478680	PT14		Culture			Filamentous morphotype stationary phase	
+SRR7478681	PT14		Culture			Filamentous morphotype stationary phase	
+SRR7478682	PT14		Culture			Filamentous morphotype stationary phase	
+SRR7478683	PT14		Culture			Filamentous morphotype stationary phase	
+SRR7478684	PT14		Culture			Filamentous morphotype stationary phase	
+SRR7478685	PT14		Culture			Filamentous morphotype stationary phase	
+SRR9640964	11168-O		Biofilm extract				10.1128/MRA.00982-19
+SRR9640965	11168-O		Biofilm extract				
+SRR9640966	11168-O		Biofilm extract				
+SRR9640967	11168-O		Biofilm extract				
+SRR9640970	11168-O		Planktonic cell extract				
+SRR9640971	11168-O		Planktonic cell extract				
+SRR9640972	11168-O		Planktonic cell extract				
+SRR9640973	11168-O		Planktonic cell extract				
+SRR9640974	11168-O		Planktonic cell extract				
+SRR9640975	11168-O		Planktonic cell extract				
+ERR2004664							
+ERR2004665							
+ERR2004666							
+ERR2004667							
+ERR2004668							
+ERR2004669							
+ERR2004671							
+ERR2004672							
+ERR2004674							
+ERR2004675							
+ERR2004676							
+ERR2004677							
+ERR2004678							
+ERR2004679							
+ERR2004680							
+ERR2004681							
+ERR2004682							
+ERR2004683							
+ERR2004684							
+ERR2004685							
+ERR2004686							
+ERR2004687							
+ERR2004688							
+ERR2004689							
+ERR2004690							
+ERR2004691							
+ERR2004692							
+ERR2004693							
+ERR2004694							
+ERR2004695							
+ERR2004696							
+ERR2004697							
+ERR2004698							
+ERR2004699							
+ERR2004700							
+ERR2004701							
+ERR2004702							
+ERR2004703							
+ERR2004704							
+ERR2004705							
+ERR2004706							
+ERR2004707							
+ERR2004708							
+ERR2004709							
+ERR2004710							
+ERR2004711							
+SRR1525661	NCTC11168	WT	Culture				10.1186/s12864-015-1661-7
+SRR1525662	NCTC11168	WT	Culture				10.1186/s12864-015-1661-7
+SRR1525663	NCTC11168	WT	Culture				10.1186/s12864-015-1661-7
+SRR1525664	NCTC11168	deltafur	Culture				10.1186/s12864-015-1661-7
+SRR1525665	NCTC11168	deltafur	Culture				10.1186/s12864-015-1661-7
+SRR1525666	NCTC11168	deltafur	Culture				10.1186/s12864-015-1661-7
+SRR1525667	NCTC11168	deltaperR	Culture				10.1186/s12864-015-1661-7
+SRR1525668	NCTC11168	deltaperR	Culture				10.1186/s12864-015-1661-7
+SRR1525669	NCTC11168	deltaperR	Culture				10.1186/s12864-015-1661-7
+SRR1525670	NCTC11168	deltafurdeltaperR	Culture				10.1186/s12864-015-1661-7
+SRR1525671	NCTC11168	deltafurdeltaperR	Culture				10.1186/s12864-015-1661-7
+SRR1525672	NCTC11168	deltafurdeltaperR	Culture				10.1186/s12864-015-1661-7
+SRR1525673	NCTC11168	WT	Culture				10.1186/s12864-015-1661-7
+SRR1525674	NCTC11168	WT	Culture				10.1186/s12864-015-1661-7
+SRR1525675	NCTC11168	WT	Culture				10.1186/s12864-015-1661-7
+SRR1525676	NCTC11168	deltafur	Culture				10.1186/s12864-015-1661-7
+SRR1525677	NCTC11168	deltafur	Culture				10.1186/s12864-015-1661-7
+SRR1525678	NCTC11168	deltafur	Culture				10.1186/s12864-015-1661-7
+SRR1525679	NCTC11168	deltaperR	Culture				10.1186/s12864-015-1661-7
+SRR1525680	NCTC11168	deltaperR	Culture				10.1186/s12864-015-1661-7
+SRR1525681	NCTC11168	deltaperR	Culture				10.1186/s12864-015-1661-7
+SRR1525682	NCTC11168	deltafurdeltaperR	Culture				10.1186/s12864-015-1661-7
+SRR1525683	NCTC11168	deltafurdeltaperR	Culture				10.1186/s12864-015-1661-7
+SRR1525684	NCTC11168	deltafurdeltaperR	Culture				10.1186/s12864-015-1661-7
+SRR6286159	NCTC11168	WT	Culture				10.1016/j.molcel.2018.01.032
+SRR6286160	NCTC11168	deltacas9	Culture				10.1016/j.molcel.2018.01.032
+SRR6286161	NCTC11168	deltacrRNA3	Culture				10.1016/j.molcel.2018.01.032
+SRR6286162	NCTC11168	deltatracrRNA	Culture				10.1016/j.molcel.2018.01.032
+SRR6286163	NCTC11168	deltaCRISPR-tracrRNA	Culture				10.1016/j.molcel.2018.01.032
+SRR6059976	NCTC11168		Sheep intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059977	NCTC11168		Sheep intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059978	NCTC11168		Cow intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059979	NCTC11168		Cow intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059980	NCTC11168		Pig intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059981	NCTC11168		Pig intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059982	NCTC11168		Sheep intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059983	NCTC11168		Sheep intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059984	NCTC11168		Pig intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059985	NCTC11168		Pig intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059986	NCTC11168		Cow intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059987	NCTC11168		Cow intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059988	NCTC11168		Chicken intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059989	NCTC11168		Chicken intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059990	NCTC11168		Chicken intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059991	NCTC11168		Chicken intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059992	NCTC11168		Turkey intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059993	NCTC11168		Turkey intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059994	NCTC11168		Turkey intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059995	NCTC11168		Turkey intestinal mucus				10.3389/fmicb.2018.03215
+SRR6059997	NCTC11168		Defined media				10.3389/fmicb.2018.03215
+SRR6059999	NCTC11168		Defined media				10.3389/fmicb.2018.03215
+SRR5454226	IA3902		In Vitro culture of sheep bile				10.3389/fmicb.2017.00940
+SRR5454227	IA3902		In Vitro culture of sheep bile				10.3389/fmicb.2017.00940
+SRR5454231	IA3902		In Vitro culture of sheep bile				10.3389/fmicb.2017.00940
+SRR5454241	IA3902		Culture				10.3389/fmicb.2017.00940
+SRR5454242	IA3902		Culture				10.3389/fmicb.2017.00940
+SRR5454243	IA3902		Culture				10.3389/fmicb.2017.00940
+SRR5454244	IA3902		Culture				10.3389/fmicb.2017.00940
+SRR5454225	IA3902		In Vitro culture of sheep bile				10.3389/fmicb.2017.00940
+SRR5454228	IA3902		In Vitro culture of sheep bile				10.3389/fmicb.2017.00940
+SRR5454230	IA3902		In Vitro culture of sheep bile				10.3389/fmicb.2017.00940
+SRR5454232	IA3902		In Vitro culture of sheep bile				10.3389/fmicb.2017.00940
+SRR5454233	IA3902		In Vitro culture of sheep bile				10.3389/fmicb.2017.00940
+SRR5454234	IA3902		In Vitro culture of sheep bile				10.3389/fmicb.2017.00940
+SRR5454235	IA3902		Sheep Gallbladder				10.3389/fmicb.2017.00940
+SRR5454236	IA3902		Sheep Gallbladder				10.3389/fmicb.2017.00940
+SRR5454238	IA3902		Sheep Gallbladder				10.3389/fmicb.2017.00940
+SRR5454239	IA3902		Sheep Gallbladder				10.3389/fmicb.2017.00940
+SRR5454240	IA3902		Culture				10.3389/fmicb.2017.00940
+SRR5454245	IA3902		Culture				10.3389/fmicb.2017.00940
+ERR1735549	M1				0h		10.1371/journal.pone.0188936
+ERR1735550	M1				0h		10.1371/journal.pone.0188936
+ERR1735551	M1				0h		10.1371/journal.pone.0188936
+ERR1735552	M1			25°C	24h		10.1371/journal.pone.0188936
+ERR1735553	M1			25°C	24h		10.1371/journal.pone.0188936
+ERR1735554	M1			25°C	24h		10.1371/journal.pone.0188936
+ERR1735555	M1			4°C	72h		10.1371/journal.pone.0188936
+ERR1735556	M1			4°C	72h		10.1371/journal.pone.0188936
+ERR1735557	M1			4°C	72h		10.1371/journal.pone.0188936
+ERR1735558	M1					Mueller Hinton Broth Control	10.1371/journal.pone.0188936
+ERR1735559	M1					Mueller Hinton Broth Control	10.1371/journal.pone.0188936
+ERR1735560	M1					Mueller Hinton Broth Control	10.1371/journal.pone.0188936
+SRR7500694	NCTC12661					Spiral morphotype exponential phase	
+SRR7500695	NCTC12661					Spiral morphotype exponential phase	
+SRR7500696	NCTC12661					Spiral morphotype exponential phase	
+SRR7500697	NCTC12661					Spiral morphotype exponential phase	
+SRR7500698	NCTC12661					Spiral morphotype exponential phase	
+SRR7500699	NCTC12661					Spiral morphotype exponential phase	
+SRR7500700	NCTC12661					Spiral morphotype exponential phase	
+SRR7500701	NCTC12661					Spiral morphotype exponential phase	
+SRR7500702	NCTC12661					Spiral morphotype exponential phase	
+SRR7500703	NCTC12661					Spiral morphotype exponential phase	
+SRR7500704	NCTC12661					Spiral morphotype exponential phase	
+SRR7500705	NCTC12661					Spiral morphotype exponential phase	
+SRR7500706	NCTC12661					Spiral morphotype stationary phase	
+SRR7500707	NCTC12661					Spiral morphotype stationary phase	
+SRR7500708	NCTC12661					Spiral morphotype stationary phase	
+SRR7500709	NCTC12661					Spiral morphotype stationary phase	
+SRR7500710	NCTC12661					Spiral morphotype stationary phase	
+SRR7500711	NCTC12661					Spiral morphotype stationary phase	
+SRR7500712	NCTC12661					Spiral morphotype stationary phase	
+SRR7500713	NCTC12661					Spiral morphotype stationary phase	
+SRR7500714	NCTC12661					Spiral morphotype stationary phase	
+SRR7500715	NCTC12661					Spiral morphotype stationary phase	
+SRR7500716	NCTC12661					Spiral morphotype stationary phase	
+SRR7500717	NCTC12661					Spiral morphotype stationary phase	
+SRR7500718	NCTC12661					Filamentous morphotype stationary phase	
+SRR7500719	NCTC12661					Filamentous morphotype stationary phase	
+SRR7500720	NCTC12661					Filamentous morphotype stationary phase	
+SRR7500721	NCTC12661					Filamentous morphotype stationary phase	
+SRR7500722	NCTC12661					Filamentous morphotype stationary phase	
+SRR7500723	NCTC12661					Filamentous morphotype stationary phase	
+SRR7500724	NCTC12661					Filamentous morphotype stationary phase	
+SRR7500725	NCTC12661					Filamentous morphotype stationary phase	
+SRR7500726	NCTC12661					Filamentous morphotype stationary phase	
+SRR7500727	NCTC12661					Filamentous morphotype stationary phase	
+SRR7500728	NCTC12661					Filamentous morphotype stationary phase	
+SRR7500729	NCTC12661					Filamentous morphotype stationary phase	

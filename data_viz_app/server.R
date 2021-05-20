@@ -9,6 +9,7 @@
 
 library(shiny)
 library(ggplot2)
+library(ggfortify)
 
 #read data
 metadata <- read.csv("../data/Campylobacter jejuni_exp_anno.txt", sep = "\t")
@@ -24,12 +25,15 @@ shinyServer(function(input, output, session) {
     updateSelectizeInput(session, "treatment", choices = unique(metadata$Treatment)[unique(metadata$Treatment) != ""], 
                          selected=character(0), server = TRUE)
     
+    updateSelectizeInput(session, "pca.treatment", choices = unique(metadata$Treatment)[unique(metadata$Treatment) != ""], 
+                         selected=character(0), server = TRUE)
+    
     output$GeneExpPlot <- renderPlot({
-        if (input$gene.exp == 0)
+        if (input$plot.gene.exp == 0)
             return()
         
         #freeze the input till confirmation is given to plot
-        input$gene.exp
+        input$plot.gene.exp
         #getting inputs
         geneID <- isolate(input$geneID)
         expt.treatment <- isolate(input$treatment)
@@ -47,5 +51,24 @@ shinyServer(function(input, output, session) {
                   legend.text=element_text(size=8),
                   strip.background = element_rect(colour="grey80", fill="grey80"),
                   strip.text = element_text(colour = 'black'))
+    })
+    
+    output$PCAPlot <- renderPlot({
+        if (input$plot.pca == 0)
+            return()
+        
+        #freeze the input till confirmation is given to plot
+        input$plot.pca
+        #getting inputs
+        pca.expt.treatment <- isolate(input$pca.treatment)
+        pca.meta.plot <- metadata[metadata$Treatment %in% pca.expt.treatment,]
+        pca.exp.mat.plot <- exp.mat[, colnames(exp.mat) %in% pca.meta.plot$Run]
+        pca.exp.mat.plot <- pca.exp.mat.plot[rowSums(pca.exp.mat.plot) > 0,]
+        pca <- prcomp(t(pca.exp.mat.plot), scale. = T, center = T)
+        ggplot() + 
+            geom_point(mapping = aes(pca$x[,1], pca$x[,2], color = pca.meta.plot$Treatment)) + 
+            labs(col = "Treatment") + 
+            xlab(paste0("PC1, ", round(pca$sdev[1] / sum(test$sdev), digits = 2), "% variation")) +
+            ylab(paste0("PC2, ", round(pca$sdev[2] / sum(test$sdev), digits = 2), "% variation")) 
     })
 })

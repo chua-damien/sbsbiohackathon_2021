@@ -13,7 +13,13 @@ library(shiny)
 # Define UI for application that draws a histogram
 shinyUI(
     navbarPage(title = "Data Exploration",
-               
+        
+        tabPanel(title = "Home",
+            titlePanel(
+                h1("Welcome", align = "center")
+            )
+        ),
+        
         tabPanel(title = "Gene Expression",
             
             sidebarPanel(
@@ -33,11 +39,30 @@ shinyUI(
                     multiple = T, # allow for multiple inputs
                     options = list(create = FALSE) # if TRUE, allows newly created inputs
                 ),
-                actionButton("gene.exp", "Plot")
+                actionButton("plot.gene.exp", "Plot")
             ),
             
             mainPanel(
                 plotOutput("GeneExpPlot")
+            )
+        ),
+        
+        tabPanel(title = "PCAPlot",
+            
+            sidebarPanel(
+                selectizeInput(
+                    inputId = "pca.treatment",
+                    label = "Select treatment type",
+                    choices = NULL,
+                    selected=NULL,
+                    multiple = T, # allow for multiple inputs
+                    options = list(create = FALSE) # if TRUE, allows newly created inputs
+                    ),
+                actionButton("plot.pca", "Plot")
+            ),
+        
+            mainPanel(
+                plotOutput("PCAPlot")
             )
         )
     )

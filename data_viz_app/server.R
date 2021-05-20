@@ -44,10 +44,10 @@ shinyServer(function(input, output, session) {
         colnames(exp.mat.plot)[ncol(exp.mat.plot)] <- "TPM"
         #plot 
         ggplot(data = exp.mat.plot) + 
-            facet_wrap(~ Treatment, scales = "free_x") +
-            geom_point(mapping = aes(x=Run, y = TPM, col = Treatment)) + 
+            geom_violin(mapping = aes(x=Treatment, y = TPM, fill = Treatment), alpha = 0.6) + 
+            geom_jitter(mapping = aes(x=Treatment, y = TPM), height = 0, width = 0.1) + 
             theme_light() +
-            theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+            theme(axis.text.x = element_text(angle = 0, vjust = 0.5, hjust=1),
                   legend.text=element_text(size=8),
                   strip.background = element_rect(colour="grey80", fill="grey80"),
                   strip.text = element_text(colour = 'black'))

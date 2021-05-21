@@ -8,61 +8,122 @@
 #
 
 library(shiny)
+library(dplyr)
+library(RColorBrewer)
+library(EnhancedVolcano)
+library(ggplot2)
+library(ComplexHeatmap)
+library(d3heatmap)
+library(VennDiagram)
 
-
-# Define UI for application that draws a histogram
+# Define UI for application
 shinyUI(
     navbarPage(title = "Data Exploration",
         
         tabPanel(title = "Home",
-            titlePanel(
-                h1("Welcome", align = "center")
-            )
+        fluidPage(titlePanel(
+            tags$h1(HTML(paste0("Megacephalus - ", tags$i("Campylobacter jejuni"))), align = "center")),
+        includeHTML("homepage.html"))
         ),
         
-        tabPanel(title = "Gene Expression",
-            
-            sidebarPanel(
-                selectizeInput(
-                    inputId = "geneID",
-                    label = "Input geneID",
-                    choices = NULL,
-                    selected=NULL,
-                    multiple = F, # allow for multiple inputs
-                    options = list(create = FALSE, placeholder = "E.g AH39280") # if TRUE, allows newly created inputs
-                ),
-                selectizeInput(
-                    inputId = "treatment",
-                    label = "Select treatment type",
-                    choices = NULL,
-                    selected=NULL,
-                    multiple = T, # allow for multiple inputs
-                    options = list(create = FALSE) # if TRUE, allows newly created inputs
-                ),
-                actionButton("plot.gene.exp", "Plot")
-            ),
-            
-            mainPanel(
-                plotOutput("GeneExpPlot")
-            )
-        ),
-        
-        tabPanel(title = "PCAPlot",
-            
-            sidebarPanel(
-                selectizeInput(
-                    inputId = "pca.treatment",
-                    label = "Select treatment type",
-                    choices = NULL,
-                    selected=NULL,
-                    multiple = T, # allow for multiple inputs
-                    options = list(create = FALSE) # if TRUE, allows newly created inputs
+        tabPanel(title ="DGE analysis",
+            sidebarLayout(
+                sidebarPanel(
+                    selectizeInput(
+                        inputId="pairwise",
+                        label = "Input desired pairwise comparison.",
+                        choices = c("Spiral Stationary VS Spiral Exponential",
+                                    "Spiral Stationary VS Filamentous Exponential"),
+                        selected=NULL,
+                        multiple = F,
+                        options = list(create=F, placeholder= "EG: SsSe")
                     ),
-                actionButton("plot.pca", "Plot")
-            ),
+                    
+                    sliderInput(
+                        inputId = "log2fc_input",
+                        label = "Log2 fold change threshold",
+                        value = 1.5,
+                        min = 0,
+                        max = 5,
+                        step = 0.01
+                    ),
+                    
+                    sliderInput(
+                        inputId = "deg_pval",
+                        label = "p-value threshold",
+                        value = 0.05,
+                        min = 0,
+                        max = 0.1,
+                        step = 0.001
+                    ),
+                    
+                    actionButton("Pairwise2", "Get Data")
+                ),
+                
+                mainPanel(
+                    tabsetPanel(
+                        tabPanel("Filtered Dataframe", dataTableOutput("DFdeg")),
+                        tabPanel("Volcano plot", plotOutput("Volcanoplot")), 
+                        tabPanel("Heatmap", d3heatmapOutput("DEGHeatmap", width = "100%", height="600px")),
+                        type = "tabs"
+                    )
+                )
+            )
+        ),
         
-            mainPanel(
-                plotOutput("PCAPlot")
+        tabPanel(title = "Venn Diagram",
+            verticalLayout(
+                fluidRow(
+                    column(12, align = "center",plotOutput("drawVenn",width = "50%",))
+                ),
+                sidebarLayout(
+                     sidebarPanel(
+                        radioButtons("vennRadio", "Choose condition(s):",
+                            choiceNames = c("SsSe only", "SsFs only" , "SsSs&SsFe"),
+                            choiceValues = c("SsSe", "SsFs", "pair"),
+                            selected = "SsSe"),
+                        actionButton("vennButton", "Get Data!")
+                    ), 
+                    mainPanel(dataTableOutput("vennTable"))
+                )
+            )
+        ),
+        
+        tabPanel(title = "Gene Counts",
+            sidebarLayout(
+                sidebarPanel(
+                    selectizeInput(
+                        inputId = "geneExpID",
+                        label = "Input geneID",
+                        choices = NULL,
+                        selected=NULL,
+                        multiple = F, # allow for multiple inputs
+                        options = list(create = FALSE, placeholder = "E.g OIT94223") # if TRUE, allows newly created inputs
+                    ),
+                    radioButtons(
+                        inputId = "geneComparison",
+                        label = "Choose Comparison:",
+                        choiceNames = c("Ss-Se", "Ss-Fs"),
+                        choiceValues = c("SsSe", "SsFs"),
+                        selected = "SsSe"),
+                    actionButton("geneCountButton", "Get Data")
+                ),
+                mainPanel(plotOutput("GeneExpPlot"))
+            )
+        ),
+        
+        tabPanel(title = "PCA Plot",
+            sidebarLayout(
+                sidebarPanel(
+                    radioButtons(
+                        inputId = "PCAComparison",
+                        label = "Choose Comparison:",
+                        choiceNames = c("Ss-Se", "Ss-Fs"),
+                        choiceValues = c("SsSe", "SsFs"),
+                        selected = "SsSe"),
+                    actionButton("PCAButton", "Plot")
+                ),
+                mainPanel(plotOutput("PCAPlot"))
             )
         )
     )

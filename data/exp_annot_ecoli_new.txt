@@ -1,0 +1,134 @@
+SRR8909192,WO153,nan,Culture,nan,nan,water-7,10.1128/AAC.01207-19
+SRR8909310,WO153,nan,Culture,nan,nan,teixobactin,10.1128/AAC.01207-19
+SRR8909201,WO153,nan,Culture,nan,nan,linezolid,10.1128/AAC.01207-19
+SRR8909417,WO153,nan,Culture,nan,nan,linezolid,10.1128/AAC.01207-19
+SRR8909444,WO153,nan,Culture,nan,nan,linezolid,10.1128/AAC.01207-19
+SRR8909202,WO153,nan,Culture,nan,nan,thiostrepton,10.1128/AAC.01207-19
+SRR8909420,WO153,nan,Culture,nan,nan,thiostrepton,10.1128/AAC.01207-19
+SRR8909487,WO153,nan,Culture,nan,nan,thiostrepton,10.1128/AAC.01207-19
+SRR8909203,WO153,nan,Culture,nan,nan,levofloxacin,10.1128/AAC.01207-19
+SRR8909235,WO153,nan,Culture,nan,nan,levofloxacin,10.1128/AAC.01207-19
+SRR8909285,WO153,nan,Culture,nan,nan,levofloxacin,10.1128/AAC.01207-19
+SRR8909367,WO153,nan,Culture,nan,nan,levofloxacin,10.1128/AAC.01207-19
+SRR8909379,WO153,nan,Culture,nan,nan,levofloxacin,10.1128/AAC.01207-19
+SRR8909204,WO153,nan,Culture,nan,nan,water-8a,10.1128/AAC.01207-19
+SRR8909323,WO153,nan,Culture,nan,nan,water-8a,10.1128/AAC.01207-19
+SRR8909475,WO153,nan,Culture,nan,nan,water-8a,10.1128/AAC.01207-19
+SRR8909205,WO153,nan,Culture,nan,nan,water-10,10.1128/AAC.01207-19
+SRR8909295,WO153,nan,Culture,nan,nan,water-10,10.1128/AAC.01207-19
+SRR8909296,WO153,nan,Culture,nan,nan,water-10,10.1128/AAC.01207-19
+SRR8909189,WO153,nan,Culture,nan,nan,phosphomycin,10.1128/AAC.01207-19
+SRR8909207,WO153,nan,Culture,nan,nan,phosphomycin,10.1128/AAC.01207-19
+SRR8909283,WO153,nan,Culture,nan,nan,phosphomycin,10.1128/AAC.01207-19
+SRR8909299,WO153,nan,Culture,nan,nan,phosphomycin,10.1128/AAC.01207-19
+SRR8909331,WO153,nan,Culture,nan,nan,phosphomycin,10.1128/AAC.01207-19
+SRR8909400,WO153,nan,Culture,nan,nan,phosphomycin,10.1128/AAC.01207-19
+SRR8909414,WO153,nan,Culture,nan,nan,phosphomycin,10.1128/AAC.01207-19
+SRR8909419,WO153,nan,Culture,nan,nan,phosphomycin,10.1128/AAC.01207-19
+SRR8909428,WO153,nan,Culture,nan,nan,phosphomycin,10.1128/AAC.01207-19
+SRR8909208,WO153,nan,Culture,nan,nan,triclosan,10.1128/AAC.01207-19
+SRR8909271,WO153,nan,Culture,nan,nan,triclosan,10.1128/AAC.01207-19
+SRR8909376,WO153,nan,Culture,nan,nan,triclosan,10.1128/AAC.01207-19
+SRR8909406,WO153,nan,Culture,nan,nan,triclosan,10.1128/AAC.01207-19
+SRR8909209,WO153,nan,Culture,nan,nan,meropenem,10.1128/AAC.01207-19
+SRR8909232,WO153,nan,Culture,nan,nan,meropenem,10.1128/AAC.01207-19
+SRR8909244,WO153,nan,Culture,nan,nan,meropenem,10.1128/AAC.01207-19
+SRR8909293,WO153,nan,Culture,nan,nan,meropenem,10.1128/AAC.01207-19
+SRR8909452,WO153,nan,Culture,nan,nan,meropenem,10.1128/AAC.01207-19
+SRR8517249,AR0069,resistant strain,Culture,nan,60min,no meropenem,10.1038/s41591-019-0650-9
+SRR8517250,AR0048,resistant strain,Culture,nan,60min,no meropenem,10.1038/s41591-019-0650-9
+SRR8517254,RB002,susceptible strain,Culture,nan,60min,meropenem,10.1038/s41591-019-0650-9
+SRR8517460,AR0069,resistant strain,Culture,nan,30min,meropenem,10.1038/s41591-019-0650-9
+SRR8517578,AR0069,resistant strain,Culture,nan,30min,no meropenem,10.1038/s41591-019-0650-9
+SRR8909263,WO153,nan,Culture,nan,nan,dmso-9,10.1128/AAC.01207-19
+SRR8909266,WO153,nan,Culture,nan,nan,dmso-9,10.1128/AAC.01207-19
+SRR8909211,WO153,nan,Culture,nan,nan,ciprofloxacin,10.1128/AAC.01207-19
+SRR8909390,WO153,nan,Culture,nan,nan,ciprofloxacin,10.1128/AAC.01207-19
+SRR8836010,K12 C3000,ciprofloxacin resistant strain,Culture,nan,nan,co-exposure,10.1021/acs.est.0c01155
+SRR4896361,O25b:H4-ST131,nan,Clinical,nan,nan,ciprofloxacin-,10.3389/fmicb.2018.01438
+SRR4896362,O25b:H4-ST131,nan,Clinical,nan,nan,ciprofloxacin+,10.3389/fmicb.2018.01438
+SRR4896364,O25b:H4-ST131,nan,Clinical,nan,nan,ciprofloxacin+,10.3389/fmicb.2018.01438
+SRR4896365,O25b:H4-ST131,nan,Clinical,nan,nan,ciprofloxacin-,10.3389/fmicb.2018.01438
+SRR4896366,O25b:H4-ST131,nan,Clinical,nan,nan,ciprofloxacin+,10.3389/fmicb.2018.01438
+SRR6111092,K-12,nan,Animal faeces,nan,nan,no ciprofloxacin,10.1101/cshperspect.a025320
+SRR8909246,WO153,nan,Culture,nan,nan,sulfamethoxazole,10.1128/AAC.01207-19
+SRR8909301,WO153,nan,Culture,nan,nan,dmso-7,10.1128/AAC.01207-19
+SRR8909460,WO153,nan,Culture,nan,nan,dmso-7,10.1128/AAC.01207-19
+SRR8909216,WO153,nan,Culture,nan,nan,retapamulin,10.1128/AAC.01207-19
+SRR8909233,WO153,nan,Culture,nan,nan,retapamulin,10.1128/AAC.01207-19
+SRR8909217,WO153,nan,Culture,nan,nan,water-8b,10.1128/AAC.01207-19
+SRR8909424,WO153,nan,Culture,nan,nan,water-8b,10.1128/AAC.01207-19
+SRR8909242,WO153,nan,Culture,nan,nan,penicillin,10.1128/AAC.01207-19
+SRR8909389,WO153,nan,Culture,nan,nan,penicillin,10.1128/AAC.01207-19
+SRR8909393,WO153,nan,Culture,nan,nan,penicillin,10.1128/AAC.01207-19
+SRR8909445,WO153,nan,Culture,nan,nan,penicillin,10.1128/AAC.01207-19
+SRR8909267,WO153,nan,Culture,nan,nan,colistin,10.1128/AAC.01207-19
+SRR8909361,WO153,nan,Culture,nan,nan,colistin,10.1128/AAC.01207-19
+SRR8909433,WO153,nan,Culture,nan,nan,colistin,10.1128/AAC.01207-19
+SRR8909222,WO153,nan,Culture,nan,nan,d-cycloserine,10.1128/AAC.01207-19
+SRR8909289,WO153,nan,Culture,nan,nan,d-cycloserine,10.1128/AAC.01207-19
+SRR8909477,WO153,nan,Culture,nan,nan,d-cycloserine,10.1128/AAC.01207-19
+SRR8909255,WO153,nan,Culture,nan,nan,fidaxomicin,10.1128/AAC.01207-19
+SRR8909278,WO153,nan,Culture,nan,nan,fidaxomicin,10.1128/AAC.01207-19
+SRR8909489,WO153,nan,Culture,nan,nan,fidaxomicin,10.1128/AAC.01207-19
+SRR8909254,WO153,nan,Culture,nan,nan,novobiocin,10.1128/AAC.01207-19
+SRR8909319,WO153,nan,Culture,nan,nan,novobiocin,10.1128/AAC.01207-19
+SRR8909456,WO153,nan,Culture,nan,nan,novobiocin,10.1128/AAC.01207-19
+SRR8909340,WO153,nan,Culture,nan,nan,trimethoprim,10.1128/AAC.01207-19
+SRR8909237,WO153,nan,Culture,nan,nan,norfloxacin,10.1128/AAC.01207-19
+SRR8909462,WO153,nan,Culture,nan,nan,norfloxacin,10.1128/AAC.01207-19
+SRR2914536,K-12 MG1655,delta[mutS],Culture,nan,nan,50ng/ml norfloxacin,10.1073/pnas.1601208113
+SRR2914537,K-12 MG1655,delta[mutS],Culture,nan,nan,50ng/ml norfloxacin,10.1073/pnas.1601208113
+SRR2914544,K-12 MG1655,delta[mutS],Culture,nan,nan,75ng/ml norfloxacin,10.1073/pnas.1601208113
+SRR2914545,K-12 MG1655,delta[mutS],Culture,nan,nan,87.5ng/ml norfloxacin,10.1073/pnas.1601208113
+SRR2914547,K-12 MG1655,delta[mutS],Culture,nan,nan,87.5ng/ml norfloxacin,10.1073/pnas.1601208113
+SRR2914566,K-12 MG1655,WT,Culture,nan,nan,75ng/ml norfloxacin,10.1073/pnas.1601208113
+SRR2914569,K-12 MG1655,WT,Culture,nan,nan,87.5ng/ml norfloxacin,10.1073/pnas.1601208113
+SRR8909238,WO153,nan,Culture,nan,nan,tetracycline,10.1128/AAC.01207-19
+SRR8909274,WO153,nan,Culture,nan,nan,tetracycline,10.1128/AAC.01207-19
+SRR8909284,WO153,nan,Culture,nan,nan,tetracycline,10.1128/AAC.01207-19
+SRR8909357,WO153,nan,Culture,nan,nan,tetracycline,10.1128/AAC.01207-19
+SRR3171776,K-12 MG1655,nan,Culture,nan,nan,Adapted to tetracycline,10.1128/mSphere.00009-17
+SRR3171777,K-12 MG1655,nan,Culture,nan,nan,Adapted to tetracycline,10.1128/mSphere.00009-17
+SRR8909239,WO153,nan,Culture,nan,nan,water-6,10.1128/AAC.01207-19
+SRR8909422,WO153,nan,Culture,nan,nan,water-6,10.1128/AAC.01207-19
+SRR8909240,WO153,nan,Culture,nan,nan,zeocin,10.1128/AAC.01207-19
+SRR8909260,WO153,nan,Culture,nan,nan,zeocin,10.1128/AAC.01207-19
+SRR8909280,WO153,nan,Culture,nan,nan,zeocin,10.1128/AAC.01207-19
+SRR8909243,WO153,nan,Culture,nan,nan,nalidixic-acid,10.1128/AAC.01207-19
+SRR8909250,WO153,nan,Culture,nan,nan,nalidixic-acid,10.1128/AAC.01207-19
+SRR8909306,WO153,nan,Culture,nan,nan,nalidixic-acid,10.1128/AAC.01207-19
+SRR8909327,WO153,nan,Culture,nan,nan,nalidixic-acid,10.1128/AAC.01207-19
+SRR8909391,WO153,nan,Culture,nan,nan,nalidixic-acid,10.1128/AAC.01207-19
+SRR8909403,WO153,nan,Culture,nan,nan,nalidixic-acid,10.1128/AAC.01207-19
+SRR8909429,WO153,nan,Culture,nan,nan,nalidixic-acid,10.1128/AAC.01207-19
+SRR8909305,WO153,nan,Culture,nan,nan,chloramphenicol,10.1128/AAC.01207-19
+SRR8909307,WO153,nan,Culture,nan,nan,chloramphenicol,10.1128/AAC.01207-19
+SRR8909382,WO153,nan,Culture,nan,nan,chloramphenicol,10.1128/AAC.01207-19
+SRR8909434,WO153,nan,Culture,nan,nan,chloramphenicol,10.1128/AAC.01207-19
+SRR8521426,X1488,nan,Culture,nan,nan,no chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521427,X1488,nan,Culture,nan,nan,no chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521428,K-12 MG1655,nan,Culture,nan,nan,chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521429,X1488,nan,Culture,nan,nan,no chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521430,K-12 MG1655,nan,Culture,nan,nan,no chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521432,K-12 MG1655,nan,Culture,nan,nan,no chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521433,K-12 MG1655,nan,Culture,nan,nan,no chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521444,K-12 MG1655,nan,Culture,nan,nan,chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521447,X1488,nan,Culture,nan,nan,chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521448,X1488,nan,Culture,nan,nan,chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521451,K-12 MG1655,nan,Culture,nan,nan,chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521453,K-12 MG1655,nan,Culture,nan,nan,no chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8521454,K-12 MG1655,nan,Culture,nan,nan,no chloramphenicol,10.1016/j.molcel.2019.08.013
+SRR8909256,WO153,nan,Culture,nan,nan,cerulenin,10.1128/AAC.01207-19
+SRR8909302,WO153,nan,Culture,nan,nan,cerulenin,10.1128/AAC.01207-19
+SRR8909259,WO153,nan,Culture,nan,nan,bacitracin,10.1128/AAC.01207-19
+SRR8909326,WO153,nan,Culture,nan,nan,bacitracin,10.1128/AAC.01207-19
+SRR8909366,WO153,nan,Culture,nan,nan,bacitracin,10.1128/AAC.01207-19
+SRR8909368,WO153,nan,Culture,nan,nan,bacitracin,10.1128/AAC.01207-19
+SRR8909372,WO153,nan,Culture,nan,nan,bacitracin,10.1128/AAC.01207-19
+SRR8909383,WO153,nan,Culture,nan,nan,bacitracin,10.1128/AAC.01207-19
+SRR8909315,WO153,nan,Culture,nan,nan,cefotaxime,10.1128/AAC.01207-19
+SRR8909418,WO153,nan,Culture,nan,nan,cefotaxime,10.1128/AAC.01207-19
+SRR8909430,WO153,nan,Culture,nan,nan,cefotaxime,10.1128/AAC.01207-19
+SRR8909262,WO153,nan,Culture,nan,nan,metronidazole,10.1128/AAC.01207-19
+SRR8909265,WO153,nan,Culture,nan,nan,ethanol-8,10.1128/AAC.01207-19

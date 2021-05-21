@@ -1,0 +1,1447 @@
+OIT94561	Fumarate lyase, N-terminal,Adenylosuccinate lyase C-terminal
+OIT95684	Sulfur carrier protein FdhD
+OIT94124	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III, C-terminal,3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+OIT94111	Putative beta-lactamase-inhibitor-like, PepSY-like
+OIT95654	PBP domain
+OIT96103	Ppx/GppA phosphatase
+OIT94900	Manganese/iron superoxide dismutase, N-terminal,Manganese/iron superoxide dismutase, C-terminal
+OIT96324	tRNA methyltransferase TRMD/TRM10-type domain
+OIT94490	HP0268
+OIT94420	ABC3 transporter permease protein domain
+OIT94502	NUDIX hydrolase domain
+OIT96380	Signal transduction response regulator, receiver domain,GGDEF domain
+OIT91938	NAD(P)-binding domain
+OIT95889	Ribosomal protein S6
+OIT95033	EamA domain
+OIT96056	Methyl-accepting chemotaxis protein (MCP) signalling domain
+OIT95223	Ribosomal protein S5, C-terminal,Ribosomal protein S5, N-terminal
+OIT95231	Ribosomal protein S17/S11
+OIT92954	S-adenosylmethionine:tRNA ribosyltransferase-isomerase,  QueA
+OIT95197	ABC3 transporter permease protein domain,MacB-like periplasmic core domain
+OIT94537	Outer membrane protein beta-barrel domain
+OIT96335	PurE domain
+OIT95845	Semialdehyde dehydrogenase, NAD-binding,Semialdehyde dehydrogenase, dimerisation domain
+OIT94506	Thiaminase-2/PQQC
+OIT95555	DUS-like, FMN-binding domain
+OIT95886	Protein of unknown function DUF535
+OIT94118	Mg2+ transporter protein, CorA-like/Zinc transport protein ZntB
+OIT95916	Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding,Aspartate/ornithine carbamoyltransferase, Asp/Orn-binding domain
+OIT94690	Phenylalanine-tRNA ligase, class II, N-terminal,Phenylalanyl-tRNA synthetase
+OIT95548	Nucleoside phosphorylase domain
+OIT96342	-,SHS2 domain inserted in FtsA
+OIT95031	Shikimate kinase/gluconokinase
+OIT96383	Aminoacyl-tRNA synthetase, class II (D/K/N),OB-fold nucleic acid binding domain, AA-tRNA synthetase-type,GAD domain
+OIT96343	-,Peptidyl-prolyl cis-trans isomerase, PpiC-type
+OIT94514	Glycosyl transferase, family 4
+OIT93029	Methyltransferase domain
+OIT94384	-,Ankyrin repeat-containing domain
+OIT96089	OmpR/PhoB-type DNA-binding domain,Signal transduction response regulator, receiver domain
+OIT95570	5-methylcytosine restriction system component
+OIT96315	Methyltransferase small domain,Release factor glutamine methyltransferase, N-terminal domain
+OIT95521	Penicillin-binding protein activator LpoB
+OIT96389	DNA recombination-mediator protein A
+OIT96077	ComEC/Rec2-related protein
+OIT95702	Urease accessory protein UreH-like, transmembrane domain
+OIT94854	Phosphoribosyltransferase domain
+OIT93430	Helix-turn-helix domain, group 17
+OIT94914	Tetrapyrrole methylase
+OIT94458	Peroxide stress protein YaaA
+OIT96387	SAM-dependent methyltransferase RsmB/NOP2-type
+OIT95912	Preprotein translocase YajC
+OIT95010	Baseplate protein J-like
+OIT94186	Oligosaccharyl transferase, STT3 subunit,STT3 subunit PglB, C-terminal beta-barrel domain
+OIT93434	Type IV conjugative transfer system, protein TraL
+OIT95871	DNA mismatch repair protein MutS, C-terminal,Smr domain
+OIT94213	Gluconate 2-dehydrogenase subunit 3
+OIT94434	MnmE, helical domain,GTP binding domain,GTP-binding protein TrmE, N-terminal
+OIT94352	Forkhead-associated (FHA) domain
+OIT95676	Sulfur carrier ThiS/MoaD-like
+OIT94207	Succinate dehydrogenase/fumarate reductase type B, transmembrane subunit
+OIT95882	Nitroreductase
+OIT94488	Major facilitator superfamily
+OIT96436	DNA replication regulator, HobA
+OIT96045	Type III secretion system inner membrane R protein
+OIT96417	Molybdenum cofactor sulfurase, C-terminal
+OIT96433	NAD-dependent DNA ligase, adenylation,NAD-dependent DNA ligase, OB-fold,BRCT domain
+OIT95320	UbiD decarboxylyase family
+OIT96081	Csd3, N-terminal,Peptidase M23
+OIT91935	UDP-galactopyranose mutase, C-terminal,-
+OIT96397	Hydrogenase expression/formation protein, HupF/HypC
+OIT94974	AAA+ ATPase domain
+OIT96062	Glycerol-3-phosphate dehydrogenase, NAD-dependent, C-terminal,Glycerol-3-phosphate dehydrogenase, NAD-dependent, N-terminal
+OIT93588	ABC transporter-like
+OIT92063	AMP-dependent synthetase/ligase,Major facilitator superfamily,Phospholipid/glycerol acyltransferase
+OIT95703	OmpR/PhoB-type DNA-binding domain,Signal transduction response regulator, receiver domain
+OIT94115	3-dehydroquinate synthase domain
+OIT94419	ABC transporter type 1, transmembrane domain MetI-like
+OIT94401	Putative F0F1-ATPase subunit, Ca2+/Mg2+ transporter
+OIT95238	Ribosomal protein L25/L23
+OIT93435	Pilus assembly TraE
+OIT94565	Glutamine amidotransferase,CTP synthase, N-terminal
+OIT92623	Nitrate reductase cytochrome c-type subunit NapB
+OIT94743	Flagellar basal body-associated protein FliL
+OIT94655	Biotin/lipoyl attachment,Carboxylase, conserved domain,Pyruvate carboxyltransferase
+OIT95899	Tetrapyrrole biosynthesis, uroporphyrinogen III synthase
+OIT95012	Phage tail fibre protein
+OIT94246	NADH-quinone oxidoreductase, subunit D
+OIT92123	Type-F conjugative transfer system pilin assembly protein TrbC
+OIT95327	Pyruvate/ketoisovalerate oxidoreductase, catalytic domain
+OIT95539	ATP synthase, F1 complex, delta/epsilon subunit, N-terminal
+OIT96060	Phosphate transporter
+OIT95876	Exonuclease VII, small subunit
+OIT94300	Transglycosylase SLT domain 1
+OIT95200	Redoxin
+OIT94478	Ribosomal protein L33
+OIT94779	Peptidase S8/S53 domain,Autotransporter beta-domain,Autotransporter-associated beta strand repeat
+OIT95171	Chorismate synthase
+OIT95642	Cupin 2, conserved barrel
+OIT94214	Glucose-methanol-choline oxidoreductase, N-terminal,Glucose-methanol-choline oxidoreductase, C-terminal
+OIT94454	Major facilitator superfamily
+OIT96418	Sodium:neurotransmitter symporter
+OIT94424	DNA helicase Pif1-like,DNA helicase
+OIT94904	UbiA prenyltransferase family
+OIT95340	Sodium-dependent phosphate transport protein
+OIT95326	Protein of unknown function DUF2018
+OIT94291	Cro/C1-type helix-turn-helix domain
+OIT94374	Decaprenyl diphosphate synthase-like
+OIT94961	Ferric-uptake regulator
+OIT95484	Flagellar basal-body/hook protein, C-terminal domain,Flagellar basal body rod protein, N-terminal
+OIT95310	Multi antimicrobial extrusion protein
+OIT94776	MlaA lipoprotein
+OIT95225	Ribosomal protein L6, alpha-beta domain
+OIT92224	Histidine biosynthesis protein
+OIT94841	Metal-dependent hydrolase HDOD
+OIT95689	Aldehyde dehydrogenase domain,Proline dehydrogenase domain
+OIT95674	MoeA, N-terminal and linker domain,MoaB/Mog domain
+OIT93919	Carbamoyl-phosphate synthetase, large subunit oligomerisation domain,Carbamoyl-phosphate synthetase large subunit-like, ATP-binding domain,Carbamoyl-phosphate synthetase large subunit-like, ATP-binding domain,Methylglyoxal synthase-like domain
+OIT93750	NAD/GMP synthase
+OIT93040	NAD(P)-binding domain
+OIT94472	Ribosomal protein L7/L12, C-terminal,Ribosomal protein L7/L12, oligomerisation
+OIT95850	Phosphoribosyltransferase domain
+OIT94321	Thymidylate kinase-like domain
+OIT95314	Protein of unknown function DUF2891
+OIT94605	Permease LptG/LptF-related
+OIT94742	4'-phosphopantetheinyl transferase domain
+OIT94330	Heat shock protein 70 family
+OIT95904	Bactofilin A/B
+OIT95233	Ribosomal protein L10e/L16
+OIT94391	Molybdopterin-guanine dinucleotide biosynthesis protein B (MobB) domain
+OIT95895	Pyrroline-5-carboxylate reductase, dimerisation domain,Pyrroline-5-carboxylate reductase, catalytic, N-terminal
+OIT93590	ABC transporter, permease protein, BtuC-like
+OIT93592	MobA-like NTP transferase
+OIT94878	Dihydrodipicolinate reductase, C-terminal,Dihydrodipicolinate reductase, N-terminal
+OIT94395	Calcineurin-like phosphoesterase domain, ApaH type
+OIT94908	-
+OIT95371	Domain of unknown function DUF4376
+OIT94772	Major facilitator superfamily
+OIT95508	4Fe-4S ferredoxin-type, iron-sulphur binding domain,LUD domain,4Fe-4S binding protein, C-terminal
+OIT94202	Domain of unknown function DUF1882
+OIT96099	Haloacid dehalogenase-like hydrolase
+OIT95167	Biopolymer transport protein ExbD/TolR
+OIT94885	-,Magnesium chelatase ChlI domain,Mg chelatase-related protein, C-terminal domain
+OIT94407	Enolpyruvate transferase domain
+OIT91419	Ankyrin repeat-containing domain
+OIT90411	HicA mRNA interferase family
+OIT95328	Thiamine pyrophosphate enzyme, C-terminal TPP-binding
+OIT94421	SecA, preprotein cross-linking domain,SecA DEAD-like, N-terminal,SecA Wing/Scaffold,SEC-C motif
+OIT96120	Protein of unknown function DUF4230
+OIT95660	Ferritin/DPS protein domain
+OIT95541	Biopolymer transport protein ExbD/TolR
+OIT94920	Uncharacterised protein family UPF0102
+OIT96362	Argininosuccinate synthase
+OIT94456	Adhesin JlpA, Campylobacter
+OIT94709	DSBA-like thioredoxin domain
+OIT95927	Leucyl/phenylalanyl-tRNA-protein transferase
+OIT95186	ABC-type transport auxiliary lipoprotein component
+OIT95713	UvrD/AddA helicase, N-terminal,UvrD-like DNA helicase, C-terminal,UvrD-like DNA helicase, C-terminal
+OIT94184	Bacterial sugar transferase
+OIT95069	Tryptophan synthase, alpha chain
+OIT94432	DnaJ domain,Co-chaperone DjlA, N-terminal
+OIT94505	Phosphopantetheine binding ACP domain
+OIT95857	N-end aminoacyl transferase, N-terminal,N-end rule aminoacyl transferase, C-terminal
+OIT95651	Flavodoxin-like fold
+OIT96321	DAHP synthetase, class II
+OIT94464	Pentapeptide repeat
+OIT94469	Ribosomal protein S12/S23
+OIT94607	Ribosomal protein L25, beta domain,Ribosomal protein L25
+OIT93038	Acylneuraminate cytidylyltransferase
+OIT95176	NIF system FeS cluster assembly, NifU, C-terminal
+OIT95494	Surface presentation of antigen (SpoA)
+OIT94297	Type IV secretion system coupling protein TraD, DNA-binding domain
+OIT94992	Phage Tail Protein X-like
+OIT94843	Ribosomal protein L20
+OIT95403	Isocitrate dehydrogenase NADP-dependent, monomeric
+OIT93926	Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant
+OIT95688	PurM-like, C-terminal domain,PurM-like, N-terminal domain
+OIT96033	Lactate/malate dehydrogenase, N-terminal,Lactate/malate dehydrogenase, C-terminal
+OIT93921	-
+OIT93757	ABC transporter type 1, transmembrane domain,ABC transporter-like
+OIT94767	Thioredoxin-like fold
+OIT92781	Glycosyl transferase, family 8
+OIT95132	DNA-directed RNA polymerase, RpoA/D/Rpb3-type,DNA-directed RNA polymerase, insert domain,RNA polymerase, alpha subunit, C-terminal
+OIT96421	MotA/TolQ/ExbB proton channel
+OIT95219	Xaa-Pro dipeptidyl-peptidase, C-terminal,Xaa-Pro dipeptidyl-peptidase-like domain
+OIT96377	RlpA-like protein, double-psi beta-barrel domain,Sporulation-like domain
+OIT95020	Phage tail tape measure protein
+OIT92227	Acylneuraminate cytidylyltransferase
+OIT95723	Type II/IV secretion system protein
+OIT94542	DNA topoisomerase, type IIA, subunit B, domain 2,Histidine kinase/HSP90-like ATPase,DNA gyrase B subunit, C-terminal,TOPRIM  domain
+OIT94200	Aminoacyl-tRNA synthetase, class II (D/K/N)
+OIT94591	YjgF/YER057c/UK114 family
+OIT94245	NADH:ubiquinone oxidoreductase, 30kDa subunit
+OIT96442	RNA-binding S4 domain
+OIT94106	Uncharacterised protein family UPF0324, prokaryote
+OIT95485	Flagellar assembly protein A
+OIT96356	UvrB, interaction domain,Helicase/UvrB, N-terminal,Helicase, C-terminal,UvrB, YAD/RRR-motif-containing domain,UVR domain
+OIT94777	Phosphoribosyltransferase domain
+OIT94314	ABC transporter type 1, transmembrane domain MetI-like
+OIT91745	Tox-REase-7 domain
+OIT94747	Cytidyltransferase-like domain
+OIT94289	Primosome PriB/single-strand DNA-binding
+OIT93190	CBS domain,Sugar isomerase (SIS)
+OIT95369	Campylobacter phage CGC-2007, Cje0229
+OIT94404	Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain,Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain
+OIT95656	ABC transporter-like
+OIT94971	Bacteriophage CI repressor,Peptidase S24/S26A/S26B/S26C
+OIT96323	Ribosomal protein L19
+OIT96067	Cobalamin-independent methionine synthase MetE, N-terminal,Cobalamin-independent methionine synthase MetE, C-terminal/archaeal
+OIT94765	Flavodoxin/nitric oxide synthase
+OIT95643	DNA methylase, adenine-specific,N6 adenine-specific DNA methyltransferase, N-terminal domain
+OIT96358	Potassium-transporting ATPase A chain
+OIT95192	Na+/H+ antiporter NhaA
+OIT94978	Host-nuclease inhibitor protein Gam
+OIT94883	Clp protease proteolytic subunit /Translocation-enhancing protein TepA
+OIT92472	Toxic anion resistance
+OIT94673	Thioesterase domain
+OIT92777	NAD-dependent epimerase/dehydratase
+OIT93933	Molybdopterin oxidoreductase, N-terminal,Molybdopterin dinucleotide-binding domain,Molybdopterin oxidoreductase
+OIT95232	Ribosomal protein L29/L35
+OIT94324	Hexapeptide repeat
+OIT94855	RDD
+OIT91840	AMP-dependent synthetase/ligase
+OIT95894	Flagellar assembly factor FliW
+OIT94871	Undecaprenyl-diphosphatase UppP
+OIT94122	Protein of unknown function DUF2920
+OIT96378	LysM domain,Transglycosylase SLT domain 1
+OIT96104	Pyridoxal phosphate (active vitamin B6) biosynthesis PdxJ
+OIT95230	Ribosomal protein L14P
+OIT92629	tRNA nucleotidyltransferase/poly(A) polymerase, RNA and SrmB- binding domain,Poly A polymerase, head domain
+OIT94097	Protein of unknown function DUF5416
+OIT96401	Protein of unknown function DUF45
+OIT94485	Helicase, C-terminal,Helicase/UvrB, N-terminal
+OIT95887	FAD/NAD(P)-binding domain,Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain
+OIT92952	Sec-independent protein translocase protein TatA/B/E
+OIT95318	Flagellin hook, IN motif,Flagellar hook-associated protein 2, C-terminal,Flagellar hook-associated protein 2, N-terminal
+OIT94851	Bax inhibitor 1-related
+OIT93197	dUTPase/dCTP pyrophosphatase
+OIT93930	Conserved hypothetical protein CHP02588
+OIT95190	Endopeptidase, NLPC/P60 domain
+OIT96390	Divergent polysaccharide deacetylase
+OIT95507	LUD domain
+OIT95376	Protein of unknown function DUF5309
+OIT94145	Domain of unknown function DUF2172,Domain of unknown function DUF4910,UCP01524, winged helix-turn-helix domain
+OIT95736	C-methyltransferase,-
+OIT93431	UvrD-like DNA helicase, C-terminal,-
+OIT94700	Flagellin, D0/D1 domain
+OIT95330	4Fe-4S ferredoxin-type, iron-sulphur binding domain
+OIT94430	Methyl-accepting chemotaxis protein (MCP) signalling domain,HAMP domain
+OIT94606	Peptidyl-tRNA hydrolase
+OIT94375	Peptidase A24A, N-terminal
+OIT95691	Restriction endonuclease, type I, HsdR, N-terminal,Type-1 restriction enzyme R protein, C-terminal,SWI2/SNF2 ATPase
+OIT95509	Cysteine-rich domain
+OIT94923	FIST domain, N-terminal
+OIT92776	C-methyltransferase,-
+OIT94409	Glutamine amidotransferase
+OIT94836	Uncharacterised protein family UPF0250
+OIT96413	RND efflux pump, membrane fusion protein, barrel-sandwich domain
+OIT94995	Protein of unknown function DUF935
+OIT94583	Type III secretion system substrate exporter
+OIT94860	Aminotransferase class-III
+OIT94549	-
+OIT95138	Glutamine amidotransferase
+OIT94663	Sugar-phosphate isomerase, RpiB/LacA/LacB family
+OIT95313	-
+OIT94897	Saccharopine dehydrogenase, NADP binding domain,Saccharopine dehydrogenase, C-terminal
+OIT94784	Fumarase C, C-terminal,Fumarate lyase, N-terminal
+OIT94307	Molybdopterin dinucleotide-binding domain,Molybdopterin oxidoreductase, 4Fe-4S domain,Molybdopterin oxidoreductase
+OIT95332	ATP-citrate lyase/succinyl-CoA ligase,ATP-grasp fold, succinyl-CoA synthetase-type
+OIT94243	NADH:ubiquinone/plastoquinone oxidoreductase, chain 3
+OIT94152	-
+OIT95544	OmpA-like domain
+OIT95930	Pyridoxamine kinase/Phosphomethylpyrimidine kinase
+OIT94316	Lipoprotein NlpA family
+OIT93442	TraG, P-loop domain,Type-IV secretion system protein TraC/Conjugative transfer ATPase
+OIT94130	DegT/DnrJ/EryC1/StrS aminotransferase
+OIT94538	Flagellar basal-body/hook protein, C-terminal domain,Flagellar basal body rod protein, N-terminal,Flagellar hook protein FlgE
+OIT94225	Impact, N-terminal
+OIT96334	Domain of unknown function DUF3972
+OIT95215	Citrate synthase
+OIT95367	Domain of unknown function DUF5675
+OIT95054	Outer membrane efflux protein
+OIT96118	Uracil-DNA glycosylase-like
+OIT95926	Clp,  repeat (R) domain,ATPase, AAA-type, core,ClpA/ClpB, AAA lid domain,Clp ATPase, C-terminal,ATPase, AAA-type, core
+OIT94600	Flagellar M-ring C-terminal,Flagellar M-ring , N-terminal
+OIT95738	Domain of unknown function DUF5644
+OIT95175	DNA primase, catalytic core, N-terminal,Zinc finger, CHC2-type,-
+OIT94736	-
+OIT95929	ThiS-like ubiquitin domain,THIF-type NAD/FAD binding fold
+OIT96040	Small multidrug resistance protein family
+OIT92346	6-hydroxymethylpterin diphosphokinase MptE-like
+OIT96037	Cyclophilin-type peptidyl-prolyl cis-trans isomerase domain
+OIT95840	Leucine-binding protein domain
+OIT95222	Ribosomal protein L18e/L15P
+OIT96032	Putative threonine/serine exporter
+OIT96363	Ribosomal protein L9, N-terminal,Ribosomal protein L9, C-terminal
+OIT94755	Adenylosuccinate lyase C-terminal,Fumarate lyase, N-terminal
+OIT94410	Aminotransferase class IV,Chorismate-utilising enzyme, C-terminal
+OIT93763	Type II toxin-antitoxin system, antitoxin Phd/YefM
+OIT94362	Type VI secretion system TssF
+OIT96316	Domain of unknown function DUF4149
+OIT92950	NUDIX hydrolase domain
+OIT95188	Peptidase M24
+OIT94540	Chromosomal replication initiator protein DnaA,Chromosomal replication initiator, DnaA C-terminal,DnaA N-terminal domain
+OIT95483	Flagellar hook capping protein,FlgD Ig-like domain
+OIT94759	YjgF/YER057c/UK114 family
+OIT96058	Sodium:dicarboxylate symporter
+OIT94832	DAGK family
+OIT95128	Ribosomal protein L36
+OIT96102	Protein arginine methyltransferase NDUFAF7
+OIT94238	Solute-binding protein family 5 domain
+OIT94689	Histidine triad (HIT) protein
+OIT95317	Flagellar protein FliS
+OIT95480	Translation elongation factor EFTu-like, domain 2,Translational (tr)-type GTP-binding domain,Elongation factor EFG, domain V-like
+OIT95890	Primosome PriB/single-strand DNA-binding
+OIT94907	Molybdenum cofactor synthesis C-terminal,-,Radical SAM
+OIT94475	Ribosomal protein L11, C-terminal,Ribosomal protein L11, N-terminal
+OIT91936	NAD-dependent epimerase/dehydratase
+OIT94468	Ribosomal protein S7 domain
+OIT94226	Glycosyltransferase RgtA/B/C/D-like
+OIT94154	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain,Rho termination factor, N-terminal,Rho termination factor, RNA-binding domain
+OIT91346	Domain of unknown function DUF1910,Domain of unknown function DUF1911
+OIT95014	Campylobacter phage CGC-2007, Cje0229
+OIT94750	Triosephosphate isomerase
+OIT94310	UvrD/AddA helicase, N-terminal,UvrD-like DNA helicase, C-terminal
+OIT96388	Putative pre-16S rRNA nuclease
+OIT93595	-
+OIT94322	Class II Histidinyl-tRNA synthetase (HisRS)-like catalytic core domain,Anticodon-binding
+OIT94586	Nucleoside diphosphate kinase-like domain
+OIT96304	Filamentous haemagglutinin, N-terminal
+OIT94683	tRNA/rRNA methyltransferase, SpoU type
+OIT95142	Phosphoribosyl-ATP pyrophosphohydrolase-like,Phosphoribosyl-AMP cyclohydrolase domain
+OIT96429	Methyltransferase domain
+OIT94425	NLPC/P60, N-terminal domain,SH3b2-type SH3 domain,Endopeptidase, NLPC/P60 domain,SH3b1 domain
+OIT93201	Peptide chain release factor class I,Peptide chain release factor
+OIT94582	Motility protein B, N-terminal domain,OmpA-like domain
+OIT94251	4Fe-4S ferredoxin-type, iron-sulphur binding domain
+OIT96050	Cytochrome c-like domain
+OIT96065	Oxoglutarate/iron-dependent dioxygenase,Non-haem dioxygenase N-terminal domain
+OIT96075	HD domain,Ribonuclease Y, N-terminal
+OIT95540	MotA/TolQ/ExbB proton channel
+OIT94217	Lipid/polyisoprenoid-binding, YceI-like
+OIT95179	Nucleoid-associated protein YbaB/EbfC family
+OIT95910	Protein-export membrane protein SecD/SecF, archaeal and bacterial,Protein-export membrane protein SecD/SecF/SecDF, conserved site
+OIT94761	-
+OIT91837	Protein of unknown function DUF2920
+OIT96406	PBP domain
+OIT96047	Translation elongation factor EFTs/EF1B, dimerisation
+OIT94119	Integrase, DNA-binding domain
+OIT94754	MmgE/PrpD
+OIT94763	Uncharacterised conserved protein UCP020408
+OIT94167	UDP-N-acetylglucosamine 2-epimerase domain
+OIT96126	Histidine kinase/HSP90-like ATPase
+OIT93593	-,NFACT, RNA-binding domain
+OIT96308	ABC transporter type 1, transmembrane domain MetI-like
+OIT92345	Flagellin, D0/D1 domain,Flagellin hook, IN motif,Flagellin hook, IN motif
+OIT95869	Amino acid exporter protein, LeuE-type
+OIT95687	TusA-like domain
+OIT94730	Protein of unknown function DUF2972
+OIT95498	Flagellum site-determining protein YlxH/ Fe-S cluster assembling factor NBP35
+OIT96341	Cell division protein FtsZ, C-terminal,Tubulin/FtsZ, GTPase domain
+OIT94701	FtsK domain,FtsK gamma domain,FtsK alpha domain
+OIT95659	Phosphoglucose isomerase (PGI)
+OIT93599	Prokaryotic N-terminal methylation site
+OIT95863	Radical SAM,Biotin and thiamin synthesis-associated domain
+OIT95045	D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding domain,D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+OIT94869	Translation initiation factor 3, N-terminal,Translation initiation factor 3, C-terminal
+OIT94993	Myoviridae, GpU
+OIT93922	Clp ATPase, C-terminal,Zinc finger, ClpX C4-type,ATPase, AAA-type, core
+OIT94381	(Uracil-5)-methyltransferase family
+OIT96333	Glycine-tRNA ligase, alpha subunit
+OIT94107	LysR, substrate-binding,Transcription regulator HTH, LysR
+OIT95030	Aminoacyl-tRNA synthetase, class Ic
+OIT94888	Formyl transferase, N-terminal
+OIT95133	Ribosomal protein L17
+OIT92956	ACT domain,Acetolactate synthase, small subunit, C-terminal
+OIT92775	NAD-dependent epimerase/dehydratase
+OIT94244	NADH:ubiquinone oxidoreductase-like, 20kDa subunit
+OIT94109	Histidine phosphatase superfamily, clade-1
+OIT95512	Cytochrome ubiquinol oxidase subunit 1
+OIT92064	Membrane transport protein
+OIT95542	-
+OIT95846	Signal transduction response regulator, receiver domain,RNA polymerase sigma factor 54 interaction domain
+OIT94465	Helix-turn-helix domain, group 17
+OIT95568	Ribosome maturation factor RimP, N-terminal,Ribosome maturation factor RimP, C-terminal
+OIT95567	Ribosome-binding factor A
+OIT95706	Cbb3-type cytochrome oxidase component
+OIT96100	Glycine-tRNA ligase, beta subunit
+OIT94252	NADH:ubiquinone/plastoquinone oxidoreductase, chain 6
+OIT95564	UDP-3-O-acyl N-acetylglucosamine deacetylase
+OIT94557	Methyl-accepting chemotaxis protein (MCP) signalling domain
+OIT96064	S-ribosylhomocysteinase (LuxS)
+OIT95344	Putative fluoride ion transporter CrcB
+OIT94676	Pyridoxal-phosphate dependent enzyme
+OIT95708	Protein of unknown function DUF4006
+OIT94580	DNA polymerase I-like, H3TH domain,3'-5' exonuclease domain,DNA-directed DNA polymerase, family A, palm domain,5'-3' exonuclease, alpha-helical arch, N-terminal
+OIT96130	Nickel-dependent hydrogenase, large subunit
+OIT96078	Virulence factor BrkB
+OIT94893	SbmA/BacA-like
+OIT94193	Glycosyl transferase, family 9
+OIT93761	DNA helicase, Holliday junction RuvA type, domain I, bacterial,-,Holliday junction DNA helicase RuvA, C-terminal
+OIT92625	Chaperone NapD, nitrate reductase assembly
+OIT96055	PAS fold-3
+OIT96048	Ribosomal protein S2
+OIT94497	Exonuclease, RNase T/DNA polymerase III
+OIT96366	GTP binding domain,K Homology domain, type 2
+OIT96116	RDD
+OIT95692	Restriction endonuclease, type I, HsdS
+OIT95349	SAICAR synthetase/ADE2, N-terminal
+OIT94212	Sel1-like repeat
+OIT94921	Thioredoxin domain
+OIT95059	Alpha-D-phosphohexomutase, alpha/beta/alpha domain II,Alpha-D-phosphohexomutase, alpha/beta/alpha domain III,Alpha-D-phosphohexomutase, alpha/beta/alpha domain I,Alpha-D-phosphohexomutase, C-terminal
+OIT94685	ABC transporter-like
+OIT95695	TusA-like domain
+OIT95166	MotA/TolQ/ExbB proton channel
+OIT92125	Enterobacterial TraT complement resistance
+OIT95685	Transcription regulator HTH, LysR
+OIT94344	Protein of unknown function DUF2974
+OIT94142	Probable peptidoglycan glycosyltransferase FtsW/RodA
+OIT95322	FxsA cytoplasmic membrane protein
+OIT96430	Riboflavin kinase domain, bacterial/eukaryotic,FAD synthetase,FAD synthetase
+OIT95165	Domain of unknown function DUF4261
+OIT96349	Phosphate acetyl/butaryl transferase
+OIT95304	Dynamin-like helical domain,GTP binding domain
+OIT94452	Staphylococcal nuclease (SNase-like), OB-fold
+OIT94629	Glycosyl transferase, family 19
+OIT95140	ASXL, HARE-HTH domain
+OIT94999	Major capsid protein GpE
+OIT94393	CCB3/YggT
+OIT94348	Glycoside hydrolase, family 24
+OIT94353	IcmF-related,IcmF-related, N-terminal domain
+OIT95675	Molybdopterin biosynthesis MoaE
+OIT96088	Histidine kinase/HSP90-like ATPase
+OIT93748	Pyridoxal-phosphate dependent enzyme,Threonine synthase, N-terminal
+OIT94610	-
+OIT95860	Probable peptidoglycan glycosyltransferase FtsW/RodA
+OIT95025	Peptidase S24/S26A/S26B/S26C
+OIT94192	Predicted 3'-5' exonuclease, PolB-like
+OIT94615	-
+OIT96139	Peptidase M23
+OIT94919	Homoserine dehydrogenase, catalytic,Aspartate/homoserine dehydrogenase, NAD-binding,ACT domain
+OIT94143	RNA-binding S4 domain,Pseudouridine synthase, RsuA/RluA-like
+OIT94744	Alpha-D-phosphohexomutase, alpha/beta/alpha domain I,Alpha-D-phosphohexomutase, C-terminal,Alpha-D-phosphohexomutase, alpha/beta/alpha domain II,Alpha-D-phosphohexomutase, alpha/beta/alpha domain III
+OIT95067	Surface presentation of antigen (SpoA)
+OIT94467	Elongation Factor G, domain II,Translation elongation factor EFTu-like, domain 2,Elongation factor EFG, domain V-like,Translation elongation factor EFG/EF2, domain IV,Translational (tr)-type GTP-binding domain
+OIT95187	Flagellar FLiS export co-chaperone, HP1076
+OIT94762	Catalase core domain,Catalase immune-responsive domain
+OIT93585	Cytochrome c552
+OIT94912	Ribosomal RNA small subunit methyltransferase E
+OIT95018	Bacteriophage tail protein Gp41, putative
+OIT95488	Solute carrier family 13
+OIT93443	Peptidase S26
+OIT94323	Arginine decarboxylase, C-terminal helical,Orn/DAP/Arg decarboxylase 2, N-terminal,Arginine decarboxylase, helical bundle domain
+OIT93582	Autotransporter beta-domain
+OIT95348	Phosphoribosylformylglycinamidine synthase subunit PurS
+OIT94137	Malic enzyme, N-terminal domain,Malic enzyme, NAD-binding
+OIT95377	Phage-Barnase-EndoU-ColicinE5/D-RelE-like nuclease,Phage-Barnase-EndoU-ColicinE5/D-RelE like nuclease 2,DdrB-like domain
+OIT94960	Aminoacyl-tRNA synthetase, class II (D/K/N),OB-fold nucleic acid binding domain, AA-tRNA synthetase-type
+OIT95209	DNA recombination and repair protein RecA
+OIT92126	-
+OIT94376	Permease LptG/LptF-related
+OIT96311	Mg2+ transporter protein, CorA-like/Zinc transport protein ZntB
+OIT94694	S1 domain
+OIT96361	tRNA threonylcarbamoyl adenosine modification protein TsaE
+OIT95716	OmpA-like domain,Outer membrane protein beta-barrel domain
+OIT95026	KAP family P-loop domain
+OIT95531	AAA domain
+OIT94585	4Fe-4S ferredoxin-type, iron-sulphur binding domain
+OIT93438	Disulphide bond isomerase, DsbC/G, N-terminal,Thioredoxin-like fold
+OIT94149	Cation efflux protein
+OIT94110	Peptidase S54, rhomboid domain
+OIT96416	Thiol:disulfide interchange protein DsbD, N-terminal domain,Cytochrome C biogenesis protein, transmembrane domain,Thioredoxin domain
+OIT95311	-
+OIT94294	Bacteriophage regulatory protein, Rha family
+OIT94692	Enolpyruvate transferase domain
+OIT94702	Ribosomal protein S15
+OIT94751	-
+OIT94239	ABC transporter type 1, transmembrane domain MetI-like
+OIT92778	GHMP kinase N-terminal domain,GHMP kinase, C-terminal domain
+OIT94867	Peptidase S6, IgA endopeptidase
+OIT94127	Methyltransferase type 12
+OIT94526	Ribonuclease J, C-terminal,Zn-dependent metallo-hydrolase, RNA specificity domain,Metallo-beta-lactamase
+OIT95335	Endolytic murein transglycosylase
+OIT95515	Asp/Glu/hydantoin racemase
+OIT96352	Protein of unknown function DUF2972
+OIT94922	FAD/NAD(P)-binding domain
+OIT91937	UDP-glucose/GDP-mannose dehydrogenase, N-terminal,UDP-glucose/GDP-mannose dehydrogenase, C-terminal,UDP-glucose/GDP-mannose dehydrogenase, dimerisation
+OIT96111	UVR domain,GIY-YIG endonuclease,UvrC, RNAse H endonuclease domain
+OIT94670	Ribose-phosphate pyrophosphokinase,Ribose-phosphate pyrophosphokinase, N-terminal domain
+OIT95648	Alcohol dehydrogenase, C-terminal,Alcohol dehydrogenase, N-terminal
+OIT94783	Autotransporter beta-domain,Peptidase S8/S53 domain
+OIT95566	Translational (tr)-type GTP-binding domain,Translation initiation factor IF-2, N-terminal,Translation initiation factor IF-2, N-terminal,Translation initiation factor IF- 2, domain 3
+OIT95923	SsrA-binding protein
+OIT96325	PRC-barrel domain,RimM, N-terminal
+OIT95526	GTP binding domain,GTP1/OBG domain
+OIT95062	Dihydroneopterin aldolase/epimerase domain
+OIT95856	DnaJ domain
+OIT96369	Proton-dependent oligopeptide transporter family
+OIT95162	Serine dehydratase beta chain,Serine dehydratase-like, alpha subunit
+OIT94385	Aconitase B, HEAT-like domain,Aconitase/3-isopropylmalate dehydratase large subunit, alpha/beta/alpha domain,Aconitase B, swivel
+OIT94657	Fumarate lyase, N-terminal,Argininosuccinate lyase, C-terminal
+OIT95057	Protoporphyrinogen oxidase HemJ-like
+OIT93766	Acylneuraminate cytidylyltransferase
+OIT95058	Peptidase A8, signal peptidase II
+OIT94513	Metalloenzyme,BPG-independent PGAM, N-terminal
+OIT94422	Outer membrane lipoprotein carrier protein LolA-like
+OIT95164	Putative beta-lactamase-inhibitor-like, PepSY-like
+OIT95655	ABC transporter type 1, transmembrane domain MetI-like
+OIT95155	ABC transporter periplasmic binding domain
+OIT95172	Ribonuclease III domain,Double-stranded RNA-binding domain
+OIT93584	NapC/NirT cytochrome c, N-terminal
+OIT95547	Acyl transferase
+OIT96312	MoaB/Mog domain
+OIT95549	tRNA(Ile)-lysidine/2-thiocytidine synthase, N-terminal
+OIT92632	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain,Histidine kinase/HSP90-like ATPase
+OIT94553	HD domain
+OIT95501	Dehydroquinase, class II
+OIT94622	Survival protein SurE-like phosphatase/nucleotidase
+OIT96425	DNA/RNA non-specific endonuclease
+OIT96041	DALR anticodon binding,Arginyl-tRNA synthetase, catalytic core domain,Arginyl tRNA synthetase N-terminal domain
+OIT95873	Mur ligase, C-terminal,Mur ligase, central,Mur ligase, N-terminal catalytic domain
+OIT93583	Polyphosphate kinase N-terminal domain,Polyphosphate kinase C-terminal domain 2,Polyphosphate kinase, C-terminal domain 1,Polyphosphate kinase middle domain
+OIT95853	Outer membrane efflux protein
+OIT96394	Hydrogenase maturation factor HypA/HybF
+OIT94487	Radical SAM
+OIT96084	Lumazine-binding domain
+OIT94550	Desulfoferrodoxin, N-terminal domain,Rubrerythrin
+OIT93765	Mur ligase, central
+OIT95228	Ribosomal protein L5, C-terminal,Ribosomal protein L5, N-terminal
+OIT95191	Na+/H+ antiporter NhaA
+OIT94973	Transposase-like, Mu, C-terminal,Integrase, catalytic core
+OIT94659	Peptidase M17, leucyl aminopeptidase, C-terminal
+OIT95334	AsmA-like C-terminal region,Domain of unknown function DUF3971
+OIT94480	ABC transporter-like
+OIT95574	Pentapeptide repeat
+OIT95924	Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant
+OIT94165	Acylneuraminate cytidylyltransferase
+OIT94593	OB-fold nucleic acid binding domain,Exonuclease VII, large subunit, C-terminal
+OIT94359	Type VI secretion system sheath protein TssB1
+OIT90476	6-hydroxymethylpterin diphosphokinase MptE-like
+OIT94379	CoA-binding
+OIT95545	Tetratricopeptide repeat
+OIT94554	Queuosine biosynthesis protein QueC
+OIT92951	Radical SAM
+OIT94265	Zinc finger, CHC2-type,-
+OIT94134	Biotin carboxylase-like, N-terminal domain,Carbamoyl-phosphate synthetase large subunit-like, ATP-binding domain,Biotin carboxylase, C-terminal
+OIT94138	-
+OIT94102	Delta-aminolevulinic acid dehydratase
+OIT95139	Histidine biosynthesis protein
+OIT95653	Carboxyltransferase domain, subdomain C and D
+OIT95051	DNA-binding HTH domain, TetR-type
+OIT94195	Galactosyltransferase, C-terminal,Glycosyltransferase 2-like,Glycosyltransferase 2-like
+OIT95170	-,Thil, AANH domain
+OIT94688	DJ-1/PfpI
+OIT94548	Ribonuclease HII/HIII domain
+OIT94131	Polysaccharide biosynthesis protein, CapD-like domain
+OIT95546	FKBP-type peptidyl-prolyl cis-trans isomerase domain
+OIT95848	Lipoprotein LPP20-like
+OIT95701	Carbamoyl-phosphate synthase small subunit, N-terminal domain,Glutamine amidotransferase
+OIT94183	DegT/DnrJ/EryC1/StrS aminotransferase
+OIT95511	Protein of unknown function DUF4492
+OIT95905	Peptidase M23
+OIT94541	DNA polymerase III, beta sliding clamp, central,DNA polymerase III, beta sliding clamp, C-terminal,DNA polymerase III, beta sliding clamp, N-terminal
+OIT92949	Aspartate/glutamate/uridylate kinase
+OIT96306	Transport-associated OB, type 2,ABC transporter-like
+OIT94913	Ribosomal protein L31
+OIT91668	TraG, N-terminal, Proteobacteria
+OIT93598	Gcp-like domain
+OIT95644	Fic/DOC N-terminal,Fido domain
+OIT95495	Flagellar motor switch protein FliM,Surface presentation of antigen (SpoA)
+OIT94161	Glycosyl transferase, family 25
+OIT95884	CDP-alcohol phosphatidyltransferase
+OIT94140	Regulator of K+ conductance, N-terminal
+OIT95652	EamA domain
+OIT94621	THIF-type NAD/FAD binding fold
+OIT94664	Signal transduction response regulator, chemotaxis, protein-glutamate methylesterase
+OIT94872	Oligopeptide transporter, OPT superfamily
+OIT95037	Orotidine 5'-phosphate decarboxylase domain
+OIT94666	ABC transporter-like
+OIT94569	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF
+OIT95339	Penicillin-binding protein, dimerisation domain,Penicillin-binding protein, transpeptidase
+OIT94837	Molybdopterin cofactor biosynthesis C (MoaC) domain
+OIT94863	Semialdehyde dehydrogenase, NAD-binding,Semialdehyde dehydrogenase, dimerisation domain
+OIT96043	Guanylate kinase/L-type calcium channel beta subunit
+OIT94534	Isopropylmalate dehydrogenase-like domain
+OIT94508	Succinate dehydogenase/fumarate reductase N-terminal,4Fe-4S ferredoxin-type, iron-sulphur binding domain
+OIT94852	Preprotein translocase SecG subunit
+OIT96405	ABC transporter type 1, transmembrane domain MetI-like
+OIT94833	Phosphoethanolamine transferase, N-terminal,Sulfatase, N-terminal
+OIT95208	Enolase, N-terminal,Enolase, C-terminal TIM barrel domain
+OIT96051	Cytochrome b/b6, N-terminal,Cytochrome b/b6, C-terminal
+OIT94737	Capsule polysaccharide biosynthesis
+OIT92121	TraU
+OIT95657	AMP-binding enzyme, C-terminal domain,Acetyl-coenzyme A synthetase, N-terminal domain,AMP-dependent synthetase/ligase
+OIT95021	Phage virion morphogensis protein
+OIT94589	Fatty acid synthesis PlsX protein
+OIT94437	Putative membrane protein insertion efficiency factor
+OIT95009	IraD/Gp25-like
+OIT96440	Potassium-transporting ATPase A chain
+OIT95925	Adaptor protein ClpS, core
+OIT95867	Sulfur carrier ThiS/MoaD-like
+OIT95883	Nitroreductase
+OIT94909	6-pyruvoyl tetrahydropterin synthase/QueD family
+OIT94241	ABC transporter-like
+OIT95331	CoA-binding,ATP-citrate lyase/succinyl-CoA ligase
+OIT94735	Nucleotidyl transferase domain
+OIT95052	RND efflux pump, membrane fusion protein, barrel-sandwich domain
+OIT90798	Methyl-accepting chemotaxis protein (MCP) signalling domain
+OIT96327	Ribosomal protein S16
+OIT94581	MotA/TolQ/ExbB proton channel
+OIT94156	Cytochrome oxidase maturation protein cbb3-type
+OIT96074	5-formyltetrahydrofolate cyclo-ligase
+OIT96109	Radical SAM,-
+OIT93034	SAF domain,N-acetylneuraminic acid synthase, N-terminal
+OIT94915	RNA 2-O ribose methyltransferase, substrate binding,tRNA/rRNA methyltransferase, SpoU type
+OIT95347	-
+OIT96101	Peptidase M23
+OIT96422	Fructose-bisphosphate aldolase, class-II
+OIT92478	DNA/RNA non-specific endonuclease
+OIT94511	-
+OIT95201	F plasmid transfer operon protein
+OIT95036	NusB/RsmB/TIM44
+OIT94476	NusG, N-terminal
+OIT96441	ABC transporter-like
+OIT94382	Na+/H+ antiporter, NhaC-like, C-terminal
+OIT94191	NAD(P)-binding domain
+OIT95841	Leucine-binding protein domain
+OIT95673	Virulence-associated protein D / CRISPR associated protein Cas2
+OIT94785	Transmembrane protein TqsA-like
+OIT94831	Plasmid replication protein, RepL
+OIT94180	Signal transduction response regulator, receiver domain
+OIT95649	Lipocalin/cytosolic fatty-acid binding domain
+OIT93203	Glycosyltransferase 2-like, prokaryotic type,Capsule polysaccharide biosynthesis
+OIT95711	Nitrogen fixation protein FixH
+OIT96382	NAD kinase
+OIT96330	3-deoxy-D-manno-octulosonic-acid transferase, N-terminal
+OIT96351	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase, bacterial-type
+OIT93931	Conserved hypothetical protein CHP02588
+OIT95875	Carbon-nitrogen hydrolase
+OIT93915	-
+OIT95836	ABC transporter-like
+OIT95680	Molybdopterin oxidoreductase,Molybdopterin oxidoreductase, 4Fe-4S domain
+OIT95056	Radical SAM
+OIT94889	Integral membrane protein TerC
+OIT92127	F plasmid transfer operon protein
+OIT92481	Uncharacterised protein family HicB
+OIT96385	Inorganic pyrophosphatase
+OIT95486	Haemerythrin-like
+OIT94327	Restriction endonuclease, type I, HsdR, N-terminal,SWI2/SNF2 ATPase
+OIT94775	Toluene tolerance Ttg2/phospholipid-binding protein MlaC
+OIT95189	Asp/Glu/hydantoin racemase
+OIT94509	FAD-dependent oxidoreductase 2, FAD binding domain,Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal
+OIT94360	TssC1, N-terminal,TssC1, C-terminal
+OIT95145	Cytidylyltransferase IspD/TarI,2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+OIT92774	dTDP-4-dehydrorhamnose 3,5-epimerase-related
+OIT96134	Nitronate monooxygenase
+OIT96403	ABC transporter-like
+OIT94828	Methyltransferase domain 25
+OIT95360	Indole-3-glycerol phosphate synthase
+OIT94613	Protein of unknown function DUF452
+OIT94524	Ribosomal protein S10 domain
+OIT95490	-
+OIT94671	CstA, N-terminal domain,CstA, C-terminal domain
+OIT96123	Campylobacter major outer membrane
+OIT94696	ACT domain,D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain,D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding domain
+OIT94903	-
+OIT95049	Ribosomal protein S21
+OIT95482	Flagellar hook-length control protein-like, C-terminal
+OIT93030	Methyltransferase domain 25
+OIT94584	Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant,Peroxiredoxin, C-terminal
+OIT94882	Trigger factor, ribosome-binding, bacterial,Trigger factor, C-terminal,FKBP-type peptidyl-prolyl cis-trans isomerase domain
+OIT94222	ABC transporter-like,ABC-transporter extension domain
+OIT92959	GTP cyclohydrolase II,3,4-dihydroxy-2-butanone 4-phosphate synthase, RibB
+OIT94158	NAD-dependent epimerase/dehydratase
+OIT96376	-
+OIT94856	Ribonucleotide reductase small subunit family
+OIT95662	Mannosyl-glycoprotein endo-beta-N-acetylglucosamidase-like domain
+OIT94962	Colicin V production, CvpA
+OIT92621	4Fe-4S ferredoxin-type, iron-sulphur binding domain
+OIT94601	Aminotransferase, class I/classII
+OIT94531	GNAT domain
+OIT95921	Translational regulator CsrA
+OIT95402	YbaK/aminoacyl-tRNA synthetase-associated domain,Anticodon-binding,Aminoacyl-tRNA synthetase, class II (G/ P/ S/T)
+OIT95063	Signal transduction response regulator, receiver domain,OmpR/PhoB-type DNA-binding domain
+OIT94862	GNAT domain
+OIT94634	CheW-like domain
+OIT90731	Protein of unknown function DUF2972
+OIT94618	ABC transporter-like
+OIT95071	N-(5'phosphoribosyl) anthranilate isomerase (PRAI) domain
+OIT96309	Type I phosphodiesterase/nucleotide pyrophosphatase/phosphate transferase
+OIT95532	ParB/Spo0J, HTH domain,ParB/Sulfiredoxin
+OIT95029	Aminoacyl-tRNA synthetase, class II (G/ P/ S/T),Serine-tRNA synthetase, type1, N-terminal
+OIT95534	ATP synthase, F0 complex, subunit b/b', bacterial/chloroplast
+OIT94902	Putative manganese efflux pump
+OIT94529	Radical SAM
+OIT94500	Protein of unknown function DUF465
+OIT95060	Cytochrome c-like domain,Di-haem cytochrome c peroxidase
+OIT94686	ABC transporter type 1, transmembrane domain MetI-like
+OIT94752	Cytochrome-c3 hydrogenase, C-terminal,NADH:ubiquinone oxidoreductase-like, 20kDa subunit
+OIT95352	ClpA/ClpB, AAA lid domain,Clp ATPase, C-terminal,Clp,  repeat (R) domain,Clp,  repeat (R) domain,ATPase, AAA-type, core,ATPase, AAA-type, core
+OIT94611	Aminotransferase class-III
+OIT96402	Multi antimicrobial extrusion protein
+OIT94355	Type IV / VI secretion system, DotU
+OIT95569	ATPase, dynein-related, AAA domain
+OIT93194	ABC-2 type transporter
+OIT94658	GTP binding domain,YchF, C-terminal domain
+OIT95216	Cation/H+ exchanger
+OIT95704	Cytochrome c oxidase subunit I
+OIT94427	Cation efflux protein, cytoplasmic domain,Cation efflux protein
+OIT95694	DNA methylase, adenine-specific,N6 adenine-specific DNA methyltransferase, N-terminal domain
+OIT94357	Type VI secretion system, lipoprotein SciN
+OIT95712	PD-(D/E)XK endonuclease-like domain, AddAB-type
+OIT94861	Aspartate/glutamate/uridylate kinase
+OIT95562	Prephenate dehydrogenase
+OIT95560	Inositol monophosphatase-like
+OIT96070	ATP synthase, F0 complex, subunit A
+OIT95536	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain,ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain,ATP synthase, alpha subunit, C-terminal
+OIT96080	Plasminogen-binding protein  PgbA, N-terminal
+OIT95525	Ribosomal protein L27
+OIT96087	Chaperonin Cpn60/TCP-1 family
+OIT94551	Dihydroxy-acid/6-phosphogluconate dehydratase
+OIT94435	HP1451, C-terminal,Jag, N-terminal
+OIT95035	Lumazine/riboflavin synthase
+OIT95356	DegT/DnrJ/EryC1/StrS aminotransferase
+OIT94491	TRAM domain,Methylthiotransferase, N-terminal,Radical SAM
+OIT95143	-,Hexapeptide repeat,2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase, middle domain
+OIT94682	Alanine racemase, C-terminal,Alanine racemase, N-terminal
+OIT94216	Histidine triad (HIT) protein
+OIT95202	Protein of unknown function DUF411
+OIT94668	ABC transporter type 1, transmembrane domain MetI-like
+OIT94697	Signal transduction response regulator, receiver domain,OmpR/PhoB-type DNA-binding domain
+OIT94874	Domain of unknown function (DUF4878)
+OIT96034	SNARE associated Golgi protein
+OIT95129	Ribosomal protein S13
+OIT94859	-
+OIT95198	MacB-like periplasmic core domain,ABC3 transporter permease protein domain
+OIT95309	Protein of unknown function DUF2860
+OIT95558	RNA methyltransferase RlmH
+OIT96096	MerR-type HTH domain
+OIT95391	Peptidase S24/S26A/S26B/S26C
+OIT95715	Ribosomal protein S9
+OIT94858	Hexapeptide repeat
+OIT94677	Copper chaperone SCO1/SenC
+OIT95308	DNA helicase, DnaB-like, N-terminal,DNA helicase, DnaB-like, C-terminal
+OIT94753	Ferrous iron transporter FeoA domain
+OIT95184	ABC transporter-like
+OIT95520	Protein of unknown function DUF1425
+OIT94894	Bacterial extracellular solute-binding protein
+OIT95072	Glutamine amidotransferase,Glycosyl transferase, family 3
+OIT95193	Putative motility protein
+OIT94564	Thymidylate synthase ThyX
+OIT95699	Magnesium transporter, MgtE intracellular domain
+OIT92221	N-acetylneuraminic acid synthase, N-terminal,SAF domain
+OIT92960	Helix-turn-helix, type 11,WYL domain
+OIT95573	Periplasmic solute binding protein, ZnuA-like
+OIT96435	-
+OIT96328	Signal recognition particle, SRP54 subunit, GTPase domain,Signal recognition particle, SRP54 subunit, M-domain,Signal recognition particle SRP54, helical bundle
+OIT94603	HAD-superfamily hydrolase, subfamily IIA,-
+OIT94136	Glutamyl/glutaminyl-tRNA synthetase, class Ib, catalytic domain
+OIT96113	GMP synthase, C-terminal,NAD/GMP synthase,Glutamine amidotransferase
+OIT96071	-,LapB,  rubredoxin metal binding domain,-
+OIT94390	Fructose-1-6-bisphosphatase class I, N-terminal,Fructose-1-6-bisphosphatase class 1, C-terminal
+OIT94486	Peptidase M16, C-terminal
+OIT95154	ABC transporter-like
+OIT95524	Ribosomal protein L21-like
+OIT96122	Phosphotyrosine protein phosphatase I
+OIT94247	Putative NADH-ubiquinone oxidoreductase chain E
+OIT95717	Haloacid dehalogenase-like hydrolase
+OIT94369	Solute-binding protein  family 3/N-terminal domain of MltF
+OIT94274	mRNA interferase PemK-like
+OIT96049	-
+OIT92630	Formyl transferase, N-terminal
+OIT96076	SNARE associated Golgi protein
+OIT94748	Glyceraldehyde 3-phosphate dehydrogenase, catalytic domain,Glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain
+OIT96115	Phosphoribosylglycinamide synthetase, N-terminal,Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain,Phosphoribosylglycinamide synthetase, C-domain
+OIT95891	Ribosomal protein S18
+OIT95168	TonB, C-terminal
+OIT95234	K Homology domain, type 2,Ribosomal protein S3, C-terminal
+OIT95707	Cbb3-type cytochrome c oxidase subunit CcoP, N-terminal,Cytochrome c-like domain,Cytochrome c-like domain
+OIT94185	Glycosyl transferase, family 1,Glycosyltransferase subfamily 4-like, N-terminal domain
+OIT94503	Acetyl-CoA carboxylase, alpha subunit
+OIT94312	Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase, anticodon-binding,Valyl-tRNA synthetase,  tRNA-binding arm,Aminoacyl-tRNA synthetase, class Ia
+OIT93437	Type IV secretion system, VirB10 / TraB / TrbI
+OIT96052	Rieske [2Fe-2S] iron-sulphur domain
+OIT95152	TonB-dependent receptor, plug domain,TonB-dependent receptor-like, beta-barrel
+OIT94975	RNA polymerase sigma-70 region 4
+OIT92772	Glycosyl transferase, family 9
+OIT95333	Lactate/malate dehydrogenase, N-terminal,Lactate/malate dehydrogenase, C-terminal
+OIT95385	DNA-packaging protein gp3
+OIT94347	Fungal lipase-like domain
+OIT94117	tRNA-guanine(15) transglycosylase-like
+OIT94492	Domain of unknown function DUF374
+OIT94769	L-seryl-tRNA selenium transferase-like
+OIT93035	UDP-N-acetylglucosamine 2-epimerase domain
+OIT93927	4-oxalocrotonate tautomerase
+OIT94356	Type VI secretion system TssK
+OIT95565	GHMP kinase N-terminal domain
+OIT95931	PAS fold-3,PAS domain,Methyl-accepting chemotaxis protein (MCP) signalling domain
+OIT91260	Gp5/Type VI secretion system Vgr protein, OB-fold domain,-
+OIT94396	Phosphatidylserine decarboxylase-related
+OIT95211	Bacterial export protein family 3
+OIT92228	Protein of unknown function DUF2920
+OIT94436	Membrane  insertase YidC/ALB3/OXA1/COX18,Membrane insertase YidC, periplasmic domain
+OIT95874	Sulfatase, N-terminal
+OIT94693	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+OIT95705	Cytochrome c oxidase, monohaem subunit/FixO
+OIT94778	Xanthine/uracil/vitamin C permease
+OIT94479	Translation elongation factor EFTu-like, domain 2,Translational (tr)-type GTP-binding domain,Translation elongation factor EFTu/EF1A, C-terminal
+OIT94699	ABC transporter Uup, C-terminal,ABC transporter-like,ABC transporter-like,ABC-transporter extension domain
+OIT93923	Hexapeptide repeat,UDP N-acetylglucosamine O-acyltransferase, C-terminal
+OIT94679	Copper chaperone PCuAC
+OIT95363	Methyltransferase small domain
+OIT95714	Ribosomal protein L13
+OIT95214	Inositol monophosphatase-like
+OIT95217	Radical SAM,Biotin and thiamin synthesis-associated domain
+OIT94987	Endonuclease I
+OIT96434	Pterin-binding domain
+OIT94877	MgsA AAA+ ATPase C-terminal,RuvB-like P-loop domain,AAA C-terminal domain
+OIT94731	Methyltransferase type 11
+OIT94981	YopX protein
+OIT95862	Thiamine phosphate synthase/TenI
+OIT94758	C4-dicarboxylate anaerobic carrier-like
+OIT94318	Flagella basal body P-ring formation protein FlgA, C-terminal
+OIT95881	CinA, C-terminal
+OIT95196	Domain of unknown function DUF2318, membrane,YHS domain
+OIT94484	Truncated hemoglobin
+OIT94499	Ribosomal protein L28/L24
+OIT94884	Peptide deformylase
+OIT94672	Selenoprotein, putative
+OIT96423	-
+OIT94594	UbiE/COQ5 methyltransferase
+OIT95135	Histidinol dehydrogenase
+OIT94197	Hexapeptide repeat,PglD, N-terminal
+OIT95476	Protein of unknown function DUF541
+OIT94740	Cytochrome P450
+OIT95319	FlaG protein
+OIT94547	FAD/NAD(P)-binding domain,Dihydroprymidine dehydrogenase domain II
+OIT96314	CAAX prenyl protease 1, N-terminal,Peptidase M48
+OIT95206	AMIN domain
+OIT93036	CBS domain,Nucleotidyl transferase domain
+OIT94402	Aminotransferase class-III
+OIT94704	Type III secretion system FHIPEP
+OIT94545	Glutamate synthase, alpha subunit, C-terminal,Glutamate synthase domain,Glutamine amidotransferase type 2 domain,Glutamate synthase, central-N
+OIT95729	Anti-sigma-28 factor FlgM, C-terminal
+OIT92223	Glutamine amidotransferase
+OIT95906	Mur ligase, central
+OIT91488	Actin-like protein, N-terminal
+OIT95041	ATPase, AAA-type, core
+OIT94614	-
+OIT94474	Ribosomal protein L1/ribosomal biogenesis protein
+OIT95218	DNA topoisomerase, type IA, central,TOPRIM  domain,DNA topoisomerase, type IA, zn finger,DNA topoisomerase, type IA, zn finger,DNA topoisomerase, type IA, zn finger
+OIT94849	Mechanosensitive ion channel MscS
+OIT93929	Band 7 domain
+OIT94194	Bacterial lipid A biosynthesis acyltransferase
+OIT94187	Glycosyl transferase, family 1,Glycosyltransferase subfamily 4-like, N-terminal domain
+OIT94388	tRNA-binding domain,Methionyl/Leucyl tRNA synthetase
+OIT95917	Oligopeptidase F, N-terminal domain,Peptidase M3A/M3B catalytic domain
+OIT95148	YutG/PgpA domain
+OIT95720	Type II/III secretion system
+OIT96129	Cytochrome b561, bacterial/Ni-hydrogenase
+OIT96141	ABC transporter-like
+OIT92622	4Fe-4S ferredoxin-type, iron-sulphur binding domain
+OIT96329	Pseudouridine synthase, RsuA/RluA-like
+OIT94891	Calcineurin-like phosphoesterase domain, ApaH type
+OIT94857	Nicotinate/nicotinamide phosphoribosyltransferase,Nicotinate phosphoribosyltransferase, N-terminal domain
+OIT94208	Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal,FAD-dependent oxidoreductase 2, FAD binding domain
+OIT94101	Aspartate/ornithine carbamoyltransferase, Asp/Orn-binding domain,Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding
+OIT96339	Flagellar basal body rod protein, N-terminal,Flagellar basal-body/hook protein, C-terminal domain
+OIT94653	V-ATPase proteolipid subunit C-like domain
+OIT95516	Uracil-DNA glycosylase-like
+OIT94879	Glutamine amidotransferase type 2 domain,Phosphoribosyltransferase domain
+OIT94315	Lipoprotein NlpA family
+OIT94443	Thioesterase domain
+OIT95149	Ribosomal protein S20
+OIT94830	Amidohydrolase-related
+OIT96073	Thioredoxin-like fold
+OIT91939	Protein of unknown function DUF2972
+OIT95915	Sodium:dicarboxylate symporter
+OIT96360	RNA polymerase sigma factor 54,RNA polymerase sigma factor 54, DNA-binding,RNA polymerase sigma factor 54, core-binding domain
+OIT94482	ABC transporter type 1, transmembrane domain MetI-like
+OIT95866	Thiazole synthase ThiG
+OIT95351	Metal-sensitive transcriptional repressor
+OIT95686	Methyl-accepting chemotaxis protein (MCP) signalling domain
+OIT96127	Recombination protein RecR, C4-type zinc finger,TOPRIM  domain
+OIT95835	Cytochrome c assembly protein,ResB-like domain
+OIT94108	RNA polymerase sigma-70 region 3,RNA polymerase sigma-70 region 1.2,RNA polymerase sigma-70 region 4,RNA polymerase sigma-70 region 2
+OIT94624	Major facilitator superfamily
+OIT96371	Penicillin-binding protein, dimerisation domain,Penicillin-binding protein, transpeptidase
+OIT96404	ABC transporter type 1, transmembrane domain MetI-like,Domain of unknown function DUF3333
+OIT94562	Ribonucleotide reductase large subunit, C-terminal,Ribonucleotide reductase large subunit, N-terminal,ATP-cone domain
+OIT94139	Menaquinone biosynthesis enzyme
+OIT96092	Histidine kinase/HSP90-like ATPase
+OIT95538	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain,ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+OIT96061	Amidohydrolase-related
+OIT95731	Flagellar P-ring protein
+OIT94609	Small multidrug resistance protein family
+OIT95696	Sulphur transport domain
+OIT94163	Glycosyltransferase 2-like
+OIT94286	PD-(D/E)XK endonuclease-like domain, AddAB-type
+OIT94169	Alpha-2,3-sialyltransferase
+OIT94870	Threonyl/alanyl tRNA synthetase, SAD,Anticodon-binding,Aminoacyl-tRNA synthetase, class II (G/ P/ S/T)
+OIT92779	Sugar isomerase (SIS)
+OIT94254	NADH:quinone oxidoreductase/Mrp antiporter, membrane subunit,NADH-Ubiquinone oxidoreductase (complex I), chain 5 N-terminal
+OIT92957	Thiamine pyrophosphate enzyme, C-terminal TPP-binding,Thiamine pyrophosphate enzyme, N-terminal TPP-binding domain,Thiamine pyrophosphate enzyme, central domain
+OIT95664	Dephospho-CoA kinase
+OIT94774	Membrane transport protein MMPL domain
+OIT94674	Protein of unknown function DUF3916
+OIT92483	YopX protein
+OIT94599	Flagellar motor switch protein FliG, N-terminal domain,Flagellar motor switch protein FliG, middle domain,Flagellar motor switch protein FliG, C-terminal
+OIT94578	UvrA, interaction domain,ABC transporter-like,UvrA DNA-binding domain
+OIT94428	Peptidyl-arginine deiminase, Porphyromonas-type
+OIT95552	Endoribonuclease YbeY
+OIT95903	UvrB, interaction domain,DEAD/DEAH box helicase domain,Transcription-repair-coupling factor, C-terminal domain,CarD-like/TRCF domain,Helicase, C-terminal
+OIT95728	FlgN-like protein
+OIT94968	Malate:quinone-oxidoreductase
+OIT94483	Cyclic nucleotide-binding domain,Crp-type HTH domain
+OIT94560	Pseudouridine synthase, RsuA/RluA-like
+OIT95908	LPS-assembly lipoprotein LptE
+OIT95195	Periplasmic metal-binding protein Tp34-type
+OIT94234	Major facilitator superfamily
+OIT95221	SecY/SEC61-alpha family
+OIT94846	Haemerythrin-like
+OIT94566	DHHA1 domain,DDH domain,RecJ, OB domain
+OIT95130	Ribosomal protein S11
+OIT94746	-
+OIT94296	BRO N-terminal domain
+OIT94473	Ribosomal protein L10P
+OIT94320	Cytidyltransferase-like domain
+OIT95535	ATPase, OSCP/delta subunit
+OIT95205	DNA ligase, OB-like domain,DNA ligase, ATP-dependent, central
+OIT94113	Radical SAM,Methylthiotransferase, N-terminal
+OIT95537	ATP synthase, F1 complex, gamma subunit
+OIT96350	Flagellar L-ring protein
+OIT96305	Solute-binding protein  family 3/N-terminal domain of MltF
+OIT94301	Metal-dependent hydrolase HDOD
+OIT94206	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase Lgt
+OIT94577	Transmembrane protein TauE-like
+OIT94516	TonB-dependent receptor-like, beta-barrel,TonB-dependent receptor, plug domain
+OIT94786	RuvB, AAA lid domain,RuvB-like P-loop domain,RuvB C-terminal winged helix domain
+OIT94749	Phosphoglycerate kinase
+OIT94997	Bacteriophage D3112, Orf24
+OIT94126	-
+OIT96347	Restriction modification methylase Eco57I
+OIT94459	Peptidase M20, dimerisation domain,Peptidase M20
+OIT95557	Zinc finger, DksA/TraR C4-type
+OIT96336	Peptidase U32
+OIT94632	Signal transduction response regulator, receiver domain,CheW-like domain
+OIT94665	MCP methyltransferase, CheR-type, SAM-binding domain, C-terminal
+OIT94438	Ribonuclease P
+OIT95073	Chorismate-utilising enzyme, C-terminal
+OIT94507	Cysteine-rich domain
+OIT94173	Multiple antibiotic resistance (MarC)-related
+OIT96379	TatD family
+OIT94994	Phage head morphogenesis domain
+OIT94535	2-isopropylmalate synthase LeuA, allosteric (dimerisation) domain,Pyruvate carboxyltransferase
+OIT95194	Iron permease FTR1/Fip1/EfeU
+OIT94179	-
+OIT95650	Helix-turn-helix, HxlR type
+OIT95006	LydA-like holin
+OIT93928	Aminotransferase class IV
+OIT94190	ABC transporter type 1, transmembrane domain,ABC transporter-like
+OIT95150	Peptide chain release factor,Peptide chain release factor class I
+OIT96332	GTP cyclohydrolase 1 type 2/Nif3
+OIT90590	Domain of unknown function DUF3825
+OIT96133	N-acetylmuramoyl-L-alanine amidase, catalytic domain
+OIT95001	Protease, Mu phage/prophage I type
+OIT95682	4Fe-4S ferredoxin-type, iron-sulphur binding domain
+OIT94543	Oxidoreductase, molybdopterin-binding domain,Moybdenum cofactor oxidoreductase, dimerisation
+OIT94477	Protein translocase complex, SecE/Sec61-gamma subunit
+OIT95645	Restriction endonuclease, type I, HsdS
+OIT94164	Hexapeptide repeat
+OIT94868	D12 class N6 adenine-specific DNA methyltransferase
+OIT94733	PEP-utilising enzyme, mobile domain,Pyruvate phosphate dikinase, AMP/ATP-binding
+OIT94204	Quinate/shikimate 5-dehydrogenase/glutamyl-tRNA reductase,Shikimate dehydrogenase substrate binding, N-terminal,SDH, C-terminal
+OIT93191	Soluble ligand binding domain,Polysaccharide export protein
+OIT95571	ABC transporter, TroCD-like
+OIT96364	Proteasome, subunit alpha/beta
+OIT94112	AAA ATPase, AAA+ lid domain,ATPase, AAA-type, core
+OIT94515	Mur ligase, central
+OIT95854	RND efflux pump, membrane fusion protein, barrel-sandwich domain
+OIT96090	Haemerythrin-like
+OIT95398	-
+OIT94098	-,Cysteine-rich domain,Cysteine-rich domain
+OIT95239	Ribosomal protein L4/L1e
+OIT95185	Mce/MlaD
+OIT94890	Protein YjdM, C-terminal
+OIT93753	-
+OIT95533	ATP synthase, F0 complex, subunit b/b', bacterial/chloroplast
+OIT94471	RNA polymerase, beta subunit, protrusion,RNA polymerase Rpb2, domain 2,RNA polymerase Rpb2, domain 2,DNA-directed RNA polymerase, beta subunit, external 1 domain,RNA polymerase Rpb2, domain 3,RNA polymerase Rpb2, domain 7,DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+OIT94525	Pseudouridine synthase, RsuA/RluA-like,RNA-binding S4 domain
+OIT94406	MoeA, N-terminal and linker domain,MoaB/Mog domain
+OIT95153	ABC transporter, permease protein, BtuC-like
+OIT95859	Carbamoyl-phosphate synthetase large subunit-like, ATP-binding domain,Biotin carboxylase-like, N-terminal domain,Biotin carboxylase, C-terminal
+OIT95157	Major facilitator superfamily
+OIT94162	Glycosyl transferase, family 9
+OIT93193	ABC transporter-like
+OIT94620	GNAT domain
+OIT94210	Dynamin superfamily
+OIT94157	Cytochrome c-like domain
+OIT96072	Signal recognition particle, SRP54 subunit, GTPase domain
+OIT94604	Orn/DAP/Arg decarboxylase 2, C-terminal,Orn/DAP/Arg decarboxylase 2, N-terminal
+OIT95506	Haemerythrin-like
+OIT93198	-
+OIT94546	Domain of unknown function DUF1524,Domain of unknown function DUF262
+OIT95551	DNA replication/recombination mediator RecO, N-terminal
+OIT95338	Flagellar hook-basal body complex protein FliE
+OIT90460	6-hydroxymethylpterin diphosphokinase MptE-like
+OIT93925	Epoxyqueuosine reductase QueH
+OIT96038	Transcriptional regulator TACO1-like
+OIT95137	DNA methylase N-4/N-6
+OIT94738	Capsule polysaccharide biosynthesis
+OIT92620	Molybdopterin dinucleotide-binding domain
+OIT94782	-,Sugar isomerase (SIS),Sugar isomerase (SIS)
+OIT94698	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain,Histidine kinase/HSP90-like ATPase
+OIT93037	Gfo/Idh/MocA-like oxidoreductase, N-terminal
+OIT96391	Ketol-acid reductoisomerase, N-terminal,Ketol-acid reductoisomerase, C-terminal
+OIT91789	Cro/C1-type helix-turn-helix domain
+OIT94588	Ribosomal protein L32p
+OIT95527	Aspartate/glutamate/uridylate kinase
+OIT95224	Ribosomal protein L18
+OIT95227	Ribosomal protein S14
+OIT94302	HNH nuclease
+OIT95357	Gfo/Idh/MocA-like oxidoreductase, N-terminal
+OIT94630	Transcription elongation factor, GreA/GreB, C-terminal,Transcription elongation factor, GreA/GreB, N-terminal
+OIT96039	Small multidrug resistance protein family
+OIT95901	HhH-GPD domain
+OIT94527	Ribosomal RNA adenine methyltransferase KsgA/Erm
+OIT94175	Protein of unknown function DUF455
+OIT95842	Cytochrome c-like domain
+OIT96108	Uroporphyrinogen decarboxylase (URO-D)
+OIT94177	Phosphatidylserine decarboxylase-related
+OIT94147	Threonine/Serine exporter, ThrE
+OIT95739	PurM-like, N-terminal domain
+OIT96057	PAS fold-3
+OIT95404	Rhodanese-like domain
+OIT95837	ABC transporter-like
+OIT93199	tRNA(Ile)-lysidine/2-thiocytidine synthase, N-terminal
+OIT95182	Transketolase, C-terminal domain,Transketolase, N-terminal,Transketolase-like, pyrimidine-binding domain
+OIT94235	ABC transporter type 1, transmembrane domain,ABC transporter-like
+OIT94116	Regulator of K+ conductance, C-terminal
+OIT95919	UvrD/AddA helicase, N-terminal,UvrD-like DNA helicase, C-terminal
+OIT95902	Domain of unknown function DUF815
+OIT96119	4-oxalocrotonate tautomerase
+OIT95697	Adenylosuccinate synthetase
+OIT95032	GTP binding domain,GTPase Der, C-terminal KH-domain-like
+OIT95489	Solute carrier family 13
+OIT96144	Polyribonucleotide nucleotidyltransferase, RNA-binding domain,Exoribonuclease, phosphorolytic domain 1,Exoribonuclease, phosphorolytic domain 1,K Homology domain, type 1,Exoribonuclease, phosphorolytic domain 2,Exoribonuclease, phosphorolytic domain 2,S1 domain
+OIT95740	Pseudouridine synthase, TruD
+OIT95355	DHHA1 domain,Threonyl/alanyl tRNA synthetase, SAD,Alanyl-tRNA synthetase, class IIc, N-terminal
+OIT95726	Conserved hypothetical protein CHP02757
+OIT94377	Pseudouridine synthase I, TruA, alpha/beta domain
+OIT94455	Solute-binding protein  family 3/N-terminal domain of MltF
+OIT95210	Menaquinone biosynthesis enzyme
+OIT95477	Major facilitator superfamily
+OIT95865	C-5 cytosine methyltransferase
+OIT95855	Acriflavin resistance protein
+OIT94170	Polynucleotide kinase 3 phosphatase
+OIT95131	Ribosomal protein S4/S9, N-terminal,RNA-binding S4 domain
+OIT95151	Domain of unknown function DUF2470,Pyridoxamine 5'-phosphate oxidase, putative
+OIT94596	Ferric-uptake regulator
+OIT95127	RNA-binding domain, S1, IF1 type
+OIT96392	Ribonuclease II/R
+OIT96410	SGNH hydrolase-type esterase domain
+OIT94426	Carbon-nitrogen hydrolase
+OIT95180	PDZ domain
+OIT94834	Endonuclease/exonuclease/phosphatase
+OIT95144	Flagellum site-determining protein YlxH/ Fe-S cluster assembling factor NBP35,MIP18 family-like
+OIT94612	Aminotransferase, class I/classII
+OIT94760	Transcriptional regulator DauR-like, HTH domain,YheO-like
+OIT94298	CRISPR-associated  Cas3-type HD domain
+OIT93758	Cysteinyl-tRNA synthetase, class Ia, DALR,tRNA synthetases class I, catalytic domain
+OIT94559	Fumarylacetoacetase-like, C-terminal
+OIT94361	IraD/Gp25-like
+OIT95354	Nucleoside triphosphate pyrophosphatase Maf-like protein
+OIT94489	KH domain, NusA-like,Transcription factor NusA, N-terminal
+OIT92344	Flagellin, D0/D1 domain,Flagellin hook, IN motif,Flagellin hook, IN motif
+OIT94466	Integrase, catalytic domain,Integrase, DNA-binding domain
+OIT95362	Putative zinc- or iron-chelating domain containing protein
+OIT94470	RNA polymerase, alpha subunit,RNA polymerase Rpb1, domain 5,RNA polymerase Rpb1, domain 4,RNA polymerase Rpb1, domain 3,RNA polymerase Rpb1, domain 1
+OIT93591	Phospholipase A1
+OIT94969	Pyruvate kinase, C-terminal,Pyruvate kinase, barrel
+OIT94552	Protein of unknown function DUF1440
+OIT94308	Redoxin
+OIT96036	Protein of unknown function DUF3373
+OIT94633	Signal transduction histidine kinase, phosphotransfer (Hpt) domain,Histidine kinase/HSP90-like ATPase,CheW-like domain,Signal transduction response regulator, receiver domain,Histidine kinase  CheA-like, homodimeric domain
+OIT91746	Ankyrin repeat-containing domain
+OIT95745	-
+OIT95050	4Fe-4S ferredoxin-type, iron-sulphur binding domain,FixG, C-terminal immunoglobulin-like domain,4Fe-4S ferredoxin-type, iron-sulphur binding domain
+OIT96105	PdxA family
+OIT93916	Transaldolase/Fructose-6-phosphate aldolase
+OIT94745	Protein of unknown function DUF1090
+OIT94592	Aminotransferase class V domain
+OIT94153	-
+OIT94675	Histone-like DNA-binding protein
+OIT94734	Peptidase C26
+OIT95690	Sodium/solute symporter
+OIT96135	Aminoacyl-tRNA synthetase, class Ic
+OIT94627	ATPase, AAA-type, core
+OIT95681	Molybdopterin dinucleotide-binding domain,Molybdopterin oxidoreductase
+OIT94151	Heavy metal-associated domain, HMA,-,-
+OIT96054	MnmG, N-terminal domain,GidA associated domain 3
+OIT94848	NIF system FeS cluster assembly, NifU, C-terminal,NIF system FeS cluster assembly, NifU, N-terminal,BFD-like [2Fe-2S]-binding domain
+OIT93749	Tetraacyldisaccharide 4'-kinase
+OIT94847	Aminotransferase class V domain
+OIT96424	HhH-GPD domain
+OIT95530	Biotinyl protein ligase (BPL) and lipoyl protein ligase (LPL), catalytic domain
+OIT94691	tRNA synthetase, B5-domain,Phenylalanyl tRNA synthetase beta chain, core domain,Ferrodoxin-fold anticodon-binding domain,tRNA-binding domain,B3/B4 tRNA-binding domain
+OIT94895	ABC transporter type 1, transmembrane domain MetI-like
+OIT95744	DMSO/Nitrate reductase chaperone
+OIT95725	Transmembrane protein TauE-like
+OIT96131	Cytochrome-c3 hydrogenase, C-terminal,NADH:ubiquinone oxidoreductase-like, 20kDa subunit,Twin-arginine translocation pathway, signal sequence, bacterial/archaeal
+OIT96344	Ribosomal RNA small subunit methyltransferase H
+OIT93587	ABC transporter periplasmic binding domain
+OIT94114	Mechanosensitive ion channel MscS
+OIT95911	Protein-export membrane protein SecD/SecF, archaeal and bacterial,Protein-export membrane protein SecD/SecF/SecDF, conserved site
+OIT95342	Rhodanese-like domain
+OIT95156	4Fe4S-binding SPASM domain
+OIT94532	Aconitase A/isopropylmalate dehydratase small subunit, swivel domain
+OIT94558	Di-haem cytochrome c peroxidase,Cytochrome c-like domain
+OIT96396	Hydrogenase formation HypD protein
+OIT94103	GTP cyclohydrolase II
+OIT93039	-
+OIT94249	4Fe-4S ferredoxin-type, iron-sulphur binding domain,-,NADH:ubiquinone oxidoreductase, subunit G, iron-sulphur binding
+OIT94667	Solute-binding protein  family 3/N-terminal domain of MltF
+OIT95503	Peptidase S49
+OIT96420	OmpA-like domain
+OIT94240	ABC transporter type 1, transmembrane domain MetI-like
+OIT94431	Methylglyoxal synthase-like domain,Bifunctional purine biosynthesis protein PurH-like
+OIT95044	Protein of unknown function DUF520
+OIT95914	S-adenosylmethionine synthetase, N-terminal,S-adenosylmethionine synthetase, C-terminal,S-adenosylmethionine synthetase, central domain
+OIT96059	Inverse autotransporter, beta-domain
+OIT94498	Ribulose-phosphate 3-epimerase-like
+OIT95665	PurM-like, C-terminal domain,PurM-like, N-terminal domain
+OIT94985	Bacteriophage Mu, Gp16
+OIT94555	Disulphide bond formation protein DsbB/BdbC
+OIT96386	Peptide methionine sulphoxide reductase MsrA
+OIT92955	Hexapeptide repeat,UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase, non-repeat region
+OIT95478	Protein of unknown function DUF2130
+OIT93762	D-alanine--D-alanine ligase, N-terminal domain,D-alanine--D-alanine ligase, C-terminal
+OIT95343	Heat shock protein Hsp90 family,Histidine kinase/HSP90-like ATPase
+OIT95885	Peptidase M50,PDZ domain 6
+OIT95034	DAHP synthetase I/KDSA
+OIT94773	Ham1-like protein
+OIT95199	ABC transporter-like
+OIT96412	ABC transporter-like,ABC3 transporter permease protein domain,MacB-like periplasmic core domain
+OIT95727	Flagellar basal body rod protein, N-terminal,Flagellar basal-body/hook protein, C-terminal domain
+OIT92958	Uncharacterised protein YqeY/Aim41
+OIT96365	Clp ATPase, C-terminal,ATPase, AAA-type, core,ATPase, AAA-type, core
+OIT94354	Type VI secretion system effector Hcp
+OIT94256	NADH:quinone oxidoreductase/Mrp antiporter, membrane subunit
+OIT95513	Cytochrome ubiquinol oxidase subunit 2
+OIT95572	ABC transporter-like
+OIT93600	Protein of unknown function DUF2920
+OIT94293	BRO N-terminal domain
+OIT94132	dUTPase-like
+OIT94188	Glycosyltransferase 2-like
+OIT96063	Asn/Gln amidotransferase,Aspartyl/Glutamyl-tRNA(Gln) amidotransferase, subunit B/E, catalytic
+OIT95324	Polyprenyl synthetase
+OIT94358	Type VI secretion system-associated, VCA0119
+OIT96408	Membrane bound O-acyl transferase, MBOAT
+OIT94967	Type III pantothenate kinase
+OIT94608	Small multidrug resistance protein family
+OIT93918	Restriction endonuclease, type II, Pab1
+OIT94100	Uncharacterised protein family UPF0763
+OIT94625	Helicase/UvrB, N-terminal
+OIT95399	YqaJ viral recombinase
+OIT95178	Mur ligase, central,Mur ligase, C-terminal
+OIT95559	Acetyl-coA carboxylase zinc finger domain,Acetyl-CoA carboxylase
+OIT95844	Uncharacterised protein family UPF0114
+OIT96138	Aspartate/glutamate/uridylate kinase
+OIT94429	Domain of unknown function DUF306, Meta/HslJ
+OIT94669	ABC transporter type 1, transmembrane domain MetI-like
+OIT94148	Transcription factor zinc-finger
+OIT94850	Carbonic anhydrase
+OIT90605	6-hydroxymethylpterin diphosphokinase MptE-like
+OIT94602	Chorismate mutase II, prokaryotic-type,Prephenate dehydratase
+OIT93754	DapA-like
+OIT94756	Cys/Met metabolism, pyridoxal phosphate-dependent enzyme
+OIT94791	C4-dicarboxylate anaerobic carrier-like
+OIT95878	Amidase signature domain
+OIT94654	Sodium:neurotransmitter symporter
+OIT94201	Serine hydroxymethyltransferase-like domain
+OIT94449	tRNA (Mo5U34)-methyltransferase-like
+OIT94523	Ribosomal protein L3
+OIT94215	SprA-related family
+OIT94598	Flagellar assembly protein FliH/Type III secretion system HrpE
+OIT95350	PDZ domain,Tail specific protease
+OIT95517	Fumarase C, C-terminal,Fumarate lyase, N-terminal
+OIT95641	MerR-type HTH domain
+OIT95647	Helicase/UvrB, N-terminal,Type I restriction enzyme R protein, N-terminal domain,EcoEI R protein C-terminal domain
+OIT93751	Metallo-beta-lactamase
+OIT93033	-
+OIT94886	NYN domain, limkain-b1-type,OST-HTH/LOTUS domain
+OIT96431	Ribosomal RNA methyltransferase FtsJ domain
+OIT95046	Glutathionylspermidine synthase, pre-ATP-grasp-like domain
+OIT94168	N-acetylneuraminic acid synthase, N-terminal,SAF domain
+OIT96095	DnaJ domain,Chaperone DnaJ, C-terminal
+OIT94563	Sodium:dicarboxylate symporter
+OIT95158	Helix-hairpin-helix motif,HhH-GPD domain
+OIT95888	Domain of unknown function DUF302
+OIT94412	Transglycosylase SLT domain 1
+OIT93444	Type IV conjugative transfer system protein TraH
+OIT95678	Orn/DAP/Arg decarboxylase 2, C-terminal
+OIT93589	ABC transporter, permease protein, BtuC-like
+OIT95134	ATP phosphoribosyltransferase, catalytic domain,Histidine biosynthesis HisG, C-terminal
+OIT94329	Restriction endonuclease, type I, HsdS
+OIT95212	UDP-N-acetylenolpyruvoylglucosamine reductase, C-terminal
+OIT94892	Transporter-associated domain,CNNM, transmembrane domain,CBS domain,CBS domain
+OIT96348	Aliphatic acid kinase, short-chain
+OIT94441	Uracil-DNA glycosylase-like
+OIT95880	Aminoacyl-tRNA synthetase, class Ia,Methionyl/Valyl/Leucyl/Isoleucyl-tRNA synthetase, anticodon-binding
+OIT95671	HNH nuclease,RuvC endonuclease subdomain 3,RuvC endonuclease subdomain 3
+OIT94166	Beta-1,4-N-acetylgalactosaminyltransferase
+OIT94121	Protein of unknown function DUF2920
+OIT95017	Tail tube protein
+OIT94242	ABC transporter-like
+OIT95839	ABC transporter, permease
+OIT94182	Polysaccharide biosynthesis protein, CapD-like domain
+OIT94099	Radical SAM,HemN, C-terminal
+OIT94383	Short-chain dehydrogenase/reductase SDR
+OIT94236	Globin
+OIT91284	6-hydroxymethylpterin diphosphokinase MptE-like
+OIT96317	Flagellin, D0/D1 domain
+OIT93759	Peptidoglycan biosynthesis protein MurJ
+OIT92471	Protein of unknown function DUF285
+OIT94780	Radical SAM
+OIT95011	Tail protein I
+OIT93924	Beta-hydroxydecanoyl thiol ester dehydrase, FabA/FabZ
+OIT94732	Methyltransferase type 11
+OIT95893	Outer membrane lipoprotein BamD-like
+OIT91557	Integrase, catalytic domain
+OIT95529	Formyl transferase, C-terminal,Formyl transferase, N-terminal
+OIT95499	Signal recognition particle, SRP54 subunit, GTPase domain
+OIT94129	Aminoglycoside N(3)-acetyltransferase
+OIT96437	ACT domain,CASTOR,  ACT domain,Aspartate/glutamate/uridylate kinase
+OIT95312	Aldehyde dehydrogenase domain
+OIT94141	Cation transporter
+OIT95868	Peptidase M20,Peptidase M20, dimerisation domain
+OIT94839	Major facilitator superfamily
+OIT94844	Ribosomal protein L35
+OIT95510	L-lactate permease
+OIT95236	Ribosomal protein S19/S15
+OIT94276	Thymidine kinase
+OIT96053	Arsenical pump membrane protein,  ArsB
+OIT95061	Glycerol-3-phosphate acyltransferase, PlsY
+OIT96093	OmpR/PhoB-type DNA-binding domain,Signal transduction response regulator, receiver domain
+OIT96399	Acylphosphatase-like domain,HypF, Kae1-like domain,YrdC-like domain,Zinc finger, HypF-type,Zinc finger, HypF-type
+OIT96083	Multi-copper polyphenol oxidoreductase
+OIT95864	Restriction endonuclease, type II, HinP1I
+OIT94661	Phosphoribosyltransferase domain
+OIT94372	DNA/pantothenate metabolism flavoprotein, C-terminal,Flavoprotein
+OIT95136	Imidazoleglycerol-phosphate dehydratase,Polynucleotide kinase 3 phosphatase
+OIT94363	Type VI secretion, TssG-like
+OIT94567	L-asparaginase, N-terminal,Asparaginase/glutaminase, C-terminal
+OIT90496	Toxin-antitoxin system, YafQ-like toxin
+OIT94104	rRNA small subunit methyltransferase G
+OIT95315	Elongation factor P, C-terminal,Translation elongation factor P/YeiP, central,Translation elongation factor, KOW-like
+OIT91168	6-hydroxymethylpterin diphosphokinase MptE-like
+OIT94160	Sugar isomerase (SIS)
+OIT96125	Signal transduction response regulator, receiver domain,OmpR/PhoB-type DNA-binding domain
+OIT94135	SurA N-terminal
+OIT95561	Bacterial surface antigen (D15),POTRA domain, BamA/TamA-like,POTRA domain, BamA/TamA-like,POTRA domain, BamA/TamA-like,POTRA domain, BamA/TamA-like,POTRA domain, BamA/TamA-like
+OIT94133	Biotin/lipoyl attachment
+OIT96310	-
+OIT96046	ABC transporter-like
+OIT93597	D,L-carboxypeptidase, peptidase domain,Metallo-carboxypeptidase, C-terminal domain
+OIT95892	ATPase, AAA-type, core,Peptidase S16, Lon proteolytic domain,Lon, substrate-binding domain
+OIT95358	Ferrochelatase
+OIT92122	Cro/C1-type helix-turn-helix domain
+OIT95658	Nucleotidyl transferase domain
+OIT95226	Ribosomal protein S8
+OIT93436	Pilus assembly TraK
+OIT93934	Zinc/iron permease
+OIT95053	Acriflavin resistance protein
+OIT93920	Rod shape-determining protein MreC
+OIT94440	GNAT domain
+OIT93755	Peptidase M16, C-terminal,Peptidase M16, N-terminal
+OIT92631	Aminotransferase class V domain
+OIT94963	Glu-tRNAGln amidotransferase C subunit
+OIT96359	Potassium-transporting ATPase A chain
+OIT94660	SNARE associated Golgi protein
+OIT94394	Glutamyl/glutaminyl-tRNA synthetase, class Ib, catalytic domain
+OIT95677	Multicopper oxidase, type 1,Multicopper oxidase, type 2,Multicopper oxidase, type 3
+OIT95496	RNA polymerase sigma-70 region 2,RNA polymerase sigma-70 region 4
+OIT96407	Ferritin/DPS protein domain
+OIT94710	Disulphide bond formation protein DsbB/BdbC
+OIT90516	AHH domain-containing protein
+OIT95920	Pseudouridine synthase II, N-terminal
+OIT95039	Oxidoreductase, molybdopterin-binding domain
+OIT96142	tRNA (guanine-N-7) methyltransferase, Trmb type
+OIT95359	Histidine triad (HIT) protein
+OIT95183	ABC transporter permease MalE
+OIT96384	-
+OIT94544	Putative Na+/H+ antiporter, N-terminal,Na+/H+ antiporter, NhaC-like, C-terminal
+OIT94237	FAD-linked oxidase, C-terminal,FAD linked oxidase, N-terminal,4Fe-4S ferredoxin-type, iron-sulphur binding domain
+OIT94533	Aconitase/3-isopropylmalate dehydratase large subunit, alpha/beta/alpha domain
+OIT94255	NADH:quinone oxidoreductase/Mrp antiporter, membrane subunit
+OIT91164	Toxin-antitoxin system, YafQ-like toxin
+OIT95181	Polyprenyl synthetase
+OIT96128	Peptidase A31 family
+OIT94768	Translational (tr)-type GTP-binding domain,Translation elongation factor SelB, winged helix, type 3
+OIT94371	MobA-like NTP transferase,Hexapeptide repeat
+OIT95849	DNA topoisomerase, type IIA, subunit A/C-terminal,DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat,DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat,DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat,DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat,DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat,DNA gyrase/topoisomerase IV, subunit A, C-terminal repeat
+OIT95518	Anaerobic c4-dicarboxylate membrane transporter
+OIT95141	Histidine biosynthesis protein
+OIT94370	Type III secretion system inner membrane P protein
+OIT93756	Dihydroorotate dehydrogenase domain
+OIT96319	DNA polymerase, helix-hairpin-helix motif,DNA polymerase III alpha subunit finger domain,Bacterial DNA polymerase III, alpha subunit, NTPase domain,PHP domain
+OIT95698	Flagellar export FliJ
+OIT94681	L,D-transpeptidase catalytic domain
+OIT95663	Diaminopimelate epimerase, DapF
+OIT96322	Transthyretin/hydroxyisourate hydrolase domain
+OIT94411	Integrase, catalytic domain,Xer recombinase, N-terminal
+OIT95672	CRISPR-associated protein Cas1
+OIT95337	Flagellar basal-body/hook protein, C-terminal domain,Flagellar basal body rod protein, N-terminal
+OIT96415	Polyphosphate kinase-2-related
+OIT94496	Phosphomethylpyrimidine synthase ThiC/5-hydroxybenzimidazole synthase BzaA/B
+OIT94617	ABC transporter type 1, transmembrane domain MetI-like
+OIT94619	Type II CAAX prenyl endopeptidase Rce1-like
+OIT94433	PurM-like, C-terminal domain,Phosphoribosylformylglycinamidine synthase, linker domain,PurM-like, N-terminal domain,PurM-like, N-terminal domain
+OIT94881	GTP cyclohydrolase I domain
+OIT95693	Restriction endonuclease, type I, HsdS
+OIT95870	Sirtuin family
+OIT95323	Tetrapyrrole biosynthesis, glutamyl-tRNA reductase, dimerisation domain,Quinate/shikimate 5-dehydrogenase/glutamyl-tRNA reductase,Glutamyl-tRNA reductase, N-terminal
+OIT92780	Nucleotidyl transferase domain
+OIT92343	6-hydroxymethylpterin diphosphokinase MptE-like
+OIT91841	Protein of unknown function DUF2920
+OIT95563	Peptidase M23
+OIT95229	Ribosomal protein L24,KOW
+OIT96326	-
+OIT94770	4Fe-4S ferredoxin-type, iron-sulphur binding domain
+OIT96320	Arsenate reductase-like
+OIT95852	Translational (tr)-type GTP-binding domain,Elongation factor EFG, domain V-like,Translation elongation factor EFTu-like, domain 2,GTP-binding protein LepA, C-terminal
+OIT92225	GNAT domain
+OIT94853	Ribosome recycling factor domain
+OIT94590	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III, C-terminal,3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+OIT95502	Amidohydrolase-related
+OIT94319	Flavoprotein
+OIT96414	Peptidase M20, dimerisation domain,Peptidase M20
+OIT94626	DNA methylase N-4/N-6
+OIT95718	Pyruvate:ferredoxin oxidoreductase, core domain II,4Fe-4S ferredoxin-type, iron-sulphur binding domain,Pyruvate-flavodoxin oxidoreductase, EKR domain,Pyruvate flavodoxin/ferredoxin oxidoreductase, N-terminal,Pyruvate/ketoisovalerate oxidoreductase, catalytic domain,Thiamine pyrophosphate enzyme, C-terminal TPP-binding
+OIT95683	Cytochrome b561, bacterial/Ni-hydrogenase
+OIT94189	Glycosyltransferase subfamily 4-like, N-terminal domain,Glycosyl transferase, family 1
+OIT95550	Isochorismatase-like
+OIT95700	Protein of unknown function DUF507
+OIT94757	C4-dicarboxylate anaerobic carrier-like
+OIT94325	Aminotransferase, class I/classII
+OIT94656	Phosphoenolpyruvate carboxykinase, ATP-utilising
+OIT94918	Aminotransferase, class I/classII
+OIT96091	Predicted DNA-binding protein, ribbon-helix-helix domain
+OIT95070	Pyridoxal-phosphate dependent enzyme
+OIT95235	Ribosomal protein L22/L17
+OIT96439	Primosomal protein N, C-terminal domain,PriA DNA helicase, Cys-rich region (CRR) domain,DEAD/DEAH box helicase domain,Helicase, C-terminal
+OIT95003	Peptidase M15A, C-terminal
+OIT96395	PurM-like, C-terminal domain,PurM-like, N-terminal domain
+OIT95475	TaqI-like C-terminal specificity domain,Restriction modification methylase Eco57I
+OIT93028	DegT/DnrJ/EryC1/StrS aminotransferase
+OIT94405	Peptidase S26
+OIT96370	Creatinase, N-terminal,Peptidase M24,Peptidase M24, C-terminal domain,-
+OIT94873	Citrate transporter-like domain
+OIT94988	Mor transcription activator
+OIT94174	Peptide methionine sulphoxide reductase MrsB
+OIT96106	Major facilitator superfamily
+OIT96411	Outer membrane efflux protein
+OIT96426	Uncharacterised domain UPF0126
+OIT92953	Sec-independent periplasmic protein translocase TatC
+OIT94309	-
+OIT94386	Methylated-DNA-[protein]-cysteine S-methyltransferase, DNA binding
+OIT96068	Methylenetetrahydrofolate reductase-like
+OIT94684	Sodium:alanine symporter
+OIT94378	Pyridoxal-phosphate dependent enzyme
+OIT96374	Organic solvent tolerance-like, N-terminal
+OIT96340	Flagellar basal-body/hook protein, C-terminal domain,Flagellar basal body rod protein, N-terminal
+OIT94880	ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain,T3SS EscN ATPase, C-terminal
+OIT94178	Peptidase M41,Peptidase M41, FtsH extracellular,AAA ATPase, AAA+ lid domain,ATPase, AAA-type, core
+OIT95900	Thiamine phosphate synthase/TenI
+OIT94399	Major facilitator superfamily
+OIT96307	ABC transporter type 1, transmembrane domain MetI-like
+OIT94331	GrpE nucleotide exchange factor
+OIT96318	Alanine racemase, N-terminal
+OIT95329	Pyruvate flavodoxin/ferredoxin oxidoreductase, N-terminal,Pyruvate:ferredoxin oxidoreductase, core domain II
+OIT94481	ABC transporter type 1, transmembrane domain MetI-like
+OIT94910	Cytochrome c-like domain
+OIT94211	Dynamin superfamily
+OIT94982	-
+OIT96079	FAD-linked oxidase, C-terminal,FAD linked oxidase, N-terminal
+OIT93200	Radical SAM,Methylthiotransferase, N-terminal
+OIT94176	CDP-alcohol phosphatidyltransferase
+OIT94597	Transketolase-like, pyrimidine-binding domain,Deoxyxylulose-5-phosphate synthase,Transketolase, C-terminal domain
+OIT95909	Methionyl/Leucyl tRNA synthetase,Aminoacyl-tRNA synthetase, class Ia,Leucyl-tRNA synthetase, editing domain
+OIT95068	Chemotaxis phosphatase CheX-like domain
+OIT93596	DXP reductoisomerase C-terminal domain,1-deoxy-D-xylulose 5-phosphate reductoisomerase, C-terminal,1-deoxy-D-xylulose 5-phosphate reductoisomerase, N-terminal
+OIT95173	Ribonuclease H domain
+OIT95500	7,8-Dihydro-6-hydroxymethylpterin-pyrophosphokinase, HPPK
+OIT95147	Sulphate adenylyltransferase catalytic domain
+OIT94397	Type III secretion system substrate exporter
+OIT95321	Porphobilinogen deaminase, C-terminal,Porphobilinogen deaminase, N-terminal
+OIT94887	YjeF N-terminal domain,ATP-dependent (S)-NAD(P)H-hydrate dehydratase
+OIT95345	Phospholipid/glycerol acyltransferase
+OIT96357	Potassium-transporting ATPase A chain
+OIT96124	Heat shock protein DnaJ, cysteine-rich domain,DnaJ domain,Chaperone DnaJ, C-terminal
+OIT94510	Pyridoxamine 5'-phosphate oxidase, putative
+OIT94998	Bacteriophage Mu, Gp36
+OIT94539	Crossover junction endodeoxyribonuclease RuvC
+OIT96097	Cation/H+ exchanger,Regulator of K+ conductance, N-terminal
+OIT96331	C4-type zinc ribbon domain
+OIT96338	Glutamine synthetase, catalytic domain,Glutamine synthetase, beta-Grasp domain
+OIT96373	GTP binding domain
+OIT96137	RNA polymerase, subunit omega/K/RPB6
+OIT93448	C-type lectin-like,Type-F conjugative transfer system mating-pair stabilisation protein TraN
+OIT95160	Cytidine and deoxycytidylate deaminase domain
+OIT94253	NADH-ubiquinone oxidoreductase chain 4L/Mnh complex subunit C1-like
+OIT94209	4Fe-4S ferredoxin-type, iron-sulphur binding domain,Succinate dehydogenase/fumarate reductase N-terminal
+OIT94250	NADH:ubiquinone oxidoreductase, subunit 1/F420H2 oxidoreductase subunit H
+OIT94703	Transcription regulator Rrf2
+OIT96132	FAD dependent oxidoreductase,MnmC-like methyltransferase
+OIT96136	TGS,ACT domain,RelA/SpoT,-
+OIT95861	Glycosyltransferase family 28, N-terminal domain,Glycosyl transferase, family 28, C-terminal
+OIT93202	Alpha-2,3-sialyltransferase
+OIT92633	Domain of unknown function DUF234, DEXX-box ATPase C-terminal
+OIT95838	ABC transporter, permease
+OIT94203	Sporulation-like domain
+OIT94155	Heavy metal-associated domain, HMA,-,-,Putative metal-binding domain of cation transport ATPase
+OIT94522	Ribosomal protein L4/L1e
+OIT94501	Chemoreceptor zinc-binding domain,Methyl-accepting chemotaxis protein (MCP) signalling domain
+OIT94896	ABC transporter-like
+OIT94317	Lipoprotein NlpA family
+OIT96042	Sec-independent protein translocase protein TatA/B/E
+OIT96094	-,PDZ domain,PDZ domain
+OIT95074	D12 class N6 adenine-specific DNA methyltransferase
+OIT96086	GroES chaperonin family
+OIT94313	NIL domain,ABC transporter-like
+OIT94771	Esterase-like
+OIT96398	CobW/HypB/UreG, nucleotide-binding domain
+OIT95724	Type II secretion system protein GspF domain
+OIT95922	GHMP kinase N-terminal domain
+OIT95877	IMP dehydrogenase/GMP reductase,CBS domain,CBS domain
+OIT96121	Major facilitator superfamily
+OIT94196	Beta-1,4-N-acetylgalactosaminyltransferase
+OIT95065	Ppx/GppA phosphatase
+OIT94453	Peptidase M20
+OIT94159	Carbohydrate kinase PfkB,Cytidyltransferase-like domain
+OIT95353	Glycosyl transferase, family 51,Penicillin-binding protein, transpeptidase
+OIT94261	WGR domain
+OIT95491	LOG family
+OIT94439	Ribosomal protein L34
+OIT96066	Lipoprotein NlpA family
+OIT94504	Beta-ketoacyl synthase, N-terminal,Beta-ketoacyl synthase, C-terminal
+OIT95237	Ribosomal Proteins L2, RNA binding domain,Ribosomal protein L2, C-terminal

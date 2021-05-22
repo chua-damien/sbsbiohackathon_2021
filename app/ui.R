@@ -27,7 +27,7 @@ ui <-shinyUI(
             titlePanel(
                              
             tags$h1(HTML(paste0("Megacephalus - ", tags$i("Campylobacter jejuni"))), align = "center")),
-        includeHTML("C:/Users/Damien/Documents/NTU/_Biohackathon2021/app/homepage.html"))
+        includeHTML("C:/Users/Damien/Documents/NTU/_Biohackathon2021/app/homepagev3.html"))
         ),
         
         tabPanel(title = "Gene Counts",

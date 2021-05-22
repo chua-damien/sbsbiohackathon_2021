@@ -1,3 +1,8 @@
+To run shiny R app: 
+-Access ui.R, server.R scripts and load all_data.RData into environment 
+-Run app.R script
+
+
 Documents in this folder: 
 
 1. _code for DEG analysis: contains code for DEG analysis
